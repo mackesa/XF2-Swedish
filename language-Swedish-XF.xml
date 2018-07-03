@@ -753,50 +753,50 @@ If you have edited these files yourself, you may ignore this message, otherwise 
   <phrase title="close_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stäng tråd]]></phrase> <!-- (C) Original: Close thread -->
   <phrase title="closed_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avslutade rapporter]]></phrase> <!-- (C) Original: Closed reports -->
   <phrase title="closed_reports_x_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Slutna rapporter: {from} - {to}]]></phrase> <!-- (C) Original: Closed reports: {from} - {to} -->
-  <phrase title="code" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Koda]]></phrase> <!-- (C) Original: Code -->
+  <phrase title="code" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Källkod]]></phrase>
   <phrase title="code_event_execution_order_desc" addon_id="XF" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[Lägre körningsorder kommer att köras först. Observera att lyssnare som anger en händelseanvisning alltid kommer att följa efter lyssnare som inte gör det.]]></phrase> <!-- (C) Original: Lower execution orders will run first. Note that listeners that specify an event hint will always run after listeners that don't. -->
   <phrase title="code_event_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[Kodevenemangsidentifieringar måste vara unika. Det angivna IDet används redan.]]></phrase> <!-- (C) Original: Code event IDs must be unique. The specified ID is already in use. -->
   <phrase title="code_event_listener_definitions_must_be_unique" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Kodhändelselyttarnas definitioner måste vara unika.]]></phrase> <!-- (C) Original: Code event listener definitions must be unique. -->
   <phrase title="code_event_listeners" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod händelse lyssnare]]></phrase> <!-- (C) Original: Code event listeners -->
-  <phrase title="code_events" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod händelser]]></phrase> <!-- (C) Original: Code events -->
-  <phrase title="code_language.apacheconf" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Apache config]]></phrase> <!-- (C) Original: Apache config -->
-  <phrase title="code_language.applescript" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Applescript]]></phrase> <!-- (C) Original: AppleScript -->
-  <phrase title="code_language.aspnet" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[]]></phrase> <!-- (C) Original: ASP.net -->
-  <phrase title="code_language.bash" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Våldsamt slag]]></phrase> <!-- (C) Original: Bash -->
-  <phrase title="code_language.c" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C]]></phrase> <!-- (C) Original: C -->
-  <phrase title="code_language.clike" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C-liknande]]></phrase> <!-- (C) Original: C-like -->
-  <phrase title="code_language.coffeescript" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[CoffeeScript]]></phrase> <!-- (C) Original: CoffeeScript -->
-  <phrase title="code_language.cpp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C ++]]></phrase> <!-- (C) Original: C++ -->
-  <phrase title="code_language.csharp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C #]]></phrase> <!-- (C) Original: C# -->
-  <phrase title="code_language.css" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[CSS]]></phrase> <!-- (C) Original: CSS -->
-  <phrase title="code_language.diff" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Diff]]></phrase> <!-- (C) Original: Diff -->
-  <phrase title="code_language.general" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allmän kod]]></phrase> <!-- (C) Original: General code -->
-  <phrase title="code_language.git" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Gå]]></phrase> <!-- (C) Original: Git -->
-  <phrase title="code_language.html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Html]]></phrase> <!-- (C) Original: HTML -->
-  <phrase title="code_language.http" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTTP]]></phrase> <!-- (C) Original: HTTP -->
-  <phrase title="code_language.ini" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[DETTA]]></phrase> <!-- (C) Original: INI -->
-  <phrase title="code_language.java" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Java]]></phrase> <!-- (C) Original: Java -->
-  <phrase title="code_language.javascript" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript]]></phrase> <!-- (C) Original: JavaScript -->
-  <phrase title="code_language.json" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JSON]]></phrase> <!-- (C) Original: JSON -->
-  <phrase title="code_language.jsx" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[JSX]]></phrase> <!-- (C) Original: JSX -->
-  <phrase title="code_language.less" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mindre]]></phrase> <!-- (C) Original: Less -->
-  <phrase title="code_language.makefile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Makefile]]></phrase> <!-- (C) Original: Makefile -->
-  <phrase title="code_language.markdown" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markdown (GitHub smaksatt)]]></phrase> <!-- (C) Original: Markdown (GitHub flavored) -->
-  <phrase title="code_language.nginx" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nginx]]></phrase> <!-- (C) Original: NGINX -->
-  <phrase title="code_language.objectivec" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Objective-C]]></phrase> <!-- (C) Original: Objective-C -->
-  <phrase title="code_language.perl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Perl]]></phrase> <!-- (C) Original: Perl -->
-  <phrase title="code_language.php" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PHP]]></phrase> <!-- (C) Original: PHP -->
-  <phrase title="code_language.python" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pytonorm]]></phrase> <!-- (C) Original: Python -->
-  <phrase title="code_language.rich" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rich (BB-kod)]]></phrase> <!-- (C) Original: Rich (BB code) -->
-  <phrase title="code_language.ruby" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rubin]]></phrase> <!-- (C) Original: Ruby -->
-  <phrase title="code_language.sass" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sass]]></phrase> <!-- (C) Original: Sass -->
-  <phrase title="code_language.scss" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[SCSS]]></phrase> <!-- (C) Original: SCSS -->
-  <phrase title="code_language.sql" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[SQL]]></phrase> <!-- (C) Original: SQL -->
-  <phrase title="code_language.svg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[SVG]]></phrase> <!-- (C) Original: SVG -->
-  <phrase title="code_language.swift" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Snabb]]></phrase> <!-- (C) Original: Swift -->
-  <phrase title="code_language.wiki" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Wiki]]></phrase> <!-- (C) Original: Wiki -->
-  <phrase title="code_language.xml" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XML]]></phrase> <!-- (C) Original: XML -->
-  <phrase title="code_language.yaml" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Yamla]]></phrase> <!-- (C) Original: YAML -->
+  <phrase title="code_events" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kodhändelser]]></phrase>
+  <phrase title="code_language.apacheconf" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Apache config]]></phrase>
+  <phrase title="code_language.applescript" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[AppleScript]]></phrase>
+  <phrase title="code_language.aspnet" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[ASP.net]]></phrase>
+  <phrase title="code_language.bash" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bash]]></phrase>
+  <phrase title="code_language.c" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C]]></phrase>
+  <phrase title="code_language.clike" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C-liknande]]></phrase>
+  <phrase title="code_language.coffeescript" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[CoffeeScript]]></phrase>
+  <phrase title="code_language.cpp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C++]]></phrase>
+  <phrase title="code_language.csharp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C#]]></phrase>
+  <phrase title="code_language.css" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[CSS]]></phrase>
+  <phrase title="code_language.diff" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Diff]]></phrase>
+  <phrase title="code_language.general" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allmän källkod]]></phrase>
+  <phrase title="code_language.git" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Git]]></phrase>
+  <phrase title="code_language.html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML]]></phrase>
+  <phrase title="code_language.http" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTTP]]></phrase>
+  <phrase title="code_language.ini" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[INI]]></phrase>
+  <phrase title="code_language.java" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Java]]></phrase>
+  <phrase title="code_language.javascript" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript]]></phrase>
+  <phrase title="code_language.json" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JSON]]></phrase>
+  <phrase title="code_language.jsx" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[JSX]]></phrase>
+  <phrase title="code_language.less" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Less]]></phrase>
+  <phrase title="code_language.makefile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Makefile]]></phrase>
+  <phrase title="code_language.markdown" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markdown (GitHub flavored)]]></phrase>
+  <phrase title="code_language.nginx" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[NGINX]]></phrase>
+  <phrase title="code_language.objectivec" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Objective-C]]></phrase>
+  <phrase title="code_language.perl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Perl]]></phrase>
+  <phrase title="code_language.php" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PHP]]></phrase>
+  <phrase title="code_language.python" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Python]]></phrase>
+  <phrase title="code_language.rich" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rich ("Rich" BB-kod)]]></phrase>
+  <phrase title="code_language.ruby" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ruby]]></phrase>
+  <phrase title="code_language.sass" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sass]]></phrase>
+  <phrase title="code_language.scss" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[SCSS]]></phrase>
+  <phrase title="code_language.sql" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[SQL]]></phrase>
+  <phrase title="code_language.svg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[SVG]]></phrase>
+  <phrase title="code_language.swift" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Swift]]></phrase>
+  <phrase title="code_language.wiki" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Wiki]]></phrase>
+  <phrase title="code_language.xml" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XML]]></phrase>
+  <phrase title="code_language.yaml" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[YAML]]></phrase>
   <phrase title="code_listeners_extensions_disabled_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kodhändelselysare och tillägg har avaktiverats via config.php. Det här är utformat som en nödåtgärd som låter dig återfå åtkomst till kontrollpanelen om ett tillägg blockerar åtkomst och inaktiverar det. Detta bör inte användas som ett felsökningsverktyg.]]></phrase> <!-- (C) Original: Code event listeners and extensions have been disabled via config.php. This is designed as an emergency measure to allow you to regain access to the control panel if an add-on blocks access and disable it. This should not be used as a debugging tool. -->
   <phrase title="collecting_server_stats" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Samlar serverstatistik.]]></phrase> <!-- (C) Original: Collecting server stats. -->
   <phrase title="color" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Färg]]></phrase> <!-- (C) Original: Color -->
@@ -812,15 +812,15 @@ If you have edited these files yourself, you may ignore this message, otherwise 
   <phrase title="complete_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Komplett import]]></phrase> <!-- (C) Original: Complete import -->
   <phrase title="complete_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Komplett uppgradering]]></phrase> <!-- (C) Original: Complete upgrade -->
   <phrase title="completion_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Slutdatum]]></phrase> <!-- (C) Original: Completion date -->
-  <phrase title="compressed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Komprimerad]]></phrase> <!-- (C) Original: Compressed -->
-  <phrase title="con_acc.facebook" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Facebook]]></phrase> <!-- (C) Original: Facebook -->
-  <phrase title="con_acc.github" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[GitHub]]></phrase> <!-- (C) Original: GitHub -->
-  <phrase title="con_acc.google" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Google]]></phrase> <!-- (C) Original: Google -->
-  <phrase title="con_acc.linkedin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Linkedin]]></phrase> <!-- (C) Original: LinkedIn -->
-  <phrase title="con_acc.microsoft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Microsoft]]></phrase> <!-- (C) Original: Microsoft -->
-  <phrase title="con_acc.twitter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Twitter]]></phrase> <!-- (C) Original: Twitter -->
-  <phrase title="con_acc.yahoo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yahoo]]></phrase> <!-- (C) Original: Yahoo -->
-  <phrase title="con_acc_desc.facebook" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="compressed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Komprimerad]]></phrase>
+  <phrase title="con_acc.facebook" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Facebook]]></phrase>
+  <phrase title="con_acc.github" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[GitHub]]></phrase>
+  <phrase title="con_acc.google" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Google]]></phrase>
+  <phrase title="con_acc.linkedin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Linkedin]]></phrase>
+  <phrase title="con_acc.microsoft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Microsoft]]></phrase>
+  <phrase title="con_acc.twitter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Twitter]]></phrase>
+  <phrase title="con_acc.yahoo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yahoo]]></phrase>
+  <phrase title="con_acc_desc.facebook" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase> <!-- Tom fras, har något gått fel här? -->
   <phrase title="con_acc_desc.github" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="con_acc_desc.google" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="con_acc_desc.linkedin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
@@ -895,7 +895,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
   <phrase title="context_param_names_may_only_contain_alphanumeric_underscore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontextparametrar kan bara innehålla A-Z, 0-9 och understreck.]]></phrase> <!-- (C) Original: Context param names may only contain A-Z, 0-9 and underscores. -->
   <phrase title="context_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontextvärde]]></phrase> <!-- (C) Original: Context value -->
   <phrase title="context_value_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alla värden du anger här kommer att skickas till din "call back" för att ge ytterligare sammanhang.]]></phrase> <!-- (C) Original: Any value you enter here will be passed to your callback to provide additional context. -->
-  <phrase title="continue" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Fortsätta]]></phrase> <!-- (C) Original: Continue -->
+  <phrase title="continue" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Fortsätt]]></phrase>
   <phrase title="continue_reading" addon_id="XF" global_cache="1" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Fortsätt läsa...]]></phrase> <!-- (C) Original: Continue reading... -->
   <phrase title="contributed_to" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bidrog till]]></phrase> <!-- (C) Original: Contributed to -->
   <phrase title="control_how_example_appear_on_bb_code_help_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontrollera hur exemplet kommer att visas på BB-kodens hjälpsida. Om en utmatning inte anges, kommer exemplet att göras istället.]]></phrase> <!-- (C) Original: Control how the example will appear on the BB code help page. If an output is not entered, the example will be rendered instead. -->
