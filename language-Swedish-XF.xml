@@ -5189,8 +5189,8 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
   <phrase title="underline" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Understrykning]]></phrase> <!-- (C) Original: Underline -->
   <phrase title="undiscourage_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undiscourage användare]]></phrase> <!-- (C) Original: Undiscourage users -->
   <phrase title="undo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ångra]]></phrase> <!-- (C) Original: Undo -->
-  <phrase title="uneditable_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Otänkbara taggar]]></phrase> <!-- (C) Original: Uneditable tags -->
-  <phrase title="unexpected_contents" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oväntat innehåll]]></phrase> <!-- (C) Original: Unexpected contents -->
+  <phrase title="uneditable_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ej redigerbara taggar]]>
+  <phrase title="unexpected_contents" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oväntat innehåll]]></phrase>
   <phrase title="unexpected_error_occurred" addon_id="XF" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Ett oväntat fel uppstod. Vänligen försök igen senare.]]></phrase> <!-- (C) Original: An unexpected error occurred. Please try again later. -->
   <phrase title="unfollow" addon_id="XF" global_cache="1" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Sluta följa]]></phrase> <!-- (C) Original: Unfollow -->
   <phrase title="unfortunately_none_of_your_content_has_received_any_likes_yet" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Tyvärr har inget av innehållet fått något som helst än. Du måste behålla posten!]]></phrase> <!-- (C) Original: Unfortunately, none of your content has received any likes yet. You'll need to keep posting! -->
