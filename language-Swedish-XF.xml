@@ -5241,12 +5241,12 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
   <phrase title="unsubscribe_from_mailing_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avsluta prenumerationslistan]]></phrase> <!-- (C) Original: Unsubscribe from mailing list -->
   <phrase title="unsubscribe_from_x_mailing_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avsluta prenumerationen från {title} -förteckningen]]></phrase> <!-- (C) Original: Unsubscribe from the {title} mailing list -->
   <phrase title="until" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Fram tills]]></phrase> <!-- (C) Original: Until -->
-  <phrase title="unwatch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unwatch]]></phrase> <!-- (C) Original: Unwatch -->
-  <phrase title="unwatch_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unwatch kategori]]></phrase> <!-- (C) Original: Unwatch category -->
-  <phrase title="unwatch_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unwatch forum]]></phrase> <!-- (C) Original: Unwatch forum -->
-  <phrase title="unwatch_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unwatch tråd]]></phrase> <!-- (C) Original: Unwatch thread -->
-  <phrase title="update" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Uppdatering]]></phrase> <!-- (C) Original: Update -->
-  <phrase title="update_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uppdatera trådar]]></phrase> <!-- (C) Original: Update threads -->
+  <phrase title="unwatch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sluta bevaka]]></phrase>
+  <phrase title="unwatch_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sluta bevaka kategori]]></phrase>
+  <phrase title="unwatch_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sluta bevaka forum]]></phrase>
+  <phrase title="unwatch_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sluta bevaka tråd]]></phrase>
+  <phrase title="update" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Uppdatera]]></phrase>
+  <phrase title="update_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uppdatera trådar]]></phrase>
   <phrase title="update_user_titles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uppdatera användartitlar]]></phrase> <!-- (C) Original: Update user titles -->
   <phrase title="update_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uppdatera användare]]></phrase> <!-- (C) Original: Update users -->
   <phrase title="update_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uppdatera varning]]></phrase> <!-- (C) Original: Update warning -->
