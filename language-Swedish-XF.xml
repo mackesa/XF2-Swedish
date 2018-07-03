@@ -2113,17 +2113,17 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="like_counts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Antal gillanden]]></phrase> <!-- (C) Original: Like counts -->
   <phrase title="like_message_ratio_explanation" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En användare med 10 inlägg och 5 gillanden kommer att ha ett förhållande på 0,5.]]></phrase> <!-- (C) Original: A user with 10 messages and 5 likes will have a ratio of 0.5. -->
   <phrase title="likes" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Gillar]]></phrase> <!-- (C) Original: Likes -->
-  <phrase title="likes.1_person" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 person]]></phrase> <!-- (C) Original: 1 person -->
+  <phrase title="likes.1_person" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 medlem]]></phrase> <!-- (C) Original: 1 person -->
   <phrase title="likes.deleted_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(borttagen medlem)]]></phrase> <!-- (C) Original: (deleted member) -->
-  <phrase title="likes.user1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}]]></phrase> <!-- (C) Original: {user1} -->
-  <phrase title="likes.user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1} och {user2}]]></phrase> <!-- (C) Original: {user1} and {user2} -->
-  <phrase title="likes.user1_user2_and_user3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2} och {user3}]]></phrase> <!-- (C) Original: {user1}, {user2} and {user3} -->
-  <phrase title="likes.user1_user2_user3_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} och 1 annan person]]></phrase> <!-- (C) Original: {user1}, {user2}, {user3} and 1 other person -->
-  <phrase title="likes.user1_user2_user3_and_x_others" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} och {others} andra]]></phrase> <!-- (C) Original: {user1}, {user2}, {user3} and {others} others -->
+  <phrase title="likes.user1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}]]></phrase>
+  <phrase title="likes.user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1} och {user2}]]></phrase>
+  <phrase title="likes.user1_user2_and_user3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2} och {user3}]]></phrase>
+  <phrase title="likes.user1_user2_user3_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} och 1 annan medlem]]></phrase>
+  <phrase title="likes.user1_user2_user3_and_x_others" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} och {others} andra medlemmar]]></phrase>
   <phrase title="likes.x_people" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{likes} medlemmar]]></phrase> <!-- (C) Original: {likes} people -->
-  <phrase title="likes.you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dig]]></phrase> <!-- (C) Original: You -->
-  <phrase title="likes.you_and_user1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du och {user1}]]></phrase> <!-- (C) Original: You and {user1} -->
-  <phrase title="likes.you_user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1} och {user2}]]></phrase> <!-- (C) Original: You, {user1} and {user2} -->
+  <phrase title="likes.you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du]]></phrase>
+  <phrase title="likes.you_and_user1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du och {user1}]]></phrase>
+  <phrase title="likes.you_user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1} och {user2}]]></phrase>
   <phrase title="likes.you_user1_user2_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1}, {user2} och 1 annan person]]></phrase> <!-- (C) Original: You, {user1}, {user2} and 1 other person -->
   <phrase title="likes.you_user1_user2_and_x_others" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1}, {user2} och {others} andra]]></phrase> <!-- (C) Original: You, {user1}, {user2} and {others} others -->
   <phrase title="likes_counted_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gillanden räknade-status]]></phrase> <!-- (C) Original: Likes counted status -->
