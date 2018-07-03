@@ -2124,8 +2124,8 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="likes.you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du]]></phrase>
   <phrase title="likes.you_and_user1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du och {user1}]]></phrase>
   <phrase title="likes.you_user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1} och {user2}]]></phrase>
-  <phrase title="likes.you_user1_user2_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1}, {user2} och 1 annan person]]></phrase> <!-- (C) Original: You, {user1}, {user2} and 1 other person -->
-  <phrase title="likes.you_user1_user2_and_x_others" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1}, {user2} och {others} andra]]></phrase> <!-- (C) Original: You, {user1}, {user2} and {others} others -->
+  <phrase title="likes.you_user1_user2_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1}, {user2} och 1 annan medlem]]></phrase>
+  <phrase title="likes.you_user1_user2_and_x_others" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1}, {user2} och {others} andra]]></phrase>
   <phrase title="likes_counted_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gillanden räknade-status]]></phrase> <!-- (C) Original: Likes counted status -->
   <phrase title="likes_received" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gillad antal gånger]]></phrase> <!-- (C) Original: Likes received -->
   <phrase title="liking_own_content_cheating" addon_id="XF" version_id="0" version_string=""><![CDATA[Att gilla sitt eget innehåll anses vara fusk.]]></phrase> <!-- (C) Original: Liking your own content is considered cheating. -->
@@ -3829,8 +3829,8 @@ E-post: <a href="mailto:datainspektionen@datainspektionen.se">datainspektionen@d
   <phrase title="rebuild_trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Återuppbygg troféer]]></phrase> <!-- (C) Original: Rebuild trophies -->
   <phrase title="rebuild_user_caches" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Återuppbygg "användarcacher"]]></phrase> <!-- (C) Original: Rebuild user caches -->
   <phrase title="rebuild_user_group_promotions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Återuppbygg användargruppskampanjer]]></phrase> <!-- (C) Original: Rebuild user group promotions -->
-  <phrase title="rebuilding" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Återuppbygg]]></phrase> <!-- (C) Original: Rebuilding -->
-    <phrase title="recaptcha_config_hint" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Ingen extra konfiguration krävs för denna CAPTCHA. Men om du vill ha ytterligare funktioner, till exempel säkerhetsinställningar och analyser, borde du skaffa egna API-nycklar från <a href="https://www.google.com/recaptcha" target="_blank">https://www.google.com/recaptcha</a> och ange dem nedan.<br />
+  <phrase title="rebuilding" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Återuppbygger]]></phrase>
+  <phrase title="recaptcha_config_hint" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Ingen extra konfiguration krävs för denna CAPTCHA. Men om du vill ha ytterligare funktioner, till exempel säkerhetsinställningar och analyser, borde du skaffa egna API-nycklar från <a href="https://www.google.com/recaptcha" target="_blank">https://www.google.com/recaptcha</a> och ange dem nedan.<br />
 <br />
 <strong> Obs!</strong> Du måste också använda egna API-nycklar och explicit aktivera osynligt läge om du vill använda "osynlig reCAPTCHA".]]></phrase>
   <phrase title="receipt_for_your_account_upgrade_at_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kvitto för din kontouppgradering på {board_title}]]></phrase> <!-- (C) Original: Receipt for your account upgrade at {board_title} -->
@@ -5189,7 +5189,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
   <phrase title="underline" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Understrykning]]></phrase> <!-- (C) Original: Underline -->
   <phrase title="undiscourage_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undiscourage användare]]></phrase> <!-- (C) Original: Undiscourage users -->
   <phrase title="undo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ångra]]></phrase> <!-- (C) Original: Undo -->
-  <phrase title="uneditable_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ej redigerbara taggar]]>
+  <phrase title="uneditable_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ej redigerbara taggar]]></phrase>
   <phrase title="unexpected_contents" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oväntat innehåll]]></phrase>
   <phrase title="unexpected_error_occurred" addon_id="XF" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Ett oväntat fel uppstod. Vänligen försök igen senare.]]></phrase> <!-- (C) Original: An unexpected error occurred. Please try again later. -->
   <phrase title="unfollow" addon_id="XF" global_cache="1" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Sluta följa]]></phrase> <!-- (C) Original: Unfollow -->
