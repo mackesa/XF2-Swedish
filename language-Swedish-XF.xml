@@ -1885,21 +1885,21 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="inline_moderation_move_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inline moderering - Flytta inlägg]]></phrase> <!-- (C) Original: Inline moderation - Move posts -->
   <phrase title="inline_moderation_move_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inline moderering - Flytta tråden]]></phrase> <!-- (C) Original: Inline moderation - Move threads -->
   <phrase title="inline_moderation_thread_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inline moderering - Applicera trådprefix]]></phrase> <!-- (C) Original: Inline moderation - Apply thread prefix -->
-  <phrase title="insert" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Föra in]]></phrase> <!-- (C) Original: Insert -->
-  <phrase title="insert_all" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sätt in allt]]></phrase> <!-- (C) Original: Insert all -->
-  <phrase title="insert_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga kod]]></phrase> <!-- (C) Original: Insert code -->
-  <phrase title="insert_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga bild]]></phrase> <!-- (C) Original: Insert image -->
-  <phrase title="insert_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga länk]]></phrase> <!-- (C) Original: Insert link -->
-  <phrase title="insert_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sätt i media]]></phrase> <!-- (C) Original: Insert media -->
-  <phrase title="insert_quotes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga citat]]></phrase> <!-- (C) Original: Insert quotes -->
-  <phrase title="insert_spoiler" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sätt in spoilern]]></phrase> <!-- (C) Original: Insert spoiler -->
-  <phrase title="install" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installera]]></phrase> <!-- (C) Original: Install -->
-  <phrase title="installable_add_ons" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installerbara tillägg]]></phrase> <!-- (C) Original: Installable add-ons -->
-  <phrase title="installed_add_ons" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installerade tillägg]]></phrase> <!-- (C) Original: Installed add-ons -->
-  <phrase title="installing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installera]]></phrase> <!-- (C) Original: Installing -->
-  <phrase title="integer" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Heltal]]></phrase> <!-- (C) Original: Integer -->
-  <phrase title="interact" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Påverka varandra]]></phrase> <!-- (C) Original: Interact -->
-  <phrase title="interface_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gränssnittskoncern]]></phrase> <!-- (C) Original: Interface group -->
+  <phrase title="insert" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Infoga]]></phrase>
+  <phrase title="insert_all" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga allt]]></phrase>
+  <phrase title="insert_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga kod]]></phrase>
+  <phrase title="insert_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga bild]]></phrase>
+  <phrase title="insert_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga länk]]></phrase>
+  <phrase title="insert_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga media]]></phrase>
+  <phrase title="insert_quotes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga citat]]></phrase>
+  <phrase title="insert_spoiler" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Infoga spoiler]]></phrase>
+  <phrase title="install" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installera]]></phrase>
+  <phrase title="installable_add_ons" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installerbara add-on:er]]></phrase>
+  <phrase title="installed_add_ons" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installerade add-on:er]]></phrase>
+  <phrase title="installing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installerar]]></phrase>
+  <phrase title="integer" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Heltal]]></phrase>
+  <phrase title="interact" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Interagera]]></phrase>
+  <phrase title="interface_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gränssnittsgrupp]]></phrase> <!-- (C) Original: Interface group -->
   <phrase title="interface_group_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gränssnitt grupp ID]]></phrase> <!-- (C) Original: Interface group ID -->
   <phrase title="internal_data_directory" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Intern datakatalog]]></phrase> <!-- (C) Original: Internal data directory -->
   <phrase title="invalid_callback" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Ogiltig "call back"]]></phrase> <!-- (C) Original: Invalid callback -->
