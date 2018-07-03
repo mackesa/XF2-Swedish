@@ -1,68 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  Svensk språkfil för xenForo 2.x
+  Senaste version finns på https://github.com/thaisnack/XF2-Swedish/
+
+  Vi har utgått från den engelska språkfilen och maskinöversatt den. Tack till suriya1977 för detta!
+  I samband med detta lades kommentarer in för att visa den ursprungliga engelska texten.
+  Kommentarerna är användbara men har gjort att språkfilen växt i storlek så att GitHUB inte klarar av att visa diffar med mera.
+  Det är en begränsning. Vi uppmanar därför till att ta bort kommentarerna så fort en sträng har verifierats manuellt och
+  att man är säker på att översättningen är bra.
+
+  Om du önskar hjälpa till med att förbättra denna språkfil eller har frågor så finns det en tråd för detta på
+  https://thaisnack.se/threads/hjaelp-oss-oeversaetta-forumet-till-perfekt-svenska.13627/
+
+  Där kan du även läsa om riktlinjer med mera.
+-->
 <language title="Svenska" date_format="j F Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="sv-SE" text_direction="LTR" addon_id="XF" export_version="2">
-  <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En dag sedan]]></phrase> <!-- (M) Original: One day ago | Computer: För en dag sen -->
-  <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En månad sedan]]></phrase> <!-- (M) Original: One month ago | Computer: En månad sedan -->
-  <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 gång]]></phrase> <!-- (M) Original: 1 time | Computer: En gång -->
-  <phrase title="1_week_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En vecka sedan]]></phrase> <!-- (M) Original: One week ago | Computer: En vecka sedan -->
-  <phrase title="1_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 år]]></phrase> <!-- (M) Original: 1 year | Computer: 1 år -->
-  <phrase title="1_year_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Ett år sedan]]></phrase> <!-- (M) Original: One year ago | Computer: Ett år sedan -->
-  <phrase title="2_weeks_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Två veckor sedan]]></phrase> <!-- (M) Original: Two weeks ago | Computer: Två veckor sedan -->
-  <phrase title="2_years_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Två år sedan]]></phrase> <!-- (M) Original: Two years ago | Computer: Två år sedan -->
+  <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En dag sedan]]></phrase>
+  <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En månad sedan]]></phrase>
+  <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 gång]]></phrase>
+  <phrase title="1_week_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En vecka sedan]]></phrase>
+  <phrase title="1_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 år]]></phrase>
+  <phrase title="1_year_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Ett år sedan]]></phrase>
+  <phrase title="2_weeks_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Två veckor sedan]]></phrase>
+  <phrase title="2_years_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Två år sedan]]></phrase>
   <phrase title="2x_image_replacement_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[2x bild ersättnings-URL]]></phrase> <!-- (M) Original: 2x image replacement URL | Computer: 2x bildbytesadress -->
   <phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Om angivet så kommer 2x-bilden automatiskt att visas istället för bild-URL:en på enheter som har stöd för högre bildupplösning.<br />
 <br />
 <strong>Obs: Det här alternativet har ingen effekt med aktiverat sprite-läge.</strong>]]></phrase>
-  <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Tre månader sedan]]></phrase> <!-- (M) Original: Three months ago | Computer: Tre månader sedan -->
-  <phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Sex månader sedan]]></phrase> <!-- (M) Original: Six months ago | Computer: Sex månader sedan -->
-  <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nio månader sedan]]></phrase> <!-- (M) Original: Nine months ago | Computer: Nio månader sedan -->
-  <phrase title="a_moment_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Alldeles nyligen]]></phrase> <!-- (M) Original: A moment ago | Computer: En stund sedan -->
-  <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enbart A-Z, 0-9, och _]]></phrase> <!-- (M) Original: A-Z, 0-9, and _ only | Computer: A-Z, 0-9, och _ bara -->
-  <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enbart A-Z, a-z, 0-9, och _]]></phrase> <!-- (M) Original: A-Z, a-z, 0-9, and _ only | Computer: A-Z, a-z, 0-9 och _ bara -->
-  <phrase title="about" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Om]]></phrase> <!-- (M) Original: About | Computer: Handla om -->
-  <phrase title="about_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Om dig]]></phrase> <!-- (M) Original: About you | Computer: Om dig -->
+  <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Tre månader sedan]]></phrase>
+  <phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Sex månader sedan]]></phrase>
+  <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nio månader sedan]]></phrase>
+  <phrase title="a_moment_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Nyss]]></phrase>
+  <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enbart A-Z, 0-9, och _]]></phrase>
+  <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enbart A-Z, a-z, 0-9, och _]]></phrase>
+  <phrase title="about" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Om]]></phrase>
+  <phrase title="about_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Om dig]]></phrase>
   <phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent]]></phrase> <!-- (C) Original: Accent -->
   <phrase title="accept" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Godkänn]]></phrase> <!-- (M) Original: Accept | Computer: Acceptera -->
-  <phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Samtyck till framtida meddelanden]]></phrase> <!-- (M) Original: Accept future messages | Computer: Godta framtida meddelanden -->
-  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Har samtyckt till integritetspolicyn]]></phrase> <!-- (M) Original: Accepted privacy policy | Computer: Godkänd sekretesspolicy -->
-  <phrase title="accepted_terms_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Har samtyckt till medlemsvillkoren]]></phrase> <!-- (M) Original: Accepted terms and rules | Computer: Godkända villkor och regler -->
-  <phrase title="account_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontouppgifter]]></phrase> <!-- (C) Original: Account details -->
-  <phrase title="account_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontouppgradering]]></phrase> <!-- (C) Original: Account upgrade -->
-  <phrase title="account_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontouppgraderingar]]></phrase> <!-- (C) Original: Account upgrades -->
-  <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Kontouppgraderingar kan inte köpas när ditt konto inte är bekräftat.]]></phrase> <!-- (C) Original: Account upgrades cannot be purchased while your account is unconfirmed. -->
-  <phrase title="action" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Handling]]></phrase> <!-- (C) Original: Action -->
-  <phrase title="action_available_via_post_only" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Den här åtgärden är tillgänglig endast via POST. Vänligen tryck på tillbaka-knappen och försök igen.]]></phrase> <!-- (C) Original: This action is available via POST only. Please press the back button and try again. -->
-  <phrase title="action_not_completed_because_no_longer_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Den här åtgärden kunde inte slutföras eftersom du inte längre är inloggad. Vänligen ladda om sidan.]]></phrase> <!-- (C) Original: This action could not be completed because you are no longer logged in. Please reload the page. -->
-  <phrase title="action_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Åtgärdsprefix]]></phrase> <!-- (C) Original: Action prefix -->
-  <phrase title="action_to_take" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Åtgärd att ta]]></phrase> <!-- (C) Original: Action to take -->
-  <phrase title="actions" addon_id="XF" global_cache="1" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Handlingar]]></phrase> <!-- (C) Original: Actions -->
+  <phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Samtyck till framtida meddelanden]]></phrase>
+  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Har samtyckt till integritetspolicyn]]></phrase>
+  <phrase title="accepted_terms_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Har samtyckt till medlemsvillkoren]]></phrase>
+  <phrase title="account_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontouppgifter]]></phrase>
+  <phrase title="account_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontouppgradering]]></phrase>
+  <phrase title="account_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontouppgraderingar]]></phrase>
+  <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Kontouppgraderingar kan inte köpas när ditt konto inte är bekräftat.]]></phrase>
+  <phrase title="action" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Handling]]></phrase>
+  <phrase title="action_available_via_post_only" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Den här åtgärden är tillgänglig endast via POST. Vänligen tryck på tillbaka-knappen och försök igen.]]></phrase>
+  <phrase title="action_not_completed_because_no_longer_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Den här åtgärden kunde inte slutföras eftersom du inte längre är inloggad. Vänligen ladda om sidan.]]></phrase>
+  <phrase title="action_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Åtgärdsprefix]]></phrase>
+  <phrase title="action_to_take" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Åtgärd att utföra]]></phrase> <!-- (C) Original: Action to take -->
+  <phrase title="actions" addon_id="XF" global_cache="1" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Åtgärder]]></phrase> <!-- (C) Original: Actions -->
   <phrase title="active_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktiva leverantörer]]></phrase> <!-- (C) Original: Active providers -->
-  <phrase title="active_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktiva rapporter]]></phrase> <!-- (C) Original: Active reports -->
+  <phrase title="active_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktiva rapporter]]></phrase>
   <phrase title="active_user_changed_reload_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Den aktiva användaren har ändrats. Ladda om sidan för den senaste versionen.]]></phrase> <!-- (C) Original: The active user has changed. Reload the page for the latest version. -->
-  <phrase title="active_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktiva användaruppgraderingar]]></phrase> <!-- (C) Original: Active user upgrades -->
-  <phrase title="ad_pos.container_breadcrumb_bottom_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Containerbrödsmassa (botten): ovan]]></phrase> <!-- (C) Original: Container breadcrumb (bottom): Above -->
-  <phrase title="ad_pos.container_breadcrumb_bottom_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Containerbrödsmjölk (botten): Nedan]]></phrase> <!-- (C) Original: Container breadcrumb (bottom): Below -->
-  <phrase title="ad_pos.container_breadcrumb_top_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Containerbrödcrumb (topp): ovan]]></phrase> <!-- (C) Original: Container breadcrumb (top): Above -->
-  <phrase title="ad_pos.container_breadcrumb_top_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Containerbrödcrumb (topp): Nedan]]></phrase> <!-- (C) Original: Container breadcrumb (top): Below -->
-  <phrase title="ad_pos.container_content_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Behållarens innehåll: ovan]]></phrase> <!-- (C) Original: Container content: Above -->
-  <phrase title="ad_pos.container_content_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Behållarens innehåll: Nedan]]></phrase> <!-- (C) Original: Container content: Below -->
-  <phrase title="ad_pos.container_header" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Containerhuvud]]></phrase> <!-- (C) Original: Container header -->
-  <phrase title="ad_pos.container_sidebar_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sidofält: ovanför]]></phrase> <!-- (C) Original: Container sidebar: Above -->
-  <phrase title="ad_pos.container_sidebar_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Containers sidfält: Nedan]]></phrase> <!-- (C) Original: Container sidebar: Below -->
-  <phrase title="ad_pos.container_sidenav_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sedanav: ovan]]></phrase> <!-- (C) Original: Container sidenav: Above -->
-  <phrase title="ad_pos.container_sidenav_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sedanav: Nedan]]></phrase> <!-- (C) Original: Container sidenav: Below -->
-  <phrase title="ad_pos.forum_overview_bottom" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumöversikt: Bottom]]></phrase> <!-- (C) Original: Forum overview: Bottom -->
-  <phrase title="ad_pos.forum_overview_top" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumöversikt: Top]]></phrase> <!-- (C) Original: Forum overview: Top -->
-  <phrase title="ad_pos.forum_view_above_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Över nodlista]]></phrase> <!-- (C) Original: Forum view: Above node list -->
-  <phrase title="ad_pos.forum_view_above_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Ovanstående trådlista]]></phrase> <!-- (C) Original: Forum view: Above thread list -->
-  <phrase title="ad_pos.forum_view_below_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Nedan nodlista]]></phrase> <!-- (C) Original: Forum view: Below node list -->
-  <phrase title="ad_pos.forum_view_below_stickies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Nedanför klistermärken]]></phrase> <!-- (C) Original: Forum view: Below stickies -->
-  <phrase title="ad_pos.forum_view_below_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Nedan listad trådlista]]></phrase> <!-- (C) Original: Forum view: Below thread list -->
-  <phrase title="ad_pos.member_view_below_tabs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medlemsvy: Nedanför flikar]]></phrase> <!-- (C) Original: Member view: Below tabs -->
-  <phrase title="ad_pos.post_above_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inlägg: Över meddelandets innehåll]]></phrase> <!-- (C) Original: Post: Above message content -->
-  <phrase title="ad_pos.post_below_container" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[Post: Under meddelandebehållaren]]></phrase> <!-- (C) Original: Post: Below message container -->
-  <phrase title="ad_pos.post_below_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inlägg: Nedanför innehållet i meddelandet]]></phrase> <!-- (C) Original: Post: Below message content -->
-  <phrase title="ad_pos.thread_view_above_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trådvy: Över meddelandelistan]]></phrase> <!-- (C) Original: Thread view: Above message list -->
-  <phrase title="ad_pos.thread_view_below_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trådvy: Nedan listningslista]]></phrase> <!-- (C) Original: Thread view: Below message list -->
+  <phrase title="active_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktiva användaruppgraderingar]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_bottom_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container Breadcrumb (botten): Ovanför]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_bottom_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container Breadcrumb (botten): Nedanför]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_top_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container Breadcrumb (topp): Ovanför]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_top_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container Breadcrumb (topp): Nedanför]]></phrase>
+  <phrase title="ad_pos.container_content_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Containerinnehåll: Ovanför]]></phrase>
+  <phrase title="ad_pos.container_content_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Containerinnehåll: Nedanför]]></phrase>
+  <phrase title="ad_pos.container_header" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container huvud]]></phrase> <!-- (C) Original: Container header -->
+  <phrase title="ad_pos.container_sidebar_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sidofält: Ovanför]]></phrase>
+  <phrase title="ad_pos.container_sidebar_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Containers sidofält: Nedanför]]></phrase>
+  <phrase title="ad_pos.container_sidenav_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sid-navigering: Ovanför]]></phrase> <!-- (C) Original: Container sidenav: Above -->
+  <phrase title="ad_pos.container_sidenav_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sid-navigering: Nedanför]]></phrase>
+  <phrase title="ad_pos.forum_overview_bottom" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumöversikt: Botten]]></phrase>
+  <phrase title="ad_pos.forum_overview_top" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumöversikt: Topp]]></phrase>
+  <phrase title="ad_pos.forum_view_above_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Ovanför nodlista]]></phrase>
+  <phrase title="ad_pos.forum_view_above_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Ovanför trådlista]]></phrase>
+  <phrase title="ad_pos.forum_view_below_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Nedanför nodlista]]></phrase>
+  <phrase title="ad_pos.forum_view_below_stickies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Nedanför klistrade ämnen]]></phrase> <!-- (C) Original: Forum view: Below stickies -->
+  <phrase title="ad_pos.forum_view_below_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumvy: Nedanför trådlista]]></phrase>
+  <phrase title="ad_pos.member_view_below_tabs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medlemsvy: Nedanför flikar]]></phrase>
+  <phrase title="ad_pos.post_above_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inlägg: Ovanför meddelandeinnehåll]]></phrase>
+  <phrase title="ad_pos.post_below_container" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[Post: Nedanför meddelandecontainern]]></phrase>
+  <phrase title="ad_pos.post_below_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inlägg: Nedanför meddelandeinnehåll]]></phrase>
+  <phrase title="ad_pos.thread_view_above_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trådvy: Ovanför meddelandelistan]]></phrase>
+  <phrase title="ad_pos.thread_view_below_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trådvy: Nedanför meddelandelistan]]></phrase>
   <phrase title="ad_pos_desc.container_breadcrumb_bottom_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inne i sidbehållaren, direkt ovanför bottenbrödskummen på varje sida.]]></phrase> <!-- (C) Original: Inside the page container, directly above the bottom breadcrumb on every page. -->
   <phrase title="ad_pos_desc.container_breadcrumb_bottom_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inne i sidbehållaren, direkt under bottenbröd på varje sida.]]></phrase> <!-- (C) Original: Inside the page container, directly below the bottom breadcrumb on every page. -->
   <phrase title="ad_pos_desc.container_breadcrumb_top_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inne i sidbehållaren, direkt ovanför den övre brödkorgen på varje sida.]]></phrase> <!-- (C) Original: Inside the page container, directly above the top breadcrumb on every page. -->
