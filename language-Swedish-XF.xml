@@ -21,6 +21,7 @@
 	Breadcrumb: Navigationselement
 	Privacy policy: Integritetspolicy
 	Terms and rules: Medlemsvillkor
+	User: Medlem (om det är en medlem och inte gäst)
 
 	Manuell kontroll av översatta fraser
 	===================================
@@ -53,11 +54,9 @@
 	<phrase title="2_years_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
 		><![CDATA[Två år sedan]]></phrase>
 	<phrase title="2x_image_replacement_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[2x bild ersättnings-URL]]></phrase>
-	<!-- (M) Original: 2x image replacement URL | Computer: 2x bildbytesadress -->
-
+		><![CDATA[URL för bild med dubbel upplösning]]></phrase>
 	<phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Om angivet så kommer 2x-bilden automatiskt att visas istället för bild-URL:en på enheter som har stöd för högre bildupplösning.<br /><br /><strong>Obs: Det här alternativet har ingen effekt med aktiverat sprite-läge.</strong>]]></phrase>
+		><![CDATA[Om angivet så kommer bilden med dubbel upplösning att visas istället för bild-URL:en på enheter som har stöd för högre bildupplösning.<br /><br /><strong>Obs: Det här alternativet har ingen effekt om sprite-läge är aktiverat.</strong>]]></phrase>
 	<phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
 		><![CDATA[Tre månader sedan]]></phrase>
 	<phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -109,9 +108,9 @@
 	<phrase title="active_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Aktiva rapporter]]></phrase>
 	<phrase title="active_user_changed_reload_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Den aktiva användaren har ändrats. Ladda om sidan.]]></phrase>
+		><![CDATA[Den aktiva medlemmen har ändrats. Ladda om sidan.]]></phrase>
 	<phrase title="active_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Aktiva användaruppgraderingar]]></phrase>
+		><![CDATA[Aktiva medlemsuppgraderingar]]></phrase>
 	<phrase title="ad_pos.container_breadcrumb_bottom_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Container navigationselement (botten): Ovanför]]></phrase>
 	<phrase title="ad_pos.container_breadcrumb_bottom_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -240,8 +239,6 @@
 		><![CDATA[Lägg till bannlysning av e-postadress]]></phrase>
 	<phrase title="add_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till "tillägg"]]></phrase>
-	<!-- (C) Original: Add extension -->
-
 	<phrase title="add_feed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till flöde]]></phrase>
 	<phrase title="add_field" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -290,8 +287,6 @@
 		><![CDATA[Lägg till betalningsprofil]]></phrase>
 	<phrase title="add_permission" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till behörighet]]></phrase>
-	<!-- (C) Original: Add permission -->
-
 	<phrase title="add_phrase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till fras]]></phrase>
 	<phrase title="add_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -304,7 +299,6 @@
 		><![CDATA[Lägg prompt]]></phrase>
 	<phrase title="add_prompt_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till promptgrupp]]></phrase>
-	<!-- (C) Original: Add prompt group -->
 	<phrase title="add_property" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till egenskap]]></phrase>
 	<phrase title="add_property_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -337,137 +331,71 @@
 	<phrase title="add_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till medlemsgrupp]]></phrase>
 	<phrase title="add_user_to_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till användare till medlemsgrupper]]></phrase>
-	<!-- (C) Original: Add user to user groups -->
-
+		><![CDATA[Lägg till medlem till medlemsgrupper]]></phrase>
 	<phrase title="add_user_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till användaruppgradering]]></phrase>
-	<!-- (C) Original: Add user upgrade -->
-
+		><![CDATA[Lägg till medlemsuppgradering]]></phrase>
 	<phrase title="add_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till varning]]></phrase>
-	<!-- (C) Original: Add warning -->
-
 	<phrase title="add_warning_action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till varningsåtgärd]]></phrase>
-	<!-- (C) Original: Add warning action -->
-
 	<phrase title="add_widget" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till widget]]></phrase>
-	<!-- (C) Original: Add widget -->
-
 	<phrase title="add_widget_definition" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till widgetdefinition]]></phrase>
-	<!-- (C) Original: Add widget definition -->
-
 	<phrase title="add_widget_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till widgetposition]]></phrase>
-	<!-- (C) Original: Add widget position -->
-
 	<phrase title="additional_contact" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Ytterligare kontakt]]></phrase>
-	<!-- (C) Original: Additional contact -->
-
 	<phrase title="additional_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Ytterligare medlemsgrupper]]></phrase>
-	<!-- (C) Original: Additional user groups -->
-
 	<phrase title="additional_user_groups_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Anger användaren i de valda grupperna medan uppgraderingen är aktiv.]]></phrase>
-	<!-- (C) Original: Puts the user in the selected groups while the upgrade is active. -->
-
+		><![CDATA[Sätter medlemmen i de valda grupperna medan uppgraderingen är aktiv.]]></phrase>
 	<phrase title="admin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Administration]]></phrase>
-	<!-- (C) Original: Admin -->
-
+		><![CDATA[Administratatör]]></phrase>
 	<phrase title="admin_control_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Admin kontrollpanel]]></phrase>
-	<!-- (C) Original: Admin control panel -->
-
+		><![CDATA[Administratörens kontrollpanel]]></phrase>
 	<phrase title="admin_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Admin logg]]></phrase>
-	<!-- (C) Original: Admin log -->
-
+		><![CDATA[Administratörens logg]]></phrase>
 	<phrase title="admin_log_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Admin-loggpost]]></phrase>
-	<!-- (C) Original: Admin log entry -->
-
+		><![CDATA[Administratörsloggpost]]></phrase>
 	<phrase title="admin_login" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Administratör logga in]]></phrase>
-	<!-- (C) Original: Administrator log in -->
-
+		><![CDATA[Inloggning för administratör]]></phrase>
 	<phrase title="admin_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Admin navigering]]></phrase>
-	<!-- (C) Original: Admin navigation -->
-
+		><![CDATA[Navigering för administratör]]></phrase>
 	<phrase title="admin_navigation.addOns" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Add-ons]]></phrase>
-	<!-- (C) Original: Add-ons -->
-
 	<phrase title="admin_navigation.adminLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Admin logg]]></phrase>
-	<!-- (C) Original: Admin log -->
-
+		><![CDATA[Administratörslogg]]></phrase>
 	<phrase title="admin_navigation.adminNavigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Admin navigering]]></phrase>
-	<!-- (C) Original: Admin navigation -->
-
+		><![CDATA[Administatörsnavigering]]></phrase>
 	<phrase title="admin_navigation.adminPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Administratörsbehörigheter]]></phrase>
-	<!-- (C) Original: Administrator permissions -->
-
 	<phrase title="admin_navigation.admins" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Administratörer]]></phrase>
-	<!-- (C) Original: Administrators -->
-
 	<phrase title="admin_navigation.advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Reklam]]></phrase>
-	<!-- (C) Original: Advertising -->
-
 	<phrase title="admin_navigation.advertisingPositions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Reklampositioner]]></phrase>
-	<!-- (C) Original: Advertising positions -->
-
 	<phrase title="admin_navigation.alertUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Alert användare]]></phrase>
-	<!-- (C) Original: Alert users -->
-
+		><![CDATA[Notifiera medlemmar]]></phrase>
 	<phrase title="admin_navigation.analyzePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Analysera behörigheter]]></phrase>
-	<!-- (C) Original: Analyze permissions -->
-
 	<phrase title="admin_navigation.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Utseende]]></phrase>
-	<!-- (C) Original: Appearance -->
-
 	<phrase title="admin_navigation.attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Bilagor]]></phrase>
-	<!-- (C) Original: Attachments -->
-
 	<phrase title="admin_navigation.bannedEmails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Bannlysta e-postadresser]]></phrase>
-	<!-- (C) Original: Banned emails -->
-
 	<phrase title="admin_navigation.bannedIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Bannlysta IP-adresser]]></phrase>
-	<!-- (C) Original: Banned IP addresses -->
-
 	<phrase title="admin_navigation.bannedUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Bannlysta användare]]></phrase>
-	<!-- (C) Original: Banned users -->
-
+		><![CDATA[Bannlysta medlemmar]]></phrase>
 	<phrase title="admin_navigation.batchUpdateThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Batch Update Threads]]></phrase>
-	<!-- (C) Original: Batch update threads -->
-
+		><![CDATA[Satsvis uppdatering av trådar]]></phrase>
 	<phrase title="admin_navigation.batchUpdateUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Batchuppdateringsanvändare]]></phrase>
-	<!-- (C) Original: Batch update users -->
-
+		><![CDATA[Satsvis uppdatering av medlemmar]]></phrase>
 	<phrase title="admin_navigation.bbCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[BB-kod]]></phrase>
-	<!-- (C) Original: BB code -->
-
 	<phrase title="admin_navigation.bbCodeMediaSites" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[BB-kod media webbplatser]]></phrase>
 	<!-- (C) Original: BB code media sites -->
@@ -497,7 +425,7 @@
 	<!-- (C) Original: Connected accounts -->
 
 	<phrase title="admin_navigation.contactUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Kontakta användare]]></phrase>
+		><![CDATA[Kontakta medlemmar]]></phrase>
 	<!-- (C) Original: Contact users -->
 
 	<phrase title="admin_navigation.content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -509,9 +437,7 @@
 	<!-- (C) Original: Content types -->
 
 	<phrase title="admin_navigation.createNewUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Skapa ny användare]]></phrase>
-	<!-- (C) Original: Create new user -->
-
+		><![CDATA[Skapa ny medlem]]></phrase>
 	<phrase title="admin_navigation.cronEntries" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Cron-poster]]></phrase>
 	<!-- (C) Original: Cron entries -->
@@ -529,13 +455,9 @@
 	<!-- (C) Original: Data portability -->
 
 	<phrase title="admin_navigation.dataPortabilityExport" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Exportera en användare]]></phrase>
-	<!-- (C) Original: Export a user -->
-
+		><![CDATA[Exportera en medlem]]></phrase>
 	<phrase title="admin_navigation.dataPortabilityImport" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Importera en användare]]></phrase>
-	<!-- (C) Original: Import a user -->
-
+		><![CDATA[Importera en medlem]]></phrase>
 	<phrase title="admin_navigation.devNavigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Navigering]]></phrase>
 	<!-- (C) Original: Navigation -->
@@ -557,7 +479,7 @@
 	<!-- (C) Original: Email bounce log -->
 
 	<phrase title="admin_navigation.emailUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[E-postanvändare]]></phrase>
+		><![CDATA[E-posta medlemmar]]></phrase>
 	<!-- (C) Original: Email users -->
 
 	<phrase title="admin_navigation.executionManipulation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -621,9 +543,7 @@
 	<!-- (C) Original: Add-ons -->
 
 	<phrase title="admin_navigation.listAllUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lista alla användare]]></phrase>
-	<!-- (C) Original: List all users -->
-
+		><![CDATA[Lista alla medlemmar]]></phrase>
 	<phrase title="admin_navigation.logs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Loggar]]></phrase>
 	<!-- (C) Original: Logs -->
@@ -653,9 +573,7 @@
 	<!-- (C) Original: Member statistics -->
 
 	<phrase title="admin_navigation.messageUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Meddelande användare]]></phrase>
-	<!-- (C) Original: Message users -->
-
+		><![CDATA[Meddela medlemmar]]></phrase>
 	<phrase title="admin_navigation.moderatorLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Moderator logg]]></phrase>
 	<!-- (C) Original: Moderator log -->
@@ -725,9 +643,7 @@
 	<!-- (C) Original: Rebuild caches -->
 
 	<phrase title="admin_navigation.rejectedUserLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Avvisad användarlogg]]></phrase>
-	<!-- (C) Original: Rejected user log -->
-
+		><![CDATA[Logg över avvisade medlemmar]]></phrase>
 	<phrase title="admin_navigation.routeFilters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Ruttfilter]]></phrase>
 	<!-- (C) Original: Route filters -->
@@ -741,9 +657,7 @@
 	<!-- (C) Original: RSS feed importer -->
 
 	<phrase title="admin_navigation.searchForUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Sök efter användare]]></phrase>
-	<!-- (C) Original: Search for users -->
-
+		><![CDATA[Sök efter medlemmar]]></phrase>
 	<phrase title="admin_navigation.searchPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Sök fraser]]></phrase>
 	<!-- (C) Original: Search phrases -->
@@ -841,71 +755,39 @@
 	<!-- (C) Original: Thread properties -->
 
 	<phrase title="admin_navigation.threadReplyBans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Trådsvarsbannlysning]]></phrase>
-	<!-- (C) Original: Thread reply bans -->
-
+		><![CDATA[Trådsvarsbannlysningar]]></phrase>
 	<phrase title="admin_navigation.tools" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Verktyg]]></phrase>
-	<!-- (C) Original: Tools -->
-
 	<phrase title="admin_navigation.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Troféer]]></phrase>
-	<!-- (C) Original: Trophies -->
-
 	<phrase title="admin_navigation.userChangeLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användarförändringslogg]]></phrase>
-	<!-- (C) Original: User change log -->
-
+		><![CDATA[Logg över medlemsändringar]]></phrase>
 	<phrase title="admin_navigation.userCustomization" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användaranpassning]]></phrase>
-	<!-- (C) Original: User customization -->
-
+		><![CDATA[Medlemsanpassning]]></phrase>
 	<phrase title="admin_navigation.userDiscipline" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användarens disciplin]]></phrase>
-	<!-- (C) Original: User discipline -->
-
+		><![CDATA[Medlemsbestraffning]]></phrase>
 	<phrase title="admin_navigation.userFields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Anpassade användarfält]]></phrase>
-	<!-- (C) Original: Custom user fields -->
-
+		><![CDATA[Anpassade medlemsfält]]></phrase>
 	<phrase title="admin_navigation.userGroupPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Medlemsgruppsbehörigheter]]></phrase>
 	<phrase title="admin_navigation.userGroupPromotions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Medlemsgruppkampanjer]]></phrase>
-	<!-- (C) Original: User group promotions -->
-
 	<phrase title="admin_navigation.userGroups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Medlemsgrupper]]></phrase>
-	<!-- (C) Original: User groups -->
-
 	<phrase title="admin_navigation.userPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användarbehörigheter]]></phrase>
-	<!-- (C) Original: User permissions -->
-
+		><![CDATA[Medlemsbehörigheter]]></phrase>
 	<phrase title="admin_navigation.userTitleLadder" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Användarens titelstege]]></phrase>
-	<!-- (C) Original: User title ladder -->
-
 	<phrase title="admin_navigation.userUpgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användaruppgraderingar]]></phrase>
-	<!-- (C) Original: User upgrades -->
-
+		><![CDATA[Medlemsuppgraderingar]]></phrase>
 	<phrase title="admin_navigation.userWarnings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Varningar]]></phrase>
-	<!-- (C) Original: Warnings -->
-
 	<phrase title="admin_navigation.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användare]]></phrase>
-	<!-- (C) Original: Users -->
-
+		><![CDATA[Medlemmar]]></phrase>
 	<phrase title="admin_navigation.usersStaff" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Personal]]></phrase>
-	<!-- (C) Original: Staff -->
-
+		><![CDATA[Forumpersonal]]></phrase>
 	<phrase title="admin_navigation.widgetDefinitions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Widgetdefinitioner]]></phrase>
-	<!-- (C) Original: Widget definitions -->
-
 	<phrase title="admin_navigation.widgetPositions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Widget positioner]]></phrase>
 	<!-- (C) Original: Widget positions -->
@@ -1013,7 +895,7 @@
 	<!-- (C) Original: Manage users and moderators -->
 
 	<phrase title="admin_permission.userField" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Hantera anpassade användarfält]]></phrase>
+		><![CDATA[Hantera anpassade medlemsfält]]></phrase>
 	<!-- (C) Original: Manage custom user fields -->
 
 	<phrase title="admin_permission.userGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -1021,7 +903,7 @@
 	<!-- (C) Original: Manage user groups -->
 
 	<phrase title="admin_permission.userUpgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Hantera användaruppgraderingar]]></phrase>
+		><![CDATA[Hantera medlemsuppgraderingar]]></phrase>
 	<!-- (C) Original: Manage user upgrades -->
 
 	<phrase title="admin_permission.viewLogs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3206,7 +3088,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Delete expired bans -->
 
 	<phrase title="cron_entry.downgradeExpired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Nedgradering slutförd användaruppgraderingar]]></phrase>
+		><![CDATA[Nedgradering slutförd medlemsuppgraderingar]]></phrase>
 	<!-- (C) Original: Downgrade expired user upgrades -->
 
 	<phrase title="cron_entry.emailBounce" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3857,7 +3739,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Custom URL -->
 
 	<phrase title="custom_user_fields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Anpassade användarfält]]></phrase>
+		><![CDATA[Anpassade medlemsfält]]></phrase>
 	<!-- (C) Original: Custom user fields -->
 
 	<phrase title="custom_userfield_criteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4345,11 +4227,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Disabled -->
 
 	<phrase title="disabled_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Inaktiverade användaruppgraderingar]]></phrase>
+		><![CDATA[Inaktiverade medlemsuppgraderingar]]></phrase>
 	<!-- (C) Original: Disabled user upgrades -->
 
 	<phrase title="disabled_user_upgrades_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Inaktiverar de valda användaruppgraderingarna medan den här uppgraderingen är aktiv. Det här är till hjälp om du har nivåer av samma uppgradering och inte vill att folk ska köpa flera nivåer.]]></phrase>
+		><![CDATA[Inaktiverar de valda medlemsuppgraderingarna medan den här uppgraderingen är aktiv. Det här är till hjälp om du har nivåer av samma uppgradering och inte vill att folk ska köpa flera nivåer.]]></phrase>
 	<!-- (C) Original: Disables the selected user upgrades while this upgrade is active. This is helpful if you have tiers of the same upgrade and don't want people to buy multiple levels. -->
 
 	<phrase title="disallowed_words_in_tags" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -4605,7 +4487,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit -->
 
 	<phrase title="edit_active_user_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera aktiv användaruppgradering]]></phrase>
+		><![CDATA[Redigera aktiv medlemsuppgradering]]></phrase>
 	<!-- (C) Original: Edit active user upgrade -->
 
 	<phrase title="edit_admin_permission" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4881,7 +4763,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit user group -->
 
 	<phrase title="edit_user_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera användaruppgradering]]></phrase>
+		><![CDATA[Redigera medlemsuppgradering]]></phrase>
 	<!-- (C) Original: Edit user upgrade -->
 
 	<phrase title="edit_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -5371,7 +5253,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Expired -->
 
 	<phrase title="expired_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Förfallna användaruppgraderingar]]></phrase>
+		><![CDATA[Förfallna medlemsuppgraderingar]]></phrase>
 	<!-- (C) Original: Expired user upgrades -->
 
 	<phrase title="expires" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -11559,7 +11441,7 @@ Callback arguments:
 	<!-- (C) Original: PayPal Alternate Accounts -->
 
 	<phrase title="paypal_alternate_accounts_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ange e-postadressen till andra PayPal-konton än den primära som kan få betalningar för användaruppgraderingar. Detta kan vara användbart om det primära kontot ändras och återkommande betalningar kommer fortfarande från det gamla kontot. Om det gamla kontot inte är listat som ett giltigt alternativ betalas inte betalningar för det här kontot. Ange ett konto per rad.]]></phrase>
+		><![CDATA[Ange e-postadressen till andra PayPal-konton än den primära som kan få betalningar för medlemsuppgraderingar. Detta kan vara användbart om det primära kontot ändras och återkommande betalningar kommer fortfarande från det gamla kontot. Om det gamla kontot inte är listat som ett giltigt alternativ betalas inte betalningar för det här kontot. Ange ett konto per rad.]]></phrase>
 	<!-- (C) Original: Enter the email address of any PayPal accounts other than the primary one that may receive payments for user upgrades. This can be useful if the primary account is changed and recurring payments are still coming from the old account, for example. If the old account is not listed as a valid alternative, payments will not be accepted for this account. Enter one account per line. -->
 
 	<phrase title="paypal_primary_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -16202,9 +16084,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
 	<!-- (C) Original: Logo URL -->
 
 	<phrase title="style_prop.publicLogoUrl2x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[2x logotypadress]]></phrase>
-	<!-- (C) Original: 2x logo URL -->
-
+		><![CDATA[Logotype med dubbel upplösning]]></phrase>
 	<phrase title="style_prop.publicMetadataLogoUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Metadata-logotypadressen]]></phrase>
 	<!-- (C) Original: Metadata Logo URL -->
@@ -16958,9 +16838,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
 	<!-- (C) Original: The web path from your site's XenForo installation directory to your logo image. -->
 
 	<phrase title="style_prop_desc.publicLogoUrl2x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Vägen till en dubbel upplösning / näthinna version av din logotyp bild]]></phrase>
-	<!-- (C) Original: The path to a double-resolution / retina version of your logo image -->
-
+		><![CDATA[Sökväg till version av logotype med dubbel upplösning/retina-version</strong>]]></phrase>
 	<phrase title="style_prop_desc.publicMetadataLogoUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Sökväg till metadata / OpenGraph-logotypen som används av din webbplats på sociala medier]]></phrase>
 	<!-- (C) Original: Path to the metadata / OpenGraph logo used by your site on social media -->
@@ -17761,7 +17639,7 @@ When the payment has been approved, your account will be upgraded.]]></phrase>
 	<!-- (C) Original: There are currently no moderators. Use the link above to create one. -->
 
 	<phrase title="there_currently_no_purchasable_user_upgrades" addon_id="XF" version_id="2000070" version_string="2.0.0"
-		><![CDATA[Det finns för närvarande inga köpbara användaruppgraderingar.]]></phrase>
+		><![CDATA[Det finns för närvarande inga köpbara medlemsuppgraderingar.]]></phrase>
 	<!-- (C) Original: There are currently no purchasable user upgrades. -->
 
 	<phrase title="there_currently_no_usable_external_account_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -19477,7 +19355,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User title override -->
 
 	<phrase title="user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användaruppgraderingar]]></phrase>
+		><![CDATA[Medlemsuppgraderingar]]></phrase>
 	<!-- (C) Original: User upgrades -->
 
 	<phrase title="user_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
