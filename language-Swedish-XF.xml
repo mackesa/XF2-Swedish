@@ -76,8 +76,6 @@
 		><![CDATA[Om dig]]></phrase>
 	<phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Accent]]></phrase>
-	<!-- (C) Original: Accent -->
-
 	<phrase title="accept" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
 		><![CDATA[Jag samtycker]]></phrase>
 	<phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"
@@ -103,17 +101,11 @@
 	<phrase title="action_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Åtgärdsprefix]]></phrase>
 	<phrase title="action_to_take" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Åtgärd att utföra]]></phrase>
-	<!-- (C) Original: Action to take -->
-
+		><![CDATA[Åtgärd att vidta]]></phrase>
 	<phrase title="actions" addon_id="XF" global_cache="1" version_id="1020010" version_string="1.2.0 Alpha"
 		><![CDATA[Åtgärder]]></phrase>
-	<!-- (C) Original: Actions -->
-
 	<phrase title="active_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Aktiva leverantörer]]></phrase>
-	<!-- (C) Original: Active providers -->
-
+		><![CDATA[Aktiva tjänsteleverantörer]]></phrase>
 	<phrase title="active_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Aktiva rapporter]]></phrase>
 	<phrase title="active_user_changed_reload_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -271,7 +263,7 @@
 	<phrase title="add_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till moderator]]></phrase>
 	<phrase title="add_moderator_to_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Addera moderator till användargrupper]]></phrase>
+		><![CDATA[Addera moderator till medlemsgrupper]]></phrase>
 	<phrase title="add_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till navigation]]></phrase>
 	<phrase title="add_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -302,94 +294,50 @@
 
 	<phrase title="add_phrase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till fras]]></phrase>
-	<!-- (C) Original: Add phrase -->
-
 	<phrase title="add_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till prefix]]></phrase>
-	<!-- (C) Original: Add prefix -->
-
 	<phrase title="add_prefix_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till prefixgrupp]]></phrase>
-	<!-- (C) Original: Add prefix group -->
-
 	<phrase title="add_promotion" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till kampanj]]></phrase>
-	<!-- (C) Original: Add promotion -->
-
 	<phrase title="add_prompt" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till prompten]]></phrase>
-	<!-- (C) Original: Add prompt -->
-
+		><![CDATA[Lägg prompt]]></phrase>
 	<phrase title="add_prompt_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till snabb grupp]]></phrase>
+		><![CDATA[Lägg till promptgrupp]]></phrase>
 	<!-- (C) Original: Add prompt group -->
-
 	<phrase title="add_property" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till egendom]]></phrase>
-	<!-- (C) Original: Add property -->
-
+		><![CDATA[Lägg till egenskap]]></phrase>
 	<phrase title="add_property_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till fastighetsgrupp]]></phrase>
-	<!-- (C) Original: Add property group -->
-
+		><![CDATA[Lägg till egenskapsgrupp]]></phrase>
 	<phrase title="add_question" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till fråga]]></phrase>
-	<!-- (C) Original: Add question -->
-
 	<phrase title="add_route" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till rutten]]></phrase>
-	<!-- (C) Original: Add route -->
-
+		><![CDATA[Lägg till route]]></phrase>
 	<phrase title="add_route_filter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till rutfilter]]></phrase>
-	<!-- (C) Original: Add route filter -->
-
+		><![CDATA[Lägg till route-filter]]></phrase>
 	<phrase title="add_secondary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till sekundär användargrupp]]></phrase>
-	<!-- (C) Original: Add secondary user group -->
-
+		><![CDATA[Lägg till sekundär medlemsgrupp]]></phrase>
 	<phrase title="add_smilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till smilie]]></phrase>
-	<!-- (C) Original: Add smilie -->
-
 	<phrase title="add_smilie_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till smilie kategori]]></phrase>
-	<!-- (C) Original: Add smilie category -->
-
+		><![CDATA[Lägg till smilie-kategori]]></phrase>
 	<phrase title="add_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till stil]]></phrase>
-	<!-- (C) Original: Add style -->
-
 	<phrase title="add_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Add tag]]></phrase>
-	<!-- (C) Original: Add tag -->
-
+		><![CDATA[Lägg till tagg]]></phrase>
 	<phrase title="add_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till mall]]></phrase>
-	<!-- (C) Original: Add template -->
-
 	<phrase title="add_template_modification" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till mall modifikation]]></phrase>
-	<!-- (C) Original: Add template modification -->
-
+		><![CDATA[Lägg till mall-modifikation]]></phrase>
 	<phrase title="add_to_selected_groups" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"
-		><![CDATA[Lägg till valda grupper]]></phrase>
-	<!-- (C) Original: Add to selected groups -->
-
+		><![CDATA[Lägg till för valda grupper]]></phrase>
 	<phrase title="add_trophy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till trofé]]></phrase>
-	<!-- (C) Original: Add trophy -->
-
 	<phrase title="add_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till användare]]></phrase>
-	<!-- (C) Original: Add user -->
-
+		><![CDATA[Lägg till medlem]]></phrase>
 	<phrase title="add_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till användargrupp]]></phrase>
-	<!-- (C) Original: Add user group -->
-
+		><![CDATA[Lägg till medlemsgrupp]]></phrase>
 	<phrase title="add_user_to_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till användare till användargrupper]]></phrase>
+		><![CDATA[Lägg till användare till medlemsgrupper]]></phrase>
 	<!-- (C) Original: Add user to user groups -->
 
 	<phrase title="add_user_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -421,7 +369,7 @@
 	<!-- (C) Original: Additional contact -->
 
 	<phrase title="additional_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ytterligare användargrupper]]></phrase>
+		><![CDATA[Ytterligare medlemsgrupper]]></phrase>
 	<!-- (C) Original: Additional user groups -->
 
 	<phrase title="additional_user_groups_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -809,7 +757,7 @@
 	<!-- (C) Original: Server error log -->
 
 	<phrase title="admin_navigation.serviceProviders" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Tjänsteleverantörer]]></phrase>
+		><![CDATA[Tjänsteleverantör]]></phrase>
 	<!-- (C) Original: Service providers -->
 
 	<phrase title="admin_navigation.setup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -921,15 +869,13 @@
 	<!-- (C) Original: Custom user fields -->
 
 	<phrase title="admin_navigation.userGroupPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användargrupptillbehör]]></phrase>
-	<!-- (C) Original: User group permissions -->
-
+		><![CDATA[Medlemsgruppsbehörigheter]]></phrase>
 	<phrase title="admin_navigation.userGroupPromotions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användargrupppromotioner]]></phrase>
+		><![CDATA[Medlemsgruppkampanjer]]></phrase>
 	<!-- (C) Original: User group promotions -->
 
 	<phrase title="admin_navigation.userGroups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användargrupper]]></phrase>
+		><![CDATA[Medlemsgrupper]]></phrase>
 	<!-- (C) Original: User groups -->
 
 	<phrase title="admin_navigation.userPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -1040,8 +986,7 @@
 	<!-- (C) Original: Manage options -->
 
 	<phrase title="admin_permission.payment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Hantera betalningsleverantörer]]></phrase>
-	<!-- (C) Original: Manage payment providers -->
+		><![CDATA[Hantera betalningstjänstleverantör]]></phrase>
 
 	<phrase title="admin_permission.rebuildCache" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Återuppbygga cacher]]></phrase>
@@ -1072,7 +1017,7 @@
 	<!-- (C) Original: Manage custom user fields -->
 
 	<phrase title="admin_permission.userGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Hantera användargrupper]]></phrase>
+		><![CDATA[Hantera medlemsgrupper]]></phrase>
 	<!-- (C) Original: Manage user groups -->
 
 	<phrase title="admin_permission.userUpgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -1336,7 +1281,7 @@
 	<!-- (C) Original: All time -->
 
 	<phrase title="all_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Alla användargrupper]]></phrase>
+		><![CDATA[Alla medlemsgrupper]]></phrase>
 	<!-- (C) Original: All user groups -->
 
 	<phrase title="all_valid_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -1508,7 +1453,7 @@
 	<!-- (C) Original: The threads you have selected are located in more than one forum. Threads will only be updated if the chosen prefix is valid in its forum. -->
 
 	<phrase title="apply_user_group_options" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Använda användargruppalternativ]]></phrase>
+		><![CDATA[Använda medlemsgruppalternativ]]></phrase>
 	<!-- (C) Original: Apply user group options -->
 
 	<phrase title="apply_warning_points" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -2893,9 +2838,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: The connected account provider specified cannot be found. -->
 
 	<phrase title="connected_account_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Anslutna kontoleverantörer]]></phrase>
-	<!-- (C) Original: Connected account providers -->
-
+		><![CDATA[Anslutna kontotjänstleverantör]]></phrase>
 	<phrase title="connected_accounts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Anslutna konton]]></phrase>
 	<!-- (C) Original: Connected accounts -->
@@ -3303,7 +3246,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Update user trophies -->
 
 	<phrase title="cron_entry.userGroupPromotions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användargrupppromotioner]]></phrase>
+		><![CDATA[Medlemsgruppkampanjer]]></phrase>
 	<!-- (C) Original: User group promotions -->
 
 	<phrase title="cron_entry.views" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4934,7 +4877,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit user -->
 
 	<phrase title="edit_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera användargrupp]]></phrase>
+		><![CDATA[Redigera medlemsgrupp]]></phrase>
 	<!-- (C) Original: Edit user group -->
 
 	<phrase title="edit_user_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4970,7 +4913,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit your account details -->
 
 	<phrase title="editable_by_user_groups" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"
-		><![CDATA[Redigerbar av användargrupper]]></phrase>
+		><![CDATA[Redigerbar av medlemsgrupper]]></phrase>
 	<!-- (C) Original: Editable by user groups -->
 
 	<phrase title="editable_only_once" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -5502,7 +5445,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Extra footer copyright -->
 
 	<phrase title="extra_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Extra användargrupper]]></phrase>
+		><![CDATA[Extra medlemsgrupper]]></phrase>
 	<!-- (C) Original: Extra user groups -->
 
 	<phrase title="facebook" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -5799,15 +5742,15 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: The following notice(s) may contain page criteria which is no longer matched -->
 
 	<phrase title="following_payment_providers_do_not_support_recurring_payments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Följande betalningsleverantörer stöder inte återkommande betalningar: {invalidRecurring}. Se till att alla betalnings profiler är giltiga.]]></phrase>
+		><![CDATA[Följande betalningstjänstleverantör stöder inte återkommande betalningar: {invalidRecurring}. Se till att alla betalnings profiler är giltiga.]]></phrase>
 	<!-- (C) Original: The following payment providers do not support recurring payments: {invalidRecurring}. Please ensure all payment profiles are valid. -->
 
 	<phrase title="following_payment_providers_do_not_support_x_as_valid_currency" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Följande betalningsleverantörer stöder inte {currency} som ett giltigt valutaalternativ: {invalidCurrency}. Se till att alla betalnings profiler är giltiga.]]></phrase>
+		><![CDATA[Följande betalningstjänstleverantör stöder inte {currency} som ett giltigt valutaalternativ: {invalidCurrency}. Se till att alla betalnings profiler är giltiga.]]></phrase>
 	<!-- (C) Original: The following payment providers do not support {currency} as a valid currency option: {invalidCurrency}. Please ensure all payment profiles are valid. -->
 
 	<phrase title="following_payment_providers_support_recurring_payments_but_invalid_length" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Följande betalningsleverantörer stöder återkommande betalningar, men den valda längden är för lång eller för kort: {invalidLength}. Se till att alla betalnings profiler är giltiga.]]></phrase>
+		><![CDATA[Följande betalningstjänstleverantör stöder återkommande betalningar, men den valda längden är för lång eller för kort: {invalidLength}. Se till att alla betalnings profiler är giltiga.]]></phrase>
 	<!-- (C) Original: The following payment providers support recurring payments, but the chosen length is too long or too short: {invalidLength}. Please ensure all payment profiles are valid. -->
 
 	<phrase title="following_placeholders_will_be_replaced_in_message" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -6405,7 +6348,7 @@ Andra cookies kan komma att placeras av tjänsteleverantörer eller från tredje
 	<!-- (C) Original: If this user is a content-specific moderator as well, those moderation privileges will be removed as well. -->
 
 	<phrase title="if_usermultiple_groups_user_title_from_highest_priority" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Om en användare befinner sig i flera användargrupper kommer deras användarnamn och användarnamn CSS från gruppen med högsta visningsformatprioritet.]]></phrase>
+		><![CDATA[Om en användare befinner sig i flera medlemsgrupper kommer deras användarnamn och användarnamn CSS från gruppen med högsta visningsformatprioritet.]]></phrase>
 	<!-- (C) Original: If a user is in multiple user groups, their user title and user name CSS will come from the group with the highest display styling priority. -->
 
 	<phrase title="if_you_change_your_email_you_may_need_to_reconfirm_your_account" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
@@ -6568,7 +6511,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 	<!-- (C) Original: In {minutes} minutes -->
 
 	<phrase title="inactive_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Inaktiva leverantörer]]></phrase>
+		><![CDATA[Inaktiva tjänstleverantörer]]></phrase>
 	<!-- (C) Original: Inactive providers -->
 
 	<phrase title="inactive_questions_are_not_presented_to_visitors" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"
@@ -9762,7 +9705,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: Quick search content types -->
 
 	<phrase title="option.addBanUserGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Bannlys användargrupp]]></phrase>
+		><![CDATA[Bannlys medlemsgrupp]]></phrase>
 	<!-- (C) Original: Add user group on ban -->
 
 	<phrase title="option.adminRequireTfa" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -10440,7 +10383,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: When using the quick search facility in the control panel, content from the following types will be searched. Disabling content types here may speed-up searching slightly. -->
 
 	<phrase title="option_explain.addBanUserGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[När en användare är bannlyst kan den läggas till en viss användargrupp medan bannlysningen är aktiv. Detta tillåter överstyrningar av t. ex. deras användargruppstil.]]></phrase>
+		><![CDATA[När en användare är bannlyst kan den läggas till en viss medlemsgrupp medan bannlysningen är aktiv. Detta tillåter överstyrningar av t. ex. deras medlemsgruppstil.]]></phrase>
 	<!-- (C) Original: When a user is banned, they can be added to a specific user group while the ban is active. This allows overrides to their user group styling, for example. -->
 
 	<phrase title="option_explain.adminRequireTfa" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -11175,7 +11118,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
 	<!-- (C) Original: Search engine optimization (SEO) -->
 
 	<phrase title="option_group.serviceProviders" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Externa tjänsteleverantörer]]></phrase>
+		><![CDATA[Externa tjänstleverantörer]]></phrase>
 	<!-- (C) Original: External service providers -->
 
 	<phrase title="option_group.sharing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -12871,7 +12814,7 @@ Callback arguments:
 	<!-- (C) Original: Please select at least one smilie to export. -->
 
 	<phrase title="please_select_at_least_one_user_group" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Var god välj minst en användargrupp.]]></phrase>
+		><![CDATA[Var god välj minst en medlemsgrupp.]]></phrase>
 	<!-- (C) Original: Please select at least one user group. -->
 
 	<phrase title="please_select_at_least_one_x_to_export" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -13239,7 +13182,7 @@ Callback arguments:
 	<!-- (C) Original: Primary navigation row only -->
 
 	<phrase title="primary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Primär användargrupp]]></phrase>
+		><![CDATA[Primär medlemsgrupp]]></phrase>
 	<!-- (C) Original: Primary user group -->
 
 	<phrase title="privacy" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"
@@ -13277,7 +13220,7 @@ Vi behandlar även personuppgifter med stöd av intresseavvägning såsom:
 </li></ul></p><p>Vi kommer även samla in och behandla personuppgifter för att följa tillämplig lagstiftning som t.ex. bokföringslagen, skattelagstiftning och liknande.</p><p><b>Kommunikation med dig</b><br />
 Vi kan även komma att använda dina uppgifter för att kommunicera med dig elektroniskt. I din profil kan du själv ställa in ifall du inte vill ta emot viktiga meddelanden från oss.</p></p><h2>Vilka kan vi komma att dela din information med</h2><p><b>Myndigheter:</b><br />
 På grund av lagkrav eller med ditt godkännande kan vi komma att dela dina uppgifter med Polisen och/eller andra myndigheter.
-</p><h2>Säkerhet</h2><p>Vi strävar efter att skydda dina personuppgifter och upprätthåller lämpliga tekniska och organisatoriska åtgärder för att förhindra olämpliga eller ofrivilliga utlämnanden, användning, åtkomst, förlust, ändring eller skada av dina personuppgifter.</p><p>Endast vi eller våra leverantörers anställda som behöver åtkomst till dina personuppgifter för en specifik uppgift kommer att få åtkomst till dina personuppgifter.</p><h2>Vad vi inte kommer göra med dina uppgifter</h2><p>Vi kommer inte sälja eller lämna ut dina personuppgifter till tredje part.</p><h2>Var sparar vi dina uppgifter</h2><p>Vi kommer till allra största del hantera dina personuppgifter inom EU/ESS. Om personuppgifter överförs till eller behandlas i ett land utanför EU/EES kommer vi att vidta alla rimliga legala, tekniska och organisatoriska åtgärder för att säkerställa att dina personuppgifter hanteras säkert och med en adekvat skyddsnivå som är jämförbar med det skydd som erbjuds inom EU/EES.</p><h2>Hur länge sparar vi dina uppgifter</h2><p>Vi kommer endast behålla dina personuppgifter så länge som behövs för att uppfylla de syften som specificerats i denna policy. Vi kommer genomföra regelbundna gallringar och ta bort personuppgifter om vi bedömer att du inte längre kommer att använda dig av vår webbplats och dess tjänster.</p><h2>Dina rättigheter</h2><p><b>Rätt att få tillgång till din data</b><br />
+</p><h2>Säkerhet</h2><p>Vi strävar efter att skydda dina personuppgifter och upprätthåller lämpliga tekniska och organisatoriska åtgärder för att förhindra olämpliga eller ofrivilliga utlämnanden, användning, åtkomst, förlust, ändring eller skada av dina personuppgifter.</p><p>Endast vi eller anställda hos våra tjänsteleverantörer som behöver åtkomst till dina personuppgifter för en specifik uppgift kommer att få åtkomst till dina personuppgifter.</p><h2>Vad vi inte kommer göra med dina uppgifter</h2><p>Vi kommer inte sälja eller lämna ut dina personuppgifter till tredje part.</p><h2>Var sparar vi dina uppgifter</h2><p>Vi kommer till allra största del hantera dina personuppgifter inom EU/ESS. Om personuppgifter överförs till eller behandlas i ett land utanför EU/EES kommer vi att vidta alla rimliga legala, tekniska och organisatoriska åtgärder för att säkerställa att dina personuppgifter hanteras säkert och med en adekvat skyddsnivå som är jämförbar med det skydd som erbjuds inom EU/EES.</p><h2>Hur länge sparar vi dina uppgifter</h2><p>Vi kommer endast behålla dina personuppgifter så länge som behövs för att uppfylla de syften som specificerats i denna policy. Vi kommer genomföra regelbundna gallringar och ta bort personuppgifter om vi bedömer att du inte längre kommer att använda dig av vår webbplats och dess tjänster.</p><h2>Dina rättigheter</h2><p><b>Rätt att få tillgång till din data</b><br />
 Du kan begära en kopia av de personuppgifter vi har om dig. Kopian är kostnadsfri och vi strävar efter att ge dig svar inom 30 dagar. För att få kopian, var god <a href="{contactUrl}">kontakta oss</a>.
 </p><p><b>Rätt till dataportabilitet</b><br />
 Du kan begära att få ut de personuppgifter som vi hanterar i syfte att föra över till en annan webbplats. Du får då en kopia av dessa personuppgifter i XML-format som är ett strukturerat, allmänt använt och maskinläsbart format. Du har rätt att överföra dessa uppgifter till en annan personuppgiftsansvarig för ett annat system. För att få XML-filen, var god <a href="{contactUrl}">kontakta oss</a>.
@@ -13644,7 +13587,7 @@ E-post: <a href="mailto:datainspektionen@datainspektionen.se">datainspektionen@d
 	<!-- (C) Original: Rebuild user caches -->
 
 	<phrase title="rebuild_user_group_promotions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Återuppbygg användargruppskampanjer]]></phrase>
+		><![CDATA[Återuppbygg medlemsgruppskampanjer]]></phrase>
 	<!-- (C) Original: Rebuild user group promotions -->
 
 	<phrase title="rebuilding" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -13880,7 +13823,7 @@ E-post: <a href="mailto:datainspektionen@datainspektionen.se">datainspektionen@d
 	<!-- (C) Original: Remove likes within last -->
 
 	<phrase title="remove_secondary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ta bort sekundär användargrupp]]></phrase>
+		><![CDATA[Ta bort sekundär medlemsgrupp]]></phrase>
 	<!-- (C) Original: Remove secondary user group -->
 
 	<phrase title="remove_signatures" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -14570,7 +14513,7 @@ Anmält innehåll:
 	<!-- (C) Original: Searching -->
 
 	<phrase title="secondary_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Sekundära användargrupper]]></phrase>
+		><![CDATA[Sekundära medlemsgrupper]]></phrase>
 	<!-- (C) Original: Secondary user groups -->
 
 	<phrase title="seconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -14634,7 +14577,7 @@ Anmält innehåll:
 	<!-- (C) Original: ID of selected navigation tab, such as <b>forums</b>, <b>members</b> or <b>help</b>. -->
 
 	<phrase title="selected_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Valda användargrupper]]></phrase>
+		><![CDATA[Valda medlemsgrupper]]></phrase>
 	<!-- (C) Original: Selected user groups -->
 
 	<phrase title="selecting_this_option_will_permanently_and_irreversibly_delete_item" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
@@ -14722,7 +14665,7 @@ Anmält innehåll:
 	<!-- (C) Original: Set a prefix -->
 
 	<phrase title="set_primary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ange primära användargrupp]]></phrase>
+		><![CDATA[Ange primära medlemsgrupp]]></phrase>
 	<!-- (C) Original: Set primary user group -->
 
 	<phrase title="set_return_path_with_f_parameter" addon_id="XF" version_id="1000070" version_string="1.0.0"
@@ -17822,7 +17765,7 @@ When the payment has been approved, your account will be upgraded.]]></phrase>
 	<!-- (C) Original: There are currently no purchasable user upgrades. -->
 
 	<phrase title="there_currently_no_usable_external_account_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Det finns för närvarande inga användbara externa kontoleverantörer.]]></phrase>
+		><![CDATA[Det finns för närvarande inga användbara externa kontotjänstleverantörer.]]></phrase>
 	<!-- (C) Original: There are currently no usable external account providers. -->
 
 	<phrase title="there_is_no_content_currently_awaiting_approval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -17854,9 +17797,7 @@ When the payment has been approved, your account will be upgraded.]]></phrase>
 	<!-- (C) Original: There are more posts to display. -->
 
 	<phrase title="there_no_active_providers_yet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Det finns inga aktiva leverantörer ännu.]]></phrase>
-	<!-- (C) Original: There are no active providers yet. -->
-
+		><![CDATA[Det finns inga aktiva tjänstleverantörer ännu.]]></phrase>
 	<phrase title="there_no_active_reports_requiring_your_attention" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
 		><![CDATA[Det finns inga aktiva rapporter som kräver din uppmärksamhet.]]></phrase>
 	<!-- (C) Original: There are no active reports requiring your attention. -->
@@ -19168,7 +19109,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: {url} was fetched successfully. -->
 
 	<phrase title="usable_by_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användbar av användargrupper]]></phrase>
+		><![CDATA[Användbar av medlemsgrupper]]></phrase>
 	<!-- (C) Original: Usable by user groups -->
 
 	<phrase title="use_above_criteria_to_restrict_display_of_this_advertisement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -19324,19 +19265,19 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: {boardTitle} - Account confirmation required -->
 
 	<phrase title="user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användargrupp]]></phrase>
+		><![CDATA[Medlemsgrupp]]></phrase>
 	<!-- (C) Original: User group -->
 
 	<phrase title="user_group_permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användargrupptillbehör]]></phrase>
+		><![CDATA[Medlemsgrupptillbehör]]></phrase>
 	<!-- (C) Original: User group permissions -->
 
 	<phrase title="user_group_promotions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användargrupppromotioner]]></phrase>
+		><![CDATA[Medlemsgruppkampanjer]]></phrase>
 	<!-- (C) Original: User group promotions -->
 
 	<phrase title="user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användargrupper]]></phrase>
+		><![CDATA[Medlemsgrupper]]></phrase>
 	<!-- (C) Original: User groups -->
 
 	<phrase title="user_has_at_least_x_trophy_points" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -19400,7 +19341,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User is an administrator -->
 
 	<phrase title="user_is_associated_with_any_of_selected_connected_account_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användaren är associerad med någon av de valda anslutna kontoleverantörerna]]></phrase>
+		><![CDATA[Användaren är associerad med någon av de valda anslutna kontotillhandahållarna]]></phrase>
 	<!-- (C) Original: User is associated with any of the selected connected account providers -->
 
 	<phrase title="user_is_banned" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -19424,7 +19365,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User is logged in -->
 
 	<phrase title="user_is_member_of_any_of_selected_user_groups" addon_id="XF" version_id="1010070" version_string="1.1.0"
-		><![CDATA[Användaren är medlem i någon av de valda användargrupperna]]></phrase>
+		><![CDATA[Användaren är medlem i någon av de valda medlemsgrupperna]]></phrase>
 	<!-- (C) Original: User is a member of any of the selected user groups -->
 
 	<phrase title="user_is_moderator" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -19432,7 +19373,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User is a moderator -->
 
 	<phrase title="user_is_not_member_of_any_of_selected_user_groups" addon_id="XF" version_id="1010070" version_string="1.1.0"
-		><![CDATA[Användaren är INTE medlem i någon av de valda användargrupperna]]></phrase>
+		><![CDATA[Användaren är INTE medlem i någon av de valda medlemsgrupperna]]></phrase>
 	<!-- (C) Original: User is NOT a member of any of the selected user groups -->
 
 	<phrase title="user_like_message_ratio_is_at_least" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -19504,7 +19445,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User profile and options -->
 
 	<phrase title="user_receiving_warning_can_be_added_to_groups_until_expiry" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"
-		><![CDATA[En användare som tar emot denna varning kan läggas till specifika användargrupper tills varningen har löpt ut.]]></phrase>
+		><![CDATA[En användare som tar emot denna varning kan läggas till specifika medlemsgrupper tills varningen har löpt ut.]]></phrase>
 	<!-- (C) Original: A user receiving this warning can be added to specific user groups until the warning has expired. -->
 
 	<phrase title="user_referred_from_search" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -21200,13 +21141,9 @@ Callback arguments:
 	<!-- (C) Original: You cannot compare custom changes for a master template. -->
 
 	<phrase title="you_cannot_create_payment_profile_as_there_no_valid_payment_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Du kan inte skapa en betalningsprofil eftersom det inte finns några giltiga betalningsleverantörer.]]></phrase>
-	<!-- (C) Original: You cannot create a payment profile as there are no valid payment providers. -->
-
+		><![CDATA[Du kan inte skapa en betalningsprofil eftersom det inte finns några giltiga betalningstjänstleverantörer.]]></phrase>
 	<phrase title="you_cannot_delete_your_own_administrator_record" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Du kan inte ta bort din egen administratörsrekord.]]></phrase>
-	<!-- (C) Original: You cannot delete your own administrator record. -->
-
+		><![CDATA[Du kan inte ta bort din egen administratörspost.]]></phrase>
 	<phrase title="you_cannot_demote_yourself_from_being_super_admin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Du kan inte dämpa dig själv från att vara en superadministratör.]]></phrase>
 	<!-- (C) Original: You cannot demote yourself from being a super admin. -->
@@ -21300,7 +21237,7 @@ Callback arguments:
 	<!-- (C) Original: You may not create new tags. Please change the following tags: {tags} -->
 
 	<phrase title="you_may_not_delete_important_default_user_groups" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Du får inte radera viktiga standardanvändargrupper.]]></phrase>
+		><![CDATA[Du får inte radera viktiga standardmedlemsgrupper.]]></phrase>
 	<!-- (C) Original: You may not delete important default user groups. -->
 
 	<phrase title="you_may_not_delete_the_default_item" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
