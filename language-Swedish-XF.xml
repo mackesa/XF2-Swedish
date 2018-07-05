@@ -21,7 +21,7 @@
 	Breadcrumb: Navigationselement
 	Privacy policy: Integritetspolicy
 	Terms and rules: Medlemsvillkor
-	User: Medlem (om det är en medlem och inte gäst)
+	User, people: Medlem (om det är en medlem och inte gäst)
 
 	Manuell kontroll av översatta fraser
 	===================================
@@ -1039,7 +1039,7 @@
 	<!-- (C) Original: Quotes your message -->
 
 	<phrase title="alert_opt_out.profile_post_comment_like" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Gillar din profilpost kommentar]]></phrase>
+		><![CDATA[Gillar din profilpostkommentar]]></phrase>
 	<!-- (C) Original: Likes your profile post comment -->
 
 	<phrase title="alert_opt_out.profile_post_comment_other_commenter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -1339,25 +1339,16 @@
 	<!-- (C) Original: Apply user group options -->
 
 	<phrase title="apply_warning_points" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Applicera varningspunkter]]></phrase>
-	<!-- (C) Original: Apply warning points -->
-
+		><![CDATA[Tillämpa varningspoäng]]></phrase>
 	<phrase title="approval_queue" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Godkännande kö]]></phrase>
-	<!-- (C) Original: Approval queue -->
+		><![CDATA[Godkännandekö]]></phrase>
 
 	<phrase title="approve" addon_id="XF" global_cache="1" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Godkänna]]></phrase>
-	<!-- (C) Original: Approve -->
-
+		><![CDATA[Godkänn]]></phrase>
 	<phrase title="approve_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Godkänn inlägg]]></phrase>
-	<!-- (C) Original: Approve posts -->
-
 	<phrase title="approve_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Godkänn tråden]]></phrase>
-	<!-- (C) Original: Approve thread -->
-
 	<phrase title="approve_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Godkänn tråden]]></phrase>
 	<!-- (C) Original: Approve threads -->
@@ -2497,24 +2488,14 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 
 	<phrase title="color" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Färg]]></phrase>
-	<!-- (C) Original: Color -->
-
 	<phrase title="comma_separator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Kommaseparatorn]]></phrase>
-	<!-- (C) Original: Comma separator -->
-
+		><![CDATA[Kommaseparator]]></phrase>
 	<phrase title="comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Kommentar]]></phrase>
-	<!-- (C) Original: Comment -->
-
+		><![CDATA[Kommentara]]></phrase>
 	<phrase title="comment_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Hur datum]]></phrase>
-	<!-- (C) Original: Comment date -->
-
+		><![CDATA[Kommentarsdatum]]></phrase>
 	<phrase title="comments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Kommentarer]]></phrase>
-	<!-- (C) Original: Comments -->
-
 	<phrase title="common_languages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Vanliga språk]]></phrase>
 	<!-- (C) Original: Common languages -->
@@ -5564,9 +5545,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: First requested -->
 
 	<phrase title="first_seen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Först sedd]]></phrase>
-	<!-- (C) Original: First seen -->
-
+		><![CDATA[Sedd första gången]]></phrase>
 	<phrase title="fixed" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
 		><![CDATA[Fast]]></phrase>
 	<!-- (C) Original: Fixed -->
@@ -5581,28 +5560,16 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 
 	<phrase title="follow" addon_id="XF" global_cache="1" version_id="1000011" version_string="1.0.0 Alpha 1"
 		><![CDATA[Följ]]></phrase>
-	<!-- (C) Original: Follow -->
-
 	<phrase title="follow_people_to_fill_it" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Följ folket för att fylla det.]]></phrase>
-	<!-- (C) Original: Follow people to fill it. -->
-
+		><![CDATA[Följ andra medlemmar för att fylla det.]]></phrase>
 	<phrase title="follow_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
 		><![CDATA[Följ {name}]]></phrase>
-	<!-- (C) Original: Follow {name} -->
-
 	<phrase title="followed_members_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Endast efterföljande medlemmar]]></phrase>
-	<!-- (C) Original: Followed members only -->
-
+		><![CDATA[Endast följda medlemmar]]></phrase>
 	<phrase title="followers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Anhängare]]></phrase>
-	<!-- (C) Original: Followers -->
-
+		><![CDATA[Följare]]></phrase>
 	<phrase title="following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Följande]]></phrase>
-	<!-- (C) Original: Following -->
-
+		><![CDATA[Följer]]></phrase>
 	<phrase title="following_add_ons_missing_necessary_files_for_health_checking" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Följande tillägg saknar nödvändiga filer för hälsokontroll.]]></phrase>
 	<!-- (C) Original: The following add-ons are missing the necessary files for health checking. -->
@@ -5672,9 +5639,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Font family -->
 
 	<phrase title="font_size" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Textstorlek]]></phrase>
-	<!-- (C) Original: Font size -->
-
+		><![CDATA[Fontstorlek]]></phrase>
 	<phrase title="for_length" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
 		><![CDATA[För längd]]></phrase>
 	<!-- (C) Original: For length -->
@@ -6677,25 +6642,17 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 	<!-- (C) Original: Items of this type cannot be purchased at the moment. -->
 
 	<phrase title="items_to_process_per_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Föremål som ska behandlas per sida]]></phrase>
+		><![CDATA[Objekt per sida]]></phrase>
 	<!-- (C) Original: Items to process per page -->
 
 	<phrase title="javascript_is_disabled_please_enable_before_proceeding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[JavaScript är inaktiverat. För en bättre upplevelse, vänligen aktivera JavaScript i din webbläsare innan du fortsätter.]]></phrase>
-	<!-- (C) Original: JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding. -->
-
 	<phrase title="join_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Gå med i datumet]]></phrase>
-	<!-- (C) Original: Join date -->
-
+		><![CDATA[Gick med]]></phrase>
 	<phrase title="joined" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
 		><![CDATA[Blev medlem]]></phrase>
-	<!-- (C) Original: Joined -->
-
 	<phrase title="jump_to_new" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Gå till nytt]]></phrase>
-	<!-- (C) Original: Jump to new -->
-
 	<phrase title="keywords" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
 		><![CDATA[Nyckelord]]></phrase>
 	<!-- (C) Original: Keywords -->
@@ -6706,28 +6663,16 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 
 	<phrase title="language" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
 		><![CDATA[Språk]]></phrase>
-	<!-- (C) Original: Language -->
-
 	<phrase title="language_chooser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Språkvalare]]></phrase>
-	<!-- (C) Original: Language chooser -->
-
 	<phrase title="language_code" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
 		><![CDATA[Språk]]></phrase>
-	<!-- (C) Original: Language -->
-
 	<phrase title="language_code.af_ZA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Afrikaans]]></phrase>
-	<!-- (C) Original: Afrikaans -->
-
 	<phrase title="language_code.am_ET" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Amhariska]]></phrase>
-	<!-- (C) Original: Amharic -->
-
 	<phrase title="language_code.ar_AR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Arabiska]]></phrase>
-	<!-- (C) Original: Arabic -->
-
 	<phrase title="language_code.ay_BO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Aymara]]></phrase>
 	<!-- (C) Original: Aymara -->
@@ -11465,17 +11410,11 @@ Callback arguments:
 	<!-- (C) Original: A pending import from {title} has been found. You may restart this import using the button below. -->
 
 	<phrase title="people_may_reply_to_this_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Folk kan svara på den här tråden]]></phrase>
-	<!-- (C) Original: People may reply to this thread -->
-
+		><![CDATA[Tråden går att besvara]]></phrase>
 	<phrase title="people_x_follows" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Människor {name} följer]]></phrase>
-	<!-- (C) Original: People {name} follows -->
-
+		><![CDATA[Medlemmar {name} följer]]></phrase>
 	<phrase title="people_you_follow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Folk du följer]]></phrase>
-	<!-- (C) Original: People you follow -->
-
+		><![CDATA[Medlemmar du följer]]></phrase>
 	<phrase title="performing_moderation_duties" addon_id="XF" version_id="1000034" version_string="1.0.0 Beta 4"
 		><![CDATA[Utföra modereringsuppgifter]]></phrase>
 	<!-- (C) Original: Performing moderation duties -->
@@ -12776,9 +12715,7 @@ Callback arguments:
 	<!-- (C) Original: Please wait {seconds} seconds. -->
 
 	<phrase title="points" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Points]]></phrase>
-	<!-- (C) Original: Points -->
-
+		><![CDATA[Poäng]]></phrase>
 	<phrase title="points_and_expiry_time_editable_when_giving_warning" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
 		><![CDATA[Poäng och utgångstid är redigerbara när du ger varning]]></phrase>
 	<!-- (C) Original: Points and expiry time are editable when giving warning -->
@@ -12796,13 +12733,9 @@ Callback arguments:
 	<!-- (C) Original: Points expiry -->
 
 	<phrase title="points_threshold" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Poäng tröskel]]></phrase>
-	<!-- (C) Original: Points threshold -->
-
+		><![CDATA[Poängtröskel]]></phrase>
 	<phrase title="poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Opinionsundersökning]]></phrase>
-	<!-- (C) Original: Poll -->
-
+		><![CDATA[Omröstning]]></phrase>
 	<phrase title="poll_change_content_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Ändra innehållswebbadress]]></phrase>
 	<!-- (C) Original: Change content URL -->
