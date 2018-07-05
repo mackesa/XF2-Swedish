@@ -1690,7 +1690,7 @@
 	<!-- (C) Original: Batch update threads -->
 
 	<phrase title="batch_update_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Batchuppdateringsanvändare]]></phrase>
+		><![CDATA[Satsvis uppdatering av medlemmar]]></phrase>
 	<!-- (C) Original: Batch update users -->
 
 	<phrase title="batch_update_was_completed_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3742,11 +3742,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Data passed into create WidgetConfig should either be an array or Entity -->
 
 	<phrase title="data_portability_export_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[På den här sidan kan du ladda ner en användares vanliga personuppgifter i XML-format för att överföra den data till ett annat system.]]></phrase>
+		><![CDATA[På den här sidan kan du ladda ner en medlems personuppgifter i XML-format för att överföra den data till ett annat system.]]></phrase>
 	<!-- (C) Original: This page will allow you to download a user's standard personal information in XML format for the purposes of transferring that data to another system. -->
 
 	<phrase title="data_portability_import_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Den nya användaren kommer att skickas en begäran om återställning av lösenord till deras e-postadress innan de kan använda sitt konto.]]></phrase>
+		><![CDATA[Den nya medlemmen kommer att skickas en begäran om återställning av lösenord till deras e-postadress innan de kan använda sitt konto.]]></phrase>
 	<!-- (C) Original: The new user will be sent a password reset request to their email address before being able to use their account. -->
 
 	<phrase title="data_to_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
@@ -4348,7 +4348,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Do not leave a redirect -->
 
 	<phrase title="do_not_rename_this_user" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Ändra inte den här användaren]]></phrase>
+		><![CDATA[Byt inte namn på den här medlemmen]]></phrase>
 	<!-- (C) Original: Do not rename this user -->
 
 	<phrase title="do_nothing" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
@@ -4874,7 +4874,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Email transport class -->
 
 	<phrase title="email_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[E-postanvändare]]></phrase>
+		><![CDATA[E-posta medlemmar]]></phrase>
 	<!-- (C) Original: Email users -->
 
 	<phrase title="email_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -5799,9 +5799,9 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Help -->
 
 	<phrase title="help_cookies_description" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[<p>Nedan redogörs för hur cookies används av den här webbplatsen. Om du fortsätter att använda den här webbplatsen samtycker du till vår användning av cookies.</p><h3 class="textHeading">Vad är cookies?</h3><p>Cookies är små textfiler som placeras på din dator av din webbläsare på begäran av en webbplats du besöker. Detta gör att webbplatsen kan komma ihåg saker om dig, till exempel dina preferenser och historia eller för att hålla dig inloggad.</p><p>Cookies kan lagras på din dator under en kort tid (t.ex. endast när webbläsaren är öppen) eller under en längre tid, till och med år. Cookies som inte begärts sparade av den här webbplatsen kommer inte att vara tillgängliga för oss.</p><h3 class="textHeading">Vår cookie användning</h3><p>Den här webbplatsen använder cookies för många saker, inklusive:</p><ul><li>Registrera och behåll dina preferenser. Detta inkluderar att du kan vara inloggad och behålla webbplatsen på det språk eller utseende du ställer in.</li><Li>Besöksstatistik och analys. Detta hjälper oss avgöra hur människor använder webbplatsen så att vi har möjlighet att förbättra den.</li><li>Reklam-cookies (eventuellt tredje part). Om den här sidan visar annonsering kan cookies anges av annonsörerna för att avgöra vem som har tittat på en annons eller liknande. Dessa cookies kan ställas in av tredje part och denna webbplats saknar möjlighet att läsa eller skriva dessa cookies.</li><li>Andra cookies från tredje part för saker som Facebook eller Twitter-delning. Dessa cookies kommer generellt att ställas in av tredje part självständigt, så den här webbplatsen har ingen möjlighet att komma åt dem.</li></ul><h3 class="textHeading">Standardcookies vi skapar</h3><p>
+		><![CDATA[<p>Nedan redogörs för hur cookies används av den här webbplatsen. Om du fortsätter att använda den här webbplatsen samtycker du till vår användning av cookies.</p><h3 class="textHeading">Vad är cookies?</h3><p>Cookies är små textfiler som placeras på din dator av din webbläsare på begäran av en webbplats du besöker. Detta gör att webbplatsen kan komma ihåg saker om dig, till exempel dina preferenser och historia eller för att hålla dig inloggad.</p><p>Cookies kan lagras på din dator under en kort tid (t.ex. endast när webbläsaren är öppen) eller under en längre tid, till och med år. Cookies som inte begärts sparade av den här webbplatsen kommer inte att vara tillgängliga för oss.</p><h3 class="textHeading">Vår cookie användning</h3><p>Den här webbplatsen använder cookies för många saker, inklusive:</p><ul><li>Registrera och behåll dina preferenser. Detta inkluderar att du kan vara inloggad och behålla webbplatsen på det språk eller utseende du ställer in.</li><Li>Besöksstatistik och analys. Detta hjälper oss avgöra hur webbplatsen används så att vi har möjlighet att förbättra den.</li><li>Reklam-cookies (eventuellt tredje part). Om den här sidan visar annonsering kan cookies anges av annonsörerna för att avgöra vem som har tittat på en annons eller liknande. Dessa cookies kan ställas in av tredje part och denna webbplats saknar möjlighet att läsa eller skriva dessa cookies.</li><li>Andra cookies från tredje part för saker som Facebook eller Twitter-delning. Dessa cookies kommer generellt att ställas in av tredje part självständigt, så den här webbplatsen har ingen möjlighet att komma åt dem.</li></ul><h3 class="textHeading">Standardcookies vi skapar</h3><p>
 Dessa är de viktigaste cookies vi placerar under normal drift av programvaran.
-</p><ul><li><strong>{cookiePrefix}csrf</strong><ul><li>Lagrar ett unikt "token", ett objekt som är unikt för dig och som används för att verifiera att de åtgärder du utför på den här webbplatsen var avsedda att utföras av dig.</li></ul></li><li><strong>{cookiePrefix}session </strong><ul><li>Lagrar nuvarande ID för din session.</li></ul></li><li><strong>{cookiePrefix}user</strong><ul><li>Lagrar en nyckel som är unik för dig, vilket gör det möjligt för oss att hålla dig inloggad i programvaran när du navigerar från sida till sida.</li></ul></li></ul><h3 class="textHeading"> Ytterligare cookies och de som placeras av tredje part</h3><p>
+</p><ul><li><strong>{cookiePrefix}csrf</strong><ul><li>Lagrar ett unikt "token", ett objekt som är unikt för dig och som används för att verifiera att de åtgärder du utför på den här webbplatsen var avsedda att utföras av dig.</li></ul></li><li><strong>{cookiePrefix}session </strong><ul><li>Lagrar nuvarande ID för din session.</li></ul></li><li><strong>{cookiePrefix}user</strong><ul><li>Lagrar en nyckel som är unik för dig, vilket möjliggör för oss att hålla dig inloggad i programvaran när du navigerar från sida till sida.</li></ul></li></ul><h3 class="textHeading"> Ytterligare cookies och de som placeras av tredje part</h3><p>
 Ytterligare cookies kan placeras under användningen av webbplatsen för att komma ihåg information som vissa åtgärder utförs, eller komma ihåg vissa inställningar.
 </p><p>
 Andra cookies kan komma att placeras av tjänsteleverantörer eller från tredje part som kan tillhandahålla information genom att anonymt spåra vem som besöker webbplatsen eller ställa in innehåll som är inbäddade på vissa sidor, till exempel YouTube eller andra medietjänstleverantörer.
@@ -5965,7 +5965,7 @@ Andra cookies kan komma att placeras av tjänsteleverantörer eller från tredje
 	<!-- (C) Original: If a conflict is discovered while attempting to merge, no automatic merging will happen. You will need to manually resolve the conflict. -->
 
 	<phrase title="if_disabled_messages_posted_will_not_contribute_to_user_message_total" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Om det är inaktiverat kommer meddelanden som postas (direkt) i det här forumet inte att bidra till att postanvändarens totala meddelanden räknas.]]></phrase>
+		><![CDATA[Om det är inaktiverat kommer meddelanden som postas (direkt) i det här forumet inte att bidra till att den postande medlemmens totala meddelanden räknas.]]></phrase>
 	<!-- (C) Original: If disabled, messages posted (directly) in this forum will not contribute towards the posting user's total messages count. -->
 
 	<phrase title="if_disabled_messages_will_never_appear_in_find_new_threads" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
@@ -6101,7 +6101,7 @@ Andra cookies kan komma att placeras av tjänsteleverantörer eller från tredje
 	<!-- (C) Original: If unselected, users will not see this node in the list. However, if the URL is known, it will still be accessible. -->
 
 	<phrase title="if_user_is_content_moderator_as_well_moderation_privileges_removed" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Om den här användaren också är en innehållsspecifik moderator, kommer dessa modereringsbehörigheter också att tas bort.]]></phrase>
+		><![CDATA[Om den här medlemmen också är en innehållsspecifik moderator, kommer dessa modereringsbehörigheter också att tas bort.]]></phrase>
 	<!-- (C) Original: If this user is a content-specific moderator as well, those moderation privileges will be removed as well. -->
 
 	<phrase title="if_usermultiple_groups_user_title_from_highest_priority" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -6320,7 +6320,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 	<!-- (C) Original: Inherit -->
 
 	<phrase title="initiate_conversations_with_this_user" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"
-		><![CDATA[Inled konversation med den här användaren]]></phrase>
+		><![CDATA[Inled konversation med den här medlemmen]]></phrase>
 	<!-- (C) Original: Initiate conversations with this user -->
 
 	<phrase title="inline" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -7340,7 +7340,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 	<!-- (C) Original: List sibling nodes -->
 
 	<phrase title="list_usernames_of_users_who_will_be_invited_to_this_conversation" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Ange användarnamnen till de medlemmar som kommer att bli inbjudna till det här konversationen. Den första användaren kommer att vara konversationsstartaren. Den nya användaren läggs till automatiskt i konversationen.]]></phrase>
+		><![CDATA[Ange användarnamnen till de medlemmar som kommer att bli inbjudna till det här konversationen. Den första medlemmen kommer att vara konversationsstartaren. Den nya medlemmen läggs till automatiskt i konversationen.]]></phrase>
 	<!-- (C) Original: List the usernames of the users who will be invited to this conversation. The first user will be the conversation starter. The new user will be added to the conversation automatically. -->
 
 	<phrase title="listed_below_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -7464,11 +7464,11 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 	<!-- (C) Original: Mail has been disabled via config.php. No outgoing mails will be sent to any users until the <code>$config['enableMail'] = false;</code> line is removed from config.php. -->
 
 	<phrase title="make_this_user_administrator" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Gör den här användaren till en administratör]]></phrase>
+		><![CDATA[Gör den här medlemmen till en administratör]]></phrase>
 	<!-- (C) Original: Make this user an administrator -->
 
 	<phrase title="make_this_user_moderator" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Gör den här användaren till en moderator]]></phrase>
+		><![CDATA[Gör den här medlemmen till en moderator]]></phrase>
 	<!-- (C) Original: Make this user a moderator -->
 
 	<phrase title="making_tag_permanent_prevents_it_from_being_removed" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -7504,7 +7504,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 	<phrase title="manually_promote_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Befordra medlem manuellt]]></phrase>
 	<phrase title="manually_upgrade_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Uppgradera användaren manuellt]]></phrase>
+		><![CDATA[Uppgradera medlemmen manuellt]]></phrase>
 	<!-- (C) Original: Manually upgrade user -->
 
 	<phrase title="mark_conversations_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -8099,7 +8099,7 @@ The callback should either return an array or nothing at all. If nothing is retu
 	<!-- (C) Original: User spam cleaned -->
 
 	<phrase title="mod_log.user_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användaren varnad (varning: {warning_title})]]></phrase>
+		><![CDATA[Medlemmen varnad (varning: {warning_title})]]></phrase>
 	<!-- (C) Original: User warned (warning: {warning_title}) -->
 
 	<phrase title="mod_log.user_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -8629,7 +8629,7 @@ The callback should either return an array or nothing at all. If nothing is retu
 	<!-- (C) Original: A list of threads which contain unread posts. -->
 
 	<phrase title="new_posts_filter_watched_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[En lista över trådar som användaren tittar på har nyligen publicerats i.]]></phrase>
+		><![CDATA[En lista över trådar som medlemmen tittar på har nyligen publicerats i.]]></phrase>
 	<!-- (C) Original: A list of threads the user is watching that have been recently posted in. -->
 
 	<phrase title="new_posts_latest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -8825,7 +8825,7 @@ The callback should either return an array or nothing at all. If nothing is retu
 	<!-- (C) Original: No IP address information is available for this content. -->
 
 	<phrase title="no_ip_logs_for_requested_user" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Inga IP-loggar hittades för den begärda användaren.]]></phrase>
+		><![CDATA[Inga IP-loggar hittades för den begärda medlemmen.]]></phrase>
 	<!-- (C) Original: No IP logs were found for the requested user. -->
 
 	<phrase title="no_ips_have_been_banned" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -9213,11 +9213,11 @@ The callback should either return an array or nothing at all. If nothing is retu
 	<!-- (C) Original: Notify thread starter of this action. -->
 
 	<phrase title="notify_user_if_action_was_taken" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Meddela användaren om åtgärder vidtagits]]></phrase>
+		><![CDATA[Meddela medlemmen om åtgärder vidtagits]]></phrase>
 	<!-- (C) Original: Notify user if action was taken -->
 
 	<phrase title="notify_user_of_this_action" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Meddela användaren av denna åtgärd.]]></phrase>
+		><![CDATA[Meddela medlemmen av denna åtgärd.]]></phrase>
 	<!-- (C) Original: Notify user of this action. -->
 
 	<phrase title="number" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -9428,7 +9428,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: Allowed code BB code block languages -->
 
 	<phrase title="option.approveSharedBannedRejectedIp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Godkänn manuellt om användaren delar IP som används av en bannlyst eller avvisad medlem sedan:]]></phrase>
+		><![CDATA[Godkänn manuellt om medlemmen delar IP som används av en bannlyst eller avvisad medlem sedan:]]></phrase>
 	<!-- (C) Original: Manually approve registration if user shares IP used by a banned or rejected user in last: -->
 
 	<phrase title="option.attachmentExtensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -10693,7 +10693,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
 	<!-- (C) Original: The @ character is used to initiate user mentions. If this option is disabled, successful user mentions will remove this character. -->
 
 	<phrase title="option_explain.userTitleLadderField" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[<a href="admin.php?user-title-ladder/"> Medlemmens titelstege </a> använder det här fältet för att bestämma hur människor flyttar upp stegen.]]></phrase>
+		><![CDATA[<a href="admin.php?user-title-ladder/"> Medlemmens titelstege </a> använder det här fältet för att bestämma hur medlemmar klättrar på stegen.]]></phrase>
 	<!-- (C) Original: The <a href="admin.php?user-title-ladder/">user title ladder</a> will use this field to determine how people move up the ladder. -->
 
 	<phrase title="option_explain.usernameLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -10950,7 +10950,7 @@ It is possible to filter the news feed down to just users you follow, or a singl
 	<!-- (C) Original: Optional components -->
 
 	<phrase title="optionally_describe_trophy_and_criteria_user_needs_to_award" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Beskriv eventuellt trofén och de kriterier som användaren behöver mötas för att bli tilldelad den.]]></phrase>
+		><![CDATA[Beskriv eventuellt trofén och de kriterier som medlemmen behöver uppfylla för att bli tilldelad den.]]></phrase>
 	<!-- (C) Original: Optionally describe the trophy and the criteria the user needs to meet to be awarded it. -->
 
 	<phrase title="options" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
@@ -11160,7 +11160,7 @@ Callback arguments:
 	<!-- (C) Original: This is the password of the {board_title} account that you wish to associate with. -->
 
 	<phrase title="password_reset_confirmation_will_be_emailed_to_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[En bekräftelse om lösenordsåterställning skickas till användaren och de kommer inte att kunna logga in tills de anger ett nytt lösenord.]]></phrase>
+		><![CDATA[En bekräftelse om lösenordsåterställning skickas till medlemmen och de kommer inte att kunna logga in tills de anger ett nytt lösenord.]]></phrase>
 	<!-- (C) Original: A password reset confirmation will be emailed to the user and they won't be able to log in until they set a new password. -->
 
 	<phrase title="password_reset_request_has_been_emailed_to_you" addon_id="XF" version_id="0" version_string=""
@@ -11957,19 +11957,19 @@ Callback arguments:
 	<!-- (C) Original: Please confirm that you wish to star the following conversation -->
 
 	<phrase title="please_confirm_that_you_wish_to_start_following_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Vänligen bekräfta att du vill börja följa den här användaren]]></phrase>
+		><![CDATA[Vänligen bekräfta att du vill börja följa den här medlemmen]]></phrase>
 	<!-- (C) Original: Please confirm that you wish to start following this user -->
 
 	<phrase title="please_confirm_that_you_wish_to_start_ignoring_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Vänligen bekräfta att du vill börja ignorera den här användaren]]></phrase>
+		><![CDATA[Vänligen bekräfta att du vill börja ignorera den här medlemmen]]></phrase>
 	<!-- (C) Original: Please confirm that you wish to start ignoring this user -->
 
 	<phrase title="please_confirm_that_you_wish_to_stop_following_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Vänligen bekräfta att du vill sluta följa den här användaren]]></phrase>
+		><![CDATA[Vänligen bekräfta att du vill sluta följa den här medlemmen]]></phrase>
 	<!-- (C) Original: Please confirm that you wish to stop following this user -->
 
 	<phrase title="please_confirm_that_you_wish_to_stop_ignoring_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Vänligen bekräfta att du vill sluta ignorera den här användaren]]></phrase>
+		><![CDATA[Vänligen bekräfta att du vill sluta ignorera den här medlemmen]]></phrase>
 	<!-- (C) Original: Please confirm that you wish to stop ignoring this user -->
 
 	<phrase title="please_confirm_that_you_wish_to_unstar_following_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -11981,11 +11981,11 @@ Callback arguments:
 	<!-- (C) Original: Please confirm that you would like to change to the following style -->
 
 	<phrase title="please_confirm_want_enable_promotion_for_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Vänligen bekräfta att du vill aktivera den här kampanjen för den valda användaren]]></phrase>
+		><![CDATA[Vänligen bekräfta att du vill aktivera den här kampanjen för den valda medlemmen]]></phrase>
 	<!-- (C) Original: Please confirm that you want enable this promotion for the selected user -->
 
 	<phrase title="please_confirm_want_remove_user_from_promotion" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Vänligen bekräfta att du vill ta bort den här användaren från den valda annonseringen]]></phrase>
+		><![CDATA[Vänligen bekräfta att du vill ta bort den här medlemmen från den valda annonseringen]]></phrase>
 	<!-- (C) Original: Please confirm that you want remove this user from the selected promotion -->
 
 	<phrase title="please_confirm_want_to_delete_forum_and_discussions" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -12105,7 +12105,7 @@ Callback arguments:
 	<!-- (C) Original: Please enter a name that is at most {count} characters long. -->
 
 	<phrase title="please_enter_name_to_rename_this_user_to" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Ange ett namn för att byta namn på den här användaren till.]]></phrase>
+		><![CDATA[Ange ett namn för att byta namn på den här medlemmen till.]]></phrase>
 	<!-- (C) Original: Please enter a name to rename this user to. -->
 
 	<phrase title="please_enter_number_that_is_at_least_x" addon_id="XF" version_id="0" version_string=""
@@ -13486,7 +13486,7 @@ E-post: <a href="mailto:datainspektionen@datainspektionen.se">datainspektionen@d
 	<!-- (C) Original: Removing likes -->
 
 	<phrase title="rename_this_user_to" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Byt namn på den här användaren till]]></phrase>
+		><![CDATA[Byt namn på den här medlemmen till]]></phrase>
 	<!-- (C) Original: Rename this user to -->
 
 	<phrase title="reopen_via_admin_control_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -13696,11 +13696,11 @@ Anmält innehåll:
 	<!-- (C) Original: The requested thread could not be found. -->
 
 	<phrase title="requested_user_not_found" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Den begärda användaren kunde inte hittas.]]></phrase>
+		><![CDATA[Den begärda medlemmen kunde inte hittas.]]></phrase>
 	<!-- (C) Original: The requested user could not be found. -->
 
 	<phrase title="requested_user_x_not_found" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Den begärda användaren "{name}" kunde inte hittas.]]></phrase>
+		><![CDATA[Den begärda medlemmen "{name}" kunde inte hittas.]]></phrase>
 	<!-- (C) Original: The requested user '{name}' could not be found. -->
 
 	<phrase title="requested_warning_not_found" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -14296,7 +14296,7 @@ Anmält innehåll:
 	<!-- (C) Original: Set new password -->
 
 	<phrase title="set_permissions_for_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ange behörigheter för användaren]]></phrase>
+		><![CDATA[Ange behörigheter för medlemmen]]></phrase>
 	<!-- (C) Original: Set permissions for user -->
 
 	<phrase title="set_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -14448,7 +14448,7 @@ Anmält innehåll:
 	<!-- (C) Original: Show only -->
 
 	<phrase title="show_peoples_signatures_with_their_messages" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Visa människors signaturer med sina meddelanden]]></phrase>
+		><![CDATA[Visa andra medlemmars signaturer i samband med deras inlägg]]></phrase>
 	<!-- (C) Original: Show people's signatures with their messages -->
 
 	<phrase title="show_signatures_with_messages" addon_id="XF" version_id="1000370" version_string="1.0.3"
@@ -14800,7 +14800,7 @@ Anmält innehåll:
 	<!-- (C) Original: The specified URL cannot be embedded as media. -->
 
 	<phrase title="specified_user_is_already_administrator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Den angivna användaren är redan en administratör.]]></phrase>
+		><![CDATA[Den angivna medlemmen är redan en administratör.]]></phrase>
 	<!-- (C) Original: The specified user is already an administrator. -->
 
 	<phrase title="specify_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -15048,7 +15048,7 @@ Anmält innehåll:
 	<!-- (C) Original: Check new registrations against the StopForumSpam database. -->
 
 	<phrase title="stopforumspam_enable_registration_check_explain" addon_id="XF" version_id="1040033" version_string="1.4.0 Beta 3"
-		><![CDATA[StopForumSpam testar data som samlas in från att registrera medlemskap och försöker bestämma om de är en känd spammare. Varje varningsflagga som användaren genererar räknas. Flaggor inkluderar användarnamn, e-postadress och IP-adress.]]></phrase>
+		><![CDATA[StopForumSpam testar data som samlas in från att registrera medlemskap och försöker bestämma om de är en känd spammare. Varje varningsflagga som medlemmen genererar räknas. Flaggor inkluderar användarnamn, e-postadress och IP-adress.]]></phrase>
 	<!-- (C) Original: StopForumSpam will test the data collected from registering users and attempt to determine if they are a known spammer. Each warning flag that the user generates will be counted. Flags include user name, email and IP address. -->
 
 	<phrase title="stopforumspam_frequencycutoff_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
@@ -16149,7 +16149,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
 	<!-- (C) Original: Defines the styling for the basic elements that are common to all text-based buttons -->
 
 	<phrase title="style_prop_desc.buttonCta" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ring till handlingsknappar sitter ensam och bjuda in användaren att göra något, till exempel lägga in en ny tråd]]></phrase>
+		><![CDATA[Ring till handlingsknappar sitter ensam och bjuda in medlemmen att göra något, till exempel lägga in en ny tråd]]></phrase>
 	<!-- (C) Original: Call to action buttons sit alone and invite the user to do something, like post a new thread -->
 
 	<phrase title="style_prop_desc.buttonDefault" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -16405,7 +16405,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
 	<!-- (C) Original: The member tooltip, which appears when hovering over user names, is styled with these controls -->
 
 	<phrase title="style_prop_desc.memberTooltipName" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Styling för namnet på användaren vars verktygstips visas]]></phrase>
+		><![CDATA[Styling för namnet på medlemmen vars verktygstips visas]]></phrase>
 	<!-- (C) Original: Styling for the name of the user whose tooltip is being displayed -->
 
 	<phrase title="style_prop_desc.menu" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -17764,35 +17764,35 @@ Genom att fortsätta använda den här webbplatsen samtycker du till vår använ
 	<!-- (C) Original: This will be used to uniquely identify this tag in a URL. It may only contain a-z, 0-9, - and _. Leave this blank to automatically generate it. -->
 
 	<phrase title="this_user_is_already_banned" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Den här användaren är redan bannlyst. Ändra eller ta bort den befintliga bankkortet istället.]]></phrase>
+		><![CDATA[Den här medlemmen är redan bannlyst. Ändra eller ta bort den befintliga bankkortet istället.]]></phrase>
 	<!-- (C) Original: This user is already banned. Please edit or delete the existing ban record instead. -->
 
 	<phrase title="this_user_is_already_rejected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Den här användaren är redan avvisad.]]></phrase>
+		><![CDATA[Den här medlemmen är redan avvisad.]]></phrase>
 	<!-- (C) Original: This user is already rejected. -->
 
 	<phrase title="this_user_is_already_reply_banned_from_this_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Den här användaren är redan bannlyst från att svara i den här tråden.]]></phrase>
+		><![CDATA[Den här medlemmen är redan bannlyst från att svara i den här tråden.]]></phrase>
 	<!-- (C) Original: This user is already reply banned from this thread. -->
 
 	<phrase title="this_user_is_an_admin_or_moderator_choose_another" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Den här användaren är en administratör eller moderator. Var god välj en annan medlem.]]></phrase>
+		><![CDATA[Den här medlemmen är en administratör eller moderator. Var god välj en annan medlem.]]></phrase>
 	<!-- (C) Original: This user is an admin or moderator. Please choose a different user. -->
 
 	<phrase title="this_user_not_receive_promotion_even_if_meets_requirements" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Den här användaren får inte denna kampanj, även om han eller hon uppfyller kraven.]]></phrase>
+		><![CDATA[Den här medlemmen får inte denna kampanj, även om han eller hon uppfyller kraven.]]></phrase>
 	<!-- (C) Original: This user will not receive this promotion even if he or she meets the requirements. -->
 
 	<phrase title="this_user_still_able_to_view_thread_not_reply" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Den här användaren kan fortfarande se den här tråden, men kommer inte att kunna svara förrän bannlysningen har löpt ut.]]></phrase>
+		><![CDATA[Den här medlemmen kan fortfarande se den här tråden, men kommer inte att kunna svara förrän bannlysningen har löpt ut.]]></phrase>
 	<!-- (C) Original: This user will still be able to view this thread, but will not be able to reply until the ban expires. -->
 
 	<phrase title="this_user_will_be_deleted" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
-		><![CDATA[Den här användaren kommer att raderas.]]></phrase>
+		><![CDATA[Den här medlemmen kommer att raderas.]]></phrase>
 	<!-- (C) Original: This user will be deleted. -->
 
 	<phrase title="this_user_will_receive_promotion_when_meets_requirements" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Den här användaren kommer att få denna kampanj när han eller hon uppfyller kraven.]]></phrase>
+		><![CDATA[Den här medlemmen kommer att få denna kampanj när han eller hon uppfyller kraven.]]></phrase>
 	<!-- (C) Original: This user will receive this promotion when he or she meets the requirements. -->
 
 	<phrase title="this_users_profile_is_not_available" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"
@@ -17804,23 +17804,23 @@ Genom att fortsätta använda den här webbplatsen samtycker du till vår använ
 	<!-- (C) Original: This widget is currently used in {positions} position(s). -->
 
 	<phrase title="this_will_allow_other_people_to_see_what_page_you_currently_viewing" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Detta gör det möjligt för andra att se vilken sida du för närvarande tittar på.]]></phrase>
+		><![CDATA[Detta möjliggör för andra att se vilken sida du för närvarande tittar på.]]></phrase>
 	<!-- (C) Original: This will allow other people to see what page you are currently viewing. -->
 
 	<phrase title="this_will_allow_other_people_to_see_when_you_online" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Detta gör det möjligt för andra att se när du är online.]]></phrase>
+		><![CDATA[Detta möjliggör för andra att se när du är online.]]></phrase>
 	<!-- (C) Original: This will allow other people to see when you are online. -->
 
 	<phrase title="this_will_allow_people_to_see_your_age" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Detta gör det möjligt för människor att se din ålder.]]></phrase>
+		><![CDATA[Detta möjliggör för andra att se din ålder.]]></phrase>
 	<!-- (C) Original: This will allow people to see your age. -->
 
 	<phrase title="this_will_be_shown_to_user_if_provided" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Detta kommer att visas för användaren om den tillhandahålls.]]></phrase>
+		><![CDATA[Om detta anges kommer att visas för medlemmen.]]></phrase>
 	<!-- (C) Original: This will be shown to the user if provided. -->
 
 	<phrase title="this_will_be_shown_to_user_if_you_choose_to_notify_them" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Detta kommer att visas för användaren om du väljer att meddela dem.]]></phrase>
+		><![CDATA[Detta kommer att visas för medlemmen om du väljer att meddela dem.]]></phrase>
 	<!-- (C) Original: This will be shown to the user if you choose to notify them. -->
 
 	<phrase title="this_will_be_used_to_identify_media_site_to_load_in_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -17836,7 +17836,7 @@ Genom att fortsätta använda den här webbplatsen samtycker du till vår använ
 	<!-- (C) Original: This will clean up any permission combinations which are no longer in use. This can speed up permission update and rebuild operations and remove unused data from the database. -->
 
 	<phrase title="this_will_delete_all_conversations_started_by_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Detta tar bort alla konversationer som startats av den här användaren. Den här åtgärden kan inte ångras.]]></phrase>
+		><![CDATA[Detta tar bort alla konversationer som startats av den här medlemmen. Den här åtgärden kan inte ångras.]]></phrase>
 	<!-- (C) Original: This will delete all conversations started by this user. This action cannot be undone. -->
 
 	<phrase title="this_will_generate_new_backup_codes" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -17848,7 +17848,7 @@ Genom att fortsätta använda den här webbplatsen samtycker du till vår använ
 	<!-- (C) Original: This will not be shown to the member receiving the warning. -->
 
 	<phrase title="this_will_not_remove_any_content_this_user_has_already_created" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Det tar inte bort innehåll som den här användaren redan har skapat.]]></phrase>
+		><![CDATA[Det tar inte bort innehåll som den här medlemmen redan har skapat.]]></phrase>
 	<!-- (C) Original: This will not remove any content this user has already created. -->
 
 	<phrase title="this_will_remove_any_data_created_by_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -18880,7 +18880,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User customizations to this navigation entry will be maintained across add-on upgrades. -->
 
 	<phrase title="user_delete_rename_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Om du väljer att byta namn på den här användaren ändras användarnamnet på allt innehåll som kan användas för att anonymisera innehållet i enlighet med Medlemmens raderingsrättigheter enligt GDPR-regler. Medlemmens ursprungliga namn kan fortfarande visas i citerat innehåll.]]></phrase>
+		><![CDATA[Om du väljer att byta namn på den här medlemmen ändras användarnamnet på allt innehåll som kan användas för att anonymisera innehållet i enlighet med medlemmens raderingsrättigheter enligt GDPR-regler. Medlemmens ursprungliga namn kan fortfarande visas i citerat innehåll.]]></phrase>
 	<!-- (C) Original: If you choose to rename this user, the username on all of their content will be changed which can be used to anonymize their content to comply with the user's erasure rights under GDPR rules. The user's original name may still appear in quoted content. -->
 
 	<phrase title="user_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -18888,7 +18888,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User details -->
 
 	<phrase title="user_editable" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren kan redigeras]]></phrase>
+		><![CDATA[Medlemmen kan redigeras]]></phrase>
 	<!-- (C) Original: User editable -->
 
 	<phrase title="user_email_confirmation_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -18916,23 +18916,23 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User groups -->
 
 	<phrase title="user_has_at_least_x_trophy_points" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Användaren har minst X trofé poäng]]></phrase>
+		><![CDATA[Medlemmen har minst X trofé poäng]]></phrase>
 	<!-- (C) Original: User has at least X trophy points -->
 
 	<phrase title="user_has_avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[User has an avatar]]></phrase>
+		><![CDATA[Medlemmen har en avatar]]></phrase>
 	<!-- (C) Original: User has an avatar -->
 
 	<phrase title="user_has_been_registered_for_at_least_x_days" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Användaren har registrerats i minst X dagar]]></phrase>
+		><![CDATA[Medlemmen har varit registrerad i minst X dagar]]></phrase>
 	<!-- (C) Original: User has been registered for at least X days -->
 
 	<phrase title="user_has_enabled_two_step_verification" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Användaren har aktiverat tvåstegsverifiering]]></phrase>
+		><![CDATA[Medlemmen har aktiverat tvåstegsverifiering]]></phrase>
 	<!-- (C) Original: User has enabled two-step verification -->
 
 	<phrase title="user_has_highdpi_avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användaren har en högupplöst (retina) avatar]]></phrase>
+		><![CDATA[Medlemmen har en högupplöst (retina) avatar]]></phrase>
 	<!-- (C) Original: User has a high-resolution (retina) avatar -->
 
 	<phrase title="user_has_no_avatar" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -18940,27 +18940,27 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User has no avatar -->
 
 	<phrase title="user_has_no_highdpi_avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användaren har ingen högupplöst (retina) avatar]]></phrase>
+		><![CDATA[Medlemmen har ingen högupplöst (retina) avatar]]></phrase>
 	<!-- (C) Original: User has no high-resolution (retina) avatar -->
 
 	<phrase title="user_has_not_enabled_two_step_verification" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Användaren har inte aktiverat tvåstegsverifiering]]></phrase>
+		><![CDATA[Medlemmen har inte aktiverat tvåstegsverifiering]]></phrase>
 	<!-- (C) Original: User has not enabled two-step verification -->
 
 	<phrase title="user_has_not_visited_for_at_least_x_days" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren har inte besökt i minst X dagar]]></phrase>
+		><![CDATA[Medlemmen har inte besökt de senaste X dagar]]></phrase>
 	<!-- (C) Original: User has not visited for at least X days -->
 
 	<phrase title="user_has_posted_at_least_x_messages" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Användaren har skrivit minst X meddelanden]]></phrase>
+		><![CDATA[Medlemmen har skrivit minst X meddelanden]]></phrase>
 	<!-- (C) Original: User has posted at least X messages -->
 
 	<phrase title="user_has_posted_no_more_than_x_messages" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"
-		><![CDATA[Användaren har inte skrivit mer än X-meddelanden]]></phrase>
+		><![CDATA[Medlemmen har inte skrivit mer än X-meddelanden]]></phrase>
 	<!-- (C) Original: User has posted no more than X messages -->
 
 	<phrase title="user_has_received_at_least_x_likes" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Användaren har fått minst X gillar]]></phrase>
+		><![CDATA[Medlemmen har fått minst X gillanden]]></phrase>
 	<!-- (C) Original: User has received at least X likes -->
 
 	<phrase title="user_id" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
@@ -18972,47 +18972,47 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User info -->
 
 	<phrase title="user_is_administrator" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren är en administratör]]></phrase>
+		><![CDATA[Medlemmen är en administratör]]></phrase>
 	<!-- (C) Original: User is an administrator -->
 
 	<phrase title="user_is_associated_with_any_of_selected_connected_account_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användaren är associerad med någon av de valda anslutna kontotillhandahållarna]]></phrase>
+		><![CDATA[Medlemmen är associerad med någon av de valda anslutna kontotillhandahållarna]]></phrase>
 	<!-- (C) Original: User is associated with any of the selected connected account providers -->
 
 	<phrase title="user_is_banned" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren är bannlyst]]></phrase>
+		><![CDATA[Medlemmen är bannlyst]]></phrase>
 	<!-- (C) Original: User is banned -->
 
 	<phrase title="user_is_browsing_with_following_language" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren surfar med följande språk]]></phrase>
+		><![CDATA[Medlemmen surfar med följande språk]]></phrase>
 	<!-- (C) Original: User is browsing with the following language -->
 
 	<phrase title="user_is_browsing_with_following_style" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren surfar med följande stil]]></phrase>
+		><![CDATA[Medlemmen surfar med följande stil]]></phrase>
 	<!-- (C) Original: User is browsing with the following style -->
 
 	<phrase title="user_is_guest" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren är gäst]]></phrase>
+		><![CDATA[Användaren är en gäst]]></phrase>
 	<!-- (C) Original: User is a guest -->
 
 	<phrase title="user_is_logged_in" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren är inloggad]]></phrase>
+		><![CDATA[Medlemmen är inloggad]]></phrase>
 	<!-- (C) Original: User is logged in -->
 
 	<phrase title="user_is_member_of_any_of_selected_user_groups" addon_id="XF" version_id="1010070" version_string="1.1.0"
-		><![CDATA[Användaren är medlem i någon av de valda medlemsgrupperna]]></phrase>
+		><![CDATA[Medlemmen är medlem i någon av de valda medlemsgrupperna]]></phrase>
 	<!-- (C) Original: User is a member of any of the selected user groups -->
 
 	<phrase title="user_is_moderator" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren är en moderator]]></phrase>
+		><![CDATA[Medlemmen är en moderator]]></phrase>
 	<!-- (C) Original: User is a moderator -->
 
 	<phrase title="user_is_not_member_of_any_of_selected_user_groups" addon_id="XF" version_id="1010070" version_string="1.1.0"
-		><![CDATA[Användaren är INTE medlem i någon av de valda medlemsgrupperna]]></phrase>
+		><![CDATA[Medlemmen är INTE medlem i någon av de valda medlemsgrupperna]]></phrase>
 	<!-- (C) Original: User is NOT a member of any of the selected user groups -->
 
 	<phrase title="user_like_message_ratio_is_at_least" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren gillar att meddelandet förhållandet är åtminstone]]></phrase>
+		><![CDATA[Medlemmen gillar att meddelandet förhållandet är åtminstone]]></phrase>
 	<!-- (C) Original: User likes to messages ratio is at least -->
 
 	<phrase title="user_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -19084,7 +19084,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: A user receiving this warning can be added to specific user groups until the warning has expired. -->
 
 	<phrase title="user_referred_from_search" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren anlände på denna sida från en sökmotor]]></phrase>
+		><![CDATA[Besökaren anlände till denna sida från en sökmotor]]></phrase>
 	<!-- (C) Original: User arrived on this site from a search engine -->
 
 	<phrase title="user_registration_ip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -19120,7 +19120,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: User value -->
 
 	<phrase title="user_who_received_this_warning_no_longer_exists" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Användaren som mottog denna varning finns inte längre.]]></phrase>
+		><![CDATA[Medlemmen som mottog denna varning finns inte längre.]]></phrase>
 	<!-- (C) Original: The user who received this warning no longer exists. -->
 
 	<phrase title="user_with_this_username_and_or_email_already_exists" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
@@ -20106,7 +20106,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: Displays the list of users from the specified member stat cache. -->
 
 	<phrase title="widget_def_desc.members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Visar en sammanfattning av antalet onlineanvändare, gäster och robotar samt en sammanfattning av medlemmar online och personer du följer.]]></phrase>
+		><![CDATA[Visar en sammanfattning av antalet medlemmar, gäster och robotar som är online samt en sammanfattning av medlemmar och personer du följer.]]></phrase>
 	<!-- (C) Original: Displays a summary of the number of online users, guests and robots, plus a summary of online members and people you follow. -->
 
 	<phrase title="widget_def_desc.new_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -20318,7 +20318,7 @@ Callback arguments:
 	<!-- (C) Original: Position inside the Help sidenav, below the navigation block. Widgets here will appear off canvas on narrow displays. -->
 
 	<phrase title="widget_pos_desc.member_view_sidebar" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"
-		><![CDATA[Placera i sidofältet medan du tittar på en medlems profil. Widgetmallar som gjorts i denna position kan använda den aktuella användarentiteten i parametern <code> {$context.user} </ code>.]]></phrase>
+		><![CDATA[Placera i sidofältet medan du tittar på en medlems profil. Widgetmallar som gjorts i denna position kan använda den aktuella medlemsentiteten i parametern <code> {$context.user} </ code>.]]></phrase>
 	<!-- (C) Original: Position in the sidebar while viewing a member's profile. Widget templates rendered in this position can use the current user entity in the <code>{$context.user}</code> param. -->
 
 	<phrase title="widget_pos_desc.member_wrapper_sidenav" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -20674,7 +20674,7 @@ Callback arguments:
 	<!-- (C) Original: {oldName} <span class="u-muted">user name changed to</span> {newName} -->
 
 	<phrase title="x_will_be_merged_into_this_user_and_all_of_xs_content_moved" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
-		><![CDATA[{name} kommer att slås samman med den här användaren och allt {name} s innehåll kommer nu att tillhöra denna medlem.]]></phrase>
+		><![CDATA[{name} kommer att slås samman med den här medlemmen och allt {name}:s innehåll kommer nu att tillhöra denna medlem.]]></phrase>
 	<!-- (C) Original: {name} will be merged into this user and all of {name}'s content will now belong to this user. -->
 
 	<phrase title="x_wrote_on_ys_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -20758,7 +20758,7 @@ Callback arguments:
 	<!-- (C) Original: You cannot demote yourself from being a super admin. -->
 
 	<phrase title="you_cannot_reassign_this_report_to_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Du kan inte vidarebefordra denna rapport till den här användaren.]]></phrase>
+		><![CDATA[Du kan inte vidarebefordra denna rapport till den här medlemmen.]]></phrase>
 	<!-- (C) Original: You cannot reassign this report to this user. -->
 
 	<phrase title="you_cannot_start_conversation_with_yourself" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -21011,7 +21011,7 @@ Two-step verification increases the security of your account by requiring you to
 	<!-- (C) Original: For security reasons, you must verify your existing password before you may set a new password. -->
 
 	<phrase title="you_not_currently_able_to_follow_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Du kan för närvarande inte följa den här användaren.]]></phrase>
+		><![CDATA[Du kan för närvarande inte följa den här medlemmen.]]></phrase>
 	<!-- (C) Original: You are not currently able to follow this user. -->
 
 	<phrase title="you_not_currently_following_any_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
