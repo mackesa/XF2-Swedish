@@ -19807,57 +19807,31 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: Viewable on profile pages -->
 
 	<phrase title="viewing_an_error" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Visar ett fel]]></phrase>
-	<!-- (C) Original: Viewing an error -->
-
+		><![CDATA[Ser på ett fel]]></phrase>
 	<phrase title="viewing_category" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Visa kategori]]></phrase>
-	<!-- (C) Original: Viewing category -->
-
+		><![CDATA[Ser på kategori]]></phrase>
 	<phrase title="viewing_forum" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Visa forum]]></phrase>
-	<!-- (C) Original: Viewing forum -->
-
+		><![CDATA[Ser på forum]]></phrase>
 	<phrase title="viewing_forum_list" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Visa forumlista]]></phrase>
-	<!-- (C) Original: Viewing forum list -->
-
+		><![CDATA[Ser på forumlista]]></phrase>
 	<phrase title="viewing_help" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Visa hjälp]]></phrase>
-	<!-- (C) Original: Viewing help -->
-
+		><![CDATA[Ser på hjälpen]]></phrase>
 	<phrase title="viewing_latest_content" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Visa senaste innehållet]]></phrase>
-	<!-- (C) Original: Viewing latest content -->
-
+		><![CDATA[Ser på senaste innehållet]]></phrase>
 	<phrase title="viewing_list_of_online_members" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Visa lista över medlemmar online]]></phrase>
-	<!-- (C) Original: Viewing list of online members -->
-
+		><![CDATA[Ser på lista över medlemmar online]]></phrase>
 	<phrase title="viewing_member_profile" addon_id="XF" version_id="1000052" version_string="1.0.0 Release Candidate 2"
-		><![CDATA[Visa medlemsprofil]]></phrase>
-	<!-- (C) Original: Viewing member profile -->
-
+		><![CDATA[Ser på medlemsprofil]]></phrase>
 	<phrase title="viewing_members" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Visa medlemmar]]></phrase>
-	<!-- (C) Original: Viewing members -->
-
+		><![CDATA[Ser på medlemmar]]></phrase>
 	<phrase title="viewing_page" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Visa sida]]></phrase>
-	<!-- (C) Original: Viewing page -->
-
+		><![CDATA[Ser på sida]]></phrase>
 	<phrase title="viewing_tags" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Visa taggar]]></phrase>
-	<!-- (C) Original: Viewing tags -->
-
+		><![CDATA[Ser på taggar]]></phrase>
 	<phrase title="viewing_thread" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Visningstråd]]></phrase>
-	<!-- (C) Original: Viewing thread -->
-
+		><![CDATA[Ser på tråden]]></phrase>
 	<phrase title="viewing_unknown_page" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
 		><![CDATA[Visar okänd sida]]></phrase>
-	<!-- (C) Original: Viewing unknown page -->
-
 	<phrase title="views" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"
 		><![CDATA[Visningar]]></phrase>
 	<!-- (C) Original: Views -->
