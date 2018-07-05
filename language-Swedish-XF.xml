@@ -22,6 +22,9 @@
 	Privacy policy: Integritetspolicy
 	Terms and rules: Medlemsvillkor
 	Member, user, people: Medlem (om det är en medlem och inte gäst)
+	Alert: Notifiering
+	Notice: Anslag
+	Discourage: Motarbeta
 
 	Manuell kontroll av översatta fraser
 	===================================
@@ -234,7 +237,7 @@
 	<phrase title="add_cron_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till cron-jobb]]></phrase>
 	<phrase title="add_discouraged_ip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till IP att avskräcka]]></phrase>
+		><![CDATA[Lägg till IP att motarbeta]]></phrase>
 	<phrase title="add_email_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till bannlysning av e-postadress]]></phrase>
 	<phrase title="add_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -266,7 +269,7 @@
 	<phrase title="add_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Lägg till nod]]></phrase>
 	<phrase title="add_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg till notis]]></phrase>
+		><![CDATA[Lägg till anslag]]></phrase>
 	<phrase title="add_on" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
 		><![CDATA[Add-on]]></phrase>
 	<phrase title="add_on_directory_x_is_not_writable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -472,7 +475,7 @@
 	<!-- (C) Original: Development -->
 
 	<phrase title="admin_navigation.discouragedIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[IP-adresser som avskräcks]]></phrase>
+		><![CDATA[IP-adresser som motarbetas]]></phrase>
 	<!-- (C) Original: Discouraged IP addresses -->
 
 	<phrase title="admin_navigation.emailBounceLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -596,9 +599,7 @@
 	<!-- (C) Original: Nodes -->
 
 	<phrase title="admin_navigation.notices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Notiser]]></phrase>
-	<!-- (C) Original: Notices -->
-
+		><![CDATA[Anslag]]></phrase>
 	<phrase title="admin_navigation.oEmbedLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[oEmbed logg]]></phrase>
 	<!-- (C) Original: oEmbed log -->
@@ -861,9 +862,7 @@
 	<!-- (C) Original: Manage nodes -->
 
 	<phrase title="admin_permission.notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Hantera meddelanden]]></phrase>
-	<!-- (C) Original: Manage notices -->
-
+		><![CDATA[Hantera anslag]]></phrase>
 	<phrase title="admin_permission.option" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Hantera alternativ]]></phrase>
 	<!-- (C) Original: Manage options -->
@@ -1016,15 +1015,15 @@
 	<!-- (C) Original: Akismet matched -->
 
 	<phrase title="alert_body" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Alert kroppen]]></phrase>
+		><![CDATA[Notifierings-kropp]]></phrase>
 	<!-- (C) Original: Alert body -->
 
 	<phrase title="alert_opt_out.conversation_message_like" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"
-		><![CDATA[Gillar ditt meddelande i en konversation]]></phrase>
+		><![CDATA[Gillar ditt inlägg i en konversation]]></phrase>
 	<!-- (C) Original: Likes your message in a conversation -->
 
 	<phrase title="alert_opt_out.post_insert" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Svar på en tittad tråd]]></phrase>
+		><![CDATA[Svar på en bevakad tråd]]></phrase>
 	<!-- (C) Original: Replies to a watched thread -->
 
 	<phrase title="alert_opt_out.post_like" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -1076,7 +1075,7 @@
 	<!-- (C) Original: Starts following you -->
 
 	<phrase title="alert_preferences" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Varningsinställningar]]></phrase>
+		><![CDATA[Notifieringsinställningar]]></phrase>
 	<!-- (C) Original: Alert preferences -->
 
 	<phrase title="alert_profile_post_insert" addon_id="XF" version_id="1000031" version_string="1.0.0 Beta 1"
@@ -1088,21 +1087,15 @@
 	<!-- (C) Original: {username} is now following you. -->
 
 	<phrase title="alert_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Larma medlemmar]]></phrase>
-	<!-- (C) Original: Alert users -->
-
+		><![CDATA[Notifiera medlemmar]]></phrase>
 	<phrase title="alert_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Du kan använda det här formuläret för att larma de medlemmar som matchar kriterierna nedan.]]></phrase>
+		><![CDATA[Du kan använda det här formuläret för att notifiera de medlemmar som matchar kriterierna nedan.]]></phrase>
 	<!-- (C) Original: You can use this form to send an alert to the users which match the criteria specified below. -->
 
 	<phrase title="alerting" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Larma]]></phrase>
-	<!-- (C) Original: Alerting -->
-
+		><![CDATA[Notifierar]]></phrase>
 	<phrase title="alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Larm]]></phrase>
-	<!-- (C) Original: Alerts -->
-
+		><![CDATA[Notifieringar]]></phrase>
 	<phrase title="align_center" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Centrera i linje med]]></phrase>
 	<!-- (C) Original: Align center -->
@@ -1196,7 +1189,7 @@
 	<!-- (C) Original: Allow new messages to be posted in this forum -->
 
 	<phrase title="allow_polls_to_be_created_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Tillåt omröstningar att skapas i det här forumet]]></phrase>
+		><![CDATA[Tillåt enkäter att skapas i det här forumet]]></phrase>
 	<!-- (C) Original: Allow polls to be created in this forum -->
 
 	<phrase title="allow_results_to_be_viewed_without_voting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -1224,7 +1217,7 @@
 	<!-- (C) Original: Allow {user} to invite others to this conversation -->
 
 	<phrase title="alternatively_use_ip_discouragement" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"
-		><![CDATA[Alternativt kan du använda IP-baserad avskräckning.]]></phrase>
+		><![CDATA[Alternativt kan du använda IP-baserad motarbetning.]]></phrase>
 	<!-- (C) Original: Alternatively, you may use IP-based discouragement. -->
 
 	<phrase title="alternatively_you_may_cancel_this_import_to_start_new_one" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
@@ -1491,11 +1484,11 @@
 	<!-- (C) Original: Automatically apply template modification -->
 
 	<phrase title="automatically_dismiss_notice" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Avvisa automatiskt meddelande när den är blekad]]></phrase>
+		><![CDATA[Avvisa automatiskt anslag när det bleknar bort]]></phrase>
 	<!-- (C) Original: Automatically dismiss notice when it is faded out -->
 
 	<phrase title="automatically_dismiss_notice_explain" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Det här alternativet gäller endast för flytande meddelanden och om en visningsperiod anges ovan.]]></phrase>
+		><![CDATA[Det här alternativet gäller endast för flytande anslag och om en visningsperiod anges ovan.]]></phrase>
 	<!-- (C) Original: This option is only valid for floating notices and if a display duration is specified above. -->
 
 	<phrase title="automatically_include_unsubscribe_link" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"
@@ -2183,7 +2176,7 @@ To support recurring billing and automatically reversing purchases when a paymen
 	<!-- (C) Original: Case sensitive -->
 
 	<phrase title="cast_vote" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Rösta omröstning]]></phrase>
+		><![CDATA[Rösta enkät]]></phrase>
 	<!-- (C) Original: Cast vote -->
 
 	<phrase title="categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -2218,7 +2211,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
 	<!-- (C) Original: Change log -->
 
 	<phrase title="change_vote" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ändra omröstning]]></phrase>
+		><![CDATA[Ändra enkät]]></phrase>
 	<!-- (C) Original: Change vote -->
 
 	<phrase title="changes_saved" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -2350,11 +2343,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Close -->
 
 	<phrase title="close_poll_after_value_nonsense" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Det angivna värdet efter vilket omröstningen ska stänga är inte meningsfullt.]]></phrase>
+		><![CDATA[Det angivna värdet efter vilket enkäten ska stänga är felaktigt.]]></phrase>
 	<!-- (C) Original: The value specified after which the poll should close does not make sense. -->
 
 	<phrase title="close_this_poll_after" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Stäng denna omröstning efter]]></phrase>
+		><![CDATA[Stäng denna enkät efter]]></phrase>
 	<!-- (C) Original: Close this poll after -->
 
 	<phrase title="close_this_poll_on_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -2644,7 +2637,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Confirm disassociation -->
 
 	<phrase title="confirm_dismiss_notice" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Är du säker på att du vill avvisa detta meddelande?]]></phrase>
+		><![CDATA[Är du säker på att du vill avvisa detta anslag?]]></phrase>
 	<!-- (C) Original: Are you sure you want to dismiss this notice? -->
 
 	<phrase title="confirm_lifting_of_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4207,25 +4200,25 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Disassociating with all external accounts will cause a password to be generated for your account and emailed to {email}. -->
 
 	<phrase title="discourage" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"
-		><![CDATA[Avskräcka]]></phrase>
+		><![CDATA[Motarbeta]]></phrase>
 	<!-- (C) Original: Discourage -->
 
 	<phrase title="discourage_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Avskräcka medlem]]></phrase>
+		><![CDATA[Motarbeta medlem]]></phrase>
 	<!-- (C) Original: Discourage users -->
 
 	<phrase title="discouraged" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Avskräckt]]></phrase>
+		><![CDATA[Motarbetad]]></phrase>
 	<!-- (C) Original: Discouraged -->
 
 	<phrase title="discouraged_hint" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"
-		><![CDATA[Avskräckta medlemmar utsätts för irriterande slumpmässiga förseningar och fel i systembeteende, utformade för att "uppmuntra" dem att gå och trolla någon annan webbplats.]]></phrase>
+		><![CDATA[Motarbetade medlemmar utsätts för irriterande slumpmässiga förseningar och fel i systembeteende, utformade för att "uppmuntra" dem att gå och trolla någon annan webbplats.]]></phrase>
 	<phrase title="discouraged_ip_addresses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[IP-adresser som avskräcks]]></phrase>
+		><![CDATA[IP-adresser som motarbetas]]></phrase>
 	<!-- (C) Original: Discouraged IP addresses -->
 
 	<phrase title="discouragement_state" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Avskräckningsstatus]]></phrase>
+		><![CDATA[Motarbetningsstatus]]></phrase>
 	<!-- (C) Original: Discouragement state -->
 
 	<phrase title="dismiss" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4233,7 +4226,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Dismiss -->
 
 	<phrase title="dismiss_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Avvisa meddelande]]></phrase>
+		><![CDATA[Avvisa anslag]]></phrase>
 	<!-- (C) Original: Dismiss notice -->
 
 	<phrase title="display_children_in_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4573,7 +4566,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit navigation -->
 
 	<phrase title="edit_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ändra meddelande]]></phrase>
+		><![CDATA[Ändra anslag]]></phrase>
 	<!-- (C) Original: Edit notice -->
 
 	<phrase title="edit_option" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -5422,7 +5415,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<phrase title="filter_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Bevakade]]></phrase>
 	<phrase title="filters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Filter]]></phrase>
+		><![CDATA[Filtrera]]></phrase>
 	<phrase title="finalize_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
 		><![CDATA[Slutför importen]]></phrase>
 	<phrase title="finalizing" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
@@ -5512,7 +5505,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: The following members could not be found: {members}. -->
 
 	<phrase title="following_notices_may_contain_page_criteria_which_is_no_longer_matched" addon_id="XF" version_id="2000570" version_string="2.0.5"
-		><![CDATA[Följande meddelande kan innehålla sidkriterier som inte längre matchas]]></phrase>
+		><![CDATA[Följande anslag kan innehålla sidkriterier som inte längre matchas]]></phrase>
 	<!-- (C) Original: The following notice(s) may contain page criteria which is no longer matched -->
 
 	<phrase title="following_payment_providers_do_not_support_recurring_payments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -5620,7 +5613,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: You can limit the amount of notifications that can be triggered by a user watching a forum here. For example, if you select "new threads", users will only be able to choose between no notifications or notifications when a new thread is posted. This can be used to limit the overhead of the forum watching system in busy forums. -->
 
 	<phrase title="forum_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Forum tittade på]]></phrase>
+		><![CDATA[Bevakade forum]]></phrase>
 	<!-- (C) Original: Forum watched -->
 
 	<phrase title="forum_x_marked_as_read" addon_id="XF" version_id="1010031" version_string="1.1.0 Beta 1"
@@ -5984,7 +5977,7 @@ Andra cookies kan komma att placeras av tjänsteleverantörer eller från tredje
 	<!-- (C) Original: If disabled, users will not be able to post new messages or edit or delete their own messages. Moderators will still be able to manage the contents of this forum. -->
 
 	<phrase title="if_disabled_users_not_given_option_to_create_poll_with_thread" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Om den är inaktiverad får användarna inte möjlighet att skapa en omröstning när du lägger in en tråd eller lägger till en senare. Om en tråd med en omröstning flyttas in i det här forumet, kommer det att hålla omröstningen.]]></phrase>
+		><![CDATA[Om den är inaktiverad får användarna inte möjlighet att skapa en enkät när du lägger in en tråd eller lägger till en senare. Om en tråd med en enkät flyttas in i det här forumet, kommer det att hålla enkäten.]]></phrase>
 	<!-- (C) Original: If disabled, users will not be given the option to create a poll when posting a thread or to add one later. If a thread with a poll is moved into this forum, it will keep the poll. -->
 
 	<phrase title="if_enabled_all_banners_applicable_to_user_will_be_shown" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
@@ -6491,7 +6484,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 	<!-- (C) Original: IP to ban -->
 
 	<phrase title="ip_to_discourage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[IP att avskräcka]]></phrase>
+		><![CDATA[IP att motarbeta]]></phrase>
 	<!-- (C) Original: IP to discourage -->
 
 	<phrase title="ip_x_and_y_more" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -8840,7 +8833,7 @@ The callback should either return an array or nothing at all. If nothing is retu
 	<!-- (C) Original: No IPs have been banned. -->
 
 	<phrase title="no_ips_have_been_discouraged" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"
-		><![CDATA[Inga IP har blivit avskräckta.]]></phrase>
+		><![CDATA[Inga IP har blivit motarbetade.]]></phrase>
 	<!-- (C) Original: No IPs have been discouraged. -->
 
 	<phrase title="no_items_have_been_created_yet" addon_id="XF" version_id="1010270" version_string="1.1.2"
@@ -9100,7 +9093,7 @@ The callback should either return an array or nothing at all. If nothing is retu
 	<!-- (C) Original: Not banned -->
 
 	<phrase title="not_discouraged" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Inte avskräckt]]></phrase>
+		><![CDATA[Inte motarbetad]]></phrase>
 	<!-- (C) Original: Not discouraged -->
 
 	<phrase title="not_in_secondary_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -9172,45 +9165,41 @@ The callback should either return an array or nothing at all. If nothing is retu
 	<!-- (C) Original: Notes -->
 
 	<phrase title="notice_display_length_desc" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Längden av tid för att visa meddelande på skärmen, i millisekunder, innan de bleknar ut. Använd 0 för att visa tills avvisad.]]></phrase>
+		><![CDATA[Längden av tid för att visa anslag på skärmen, i millisekunder, innan de bleknar ut. Använd 0 för att visa tills avvisad.]]></phrase>
 	<!-- (C) Original: Length of time to display notice on screen, in milliseconds, before fading out. Use 0 to display until dismissed. -->
 
 	<phrase title="notice_display_type_desc" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Blockmeddelanden visas högst upp på sidan ovanför det övre navigationselementet. Flytande meddelanden visas i nedre högra hörnet. Fasta anteckningar är fulla bredd och fixeras längst ner på sidan.]]></phrase>
+		><![CDATA[Block-anslag visas högst upp på sidan ovanför det övre navigationselementet. Flytande anslag visas i nedre högra hörnet. Fasta anteckningar är fulla bredd och fixeras längst ner på sidan.]]></phrase>
 	<!-- (C) Original: Block notices are displayed at the top of the page above the top breadcrumb. Floating notices are displayed in the bottom right corner. Fixed notes are full width and fixed to the bottom of the page. -->
 
 	<phrase title="notice_fade_delay_desc" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Längd på tid för att fördröja meddelandet, i millisekunder, innan det bleknar in.]]></phrase>
+		><![CDATA[Längd på tid för att fördröja anslaget i millisekunder, innan det bleknar in.]]></phrase>
 	<!-- (C) Original: Length of time to delay displaying the notice, in milliseconds, before fading in. -->
 
 	<phrase title="notice_is_active" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Meddelandet är aktivt]]></phrase>
+		><![CDATA[Anslaget är aktivt]]></phrase>
 	<!-- (C) Original: Notice is active -->
 
 	<phrase title="notice_may_be_dismissed" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Meddelandet kan ogillas]]></phrase>
+		><![CDATA[Anslaget kan ogillas]]></phrase>
 	<!-- (C) Original: Notice may be dismissed -->
 
 	<phrase title="notice_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Meddelandealternativ]]></phrase>
+		><![CDATA[Anslagsalternativ]]></phrase>
 	<!-- (C) Original: Notice options -->
 
 	<phrase title="notice_title_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Ange en titel för detta meddelande, som kommer att visas i flikhuvudet i meddelandeområdet. Håll det kort!]]></phrase>
+		><![CDATA[Ange en titel för detta anslag, som kommer att visas i flikhuvudet i meddelandeområdet. Håll det kort!]]></phrase>
 	<!-- (C) Original: Provide a title for this notice, which will appear in the tab header of the notices area. Keep it short! -->
 
 	<phrase title="notice_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Meddelande typ]]></phrase>
-	<!-- (C) Original: Notice type -->
-
+		><![CDATA[Anslagstyp]]></phrase>
 	<phrase title="notice_visibility_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Använd dessa inställningar för att styra synligheten baserat på visningsstorlek. Dessa inställningar är kopplade till <a href="{styleUrl}"> responsiva brytpunktsstilegenskaper </a> och kan variera beroende på vald stil.]]></phrase>
 	<!-- (C) Original: Use these settings to control visibility based on display size. These settings are linked to the <a href="{styleUrl}">responsive break point style properties</a> and may vary depending on the selected style. -->
 
 	<phrase title="notices" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Notiser]]></phrase>
-	<!-- (C) Original: Notices -->
-
+		><![CDATA[Anslag]]></phrase>
 	<phrase title="notify_author_of_this_action" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
 		><![CDATA[Meddela författare av denna åtgärd.]]></phrase>
 	<!-- (C) Original: Notify author of this action. -->
@@ -9429,9 +9418,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: Days to retain viewed alerts -->
 
 	<phrase title="option.alertsPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Varningar per sida]]></phrase>
-	<!-- (C) Original: Alerts per-page -->
-
+		><![CDATA[Notifieringar per sida]]></phrase>
 	<phrase title="option.alertsPopupExpiryHours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Hours för att behålla visade varningar i popup]]></phrase>
 	<!-- (C) Original: Hours to retain viewed alerts in popup -->
@@ -9617,9 +9604,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: Automated bounced email handler -->
 
 	<phrase title="option.emailConversationIncludeMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Inkludera fullständig meddelandetext i konversationssnotifierings-epost.]]></phrase>
-	<!-- (C) Original: Include full message text in conversation notification emails. -->
-
+		><![CDATA[Inkludera fullständig meddelandetext i e-postmeddelandet.]]></phrase>
 	<phrase title="option.emailFileCheckWarning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Skicka filhälsokontrollvarningsmeddelanden:]]></phrase>
 	<!-- (C) Original: Send file health check warning emails: -->
@@ -9653,13 +9638,9 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: Enable news feed -->
 
 	<phrase title="option.enableNotices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Aktivera meddelande system]]></phrase>
-	<!-- (C) Original: Enable notices system -->
-
+		><![CDATA[Aktivera anslagssystemet]]></phrase>
 	<phrase title="option.enableSearch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Aktivera sökmotorn]]></phrase>
-	<!-- (C) Original: Enable search engine -->
-
+		><![CDATA[Aktivera sökmotor]]></phrase>
 	<phrase title="option.enableTagging" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
 		><![CDATA[Aktivera innehållsmärkning]]></phrase>
 	<!-- (C) Original: Enable content tagging -->
@@ -9873,7 +9854,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: Log oEmbed request referrers for x days: -->
 
 	<phrase title="option.onlineStatusTimeout" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Online status timeout]]></phrase>
+		><![CDATA[Onlinestatus-timeout]]></phrase>
 	<!-- (C) Original: Online status timeout -->
 
 	<phrase title="option.pinterestShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -9889,7 +9870,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: Maximum number of poll choices -->
 
 	<phrase title="option.preventDiscouragedRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Förhindra avskräckta IP-adresser från att registrera]]></phrase>
+		><![CDATA[Förhindra motarbetade IP-adresser från att registrera]]></phrase>
 	<!-- (C) Original: Prevent discouraged IP addresses from registering -->
 
 	<phrase title="option.privacyPolicyLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
@@ -9963,21 +9944,13 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: Shared IPs check limit -->
 
 	<phrase title="option.showFirstCookieNotice" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Visa cookie meddelande till gästerna]]></phrase>
-	<!-- (C) Original: Show cookie notice to guests -->
-
+		><![CDATA[Visa information om cookies för gäster]]></phrase>
 	<phrase title="option.showMessageOnlineStatus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Visa online statusindikator]]></phrase>
-	<!-- (C) Original: Show online status indicator -->
-
+		><![CDATA[Visa onlinestatusindikator]]></phrase>
 	<phrase title="option.sitemapAutoRebuild" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Skapa automatiskt sitemap]]></phrase>
-	<!-- (C) Original: Automatically build sitemap -->
-
+		><![CDATA[Skapa webbplatskarta automatiskt]]></phrase>
 	<phrase title="option.sitemapAutoSubmit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Skicka automatiskt webbplatskarta till sökmotorer]]></phrase>
-	<!-- (C) Original: Automatically submit sitemap to search engines -->
-
+		><![CDATA[Skicka webbplatskartan automatiskt till sökmotorer]]></phrase>
 	<phrase title="option.sitemapExclude" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Inkluderat webbplatskarta innehåll]]></phrase>
 	<!-- (C) Original: Included sitemap content -->
@@ -10075,9 +10048,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: User name validation -->
 
 	<phrase title="option.watchAlertActiveOnly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Skicka endast kollade innehållsvarningar / e-postmeddelanden till medlemmar som är aktiva senast:]]></phrase>
-	<!-- (C) Original: Only send watched content alerts/emails to users active in last: -->
-
+		><![CDATA[Skicka endast bevakningsnotifieringar / e-postmeddelanden till medlemmar som varit aktiva senast:]]></phrase>
 	<phrase title="option.whatsAppShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Aktivera WhatsApp-delningsknapp]]></phrase>
 	<!-- (C) Original: Enable WhatsApp share button -->
@@ -10111,7 +10082,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<!-- (C) Original: Controls how many alerts are shown on each page of users' full alert list. -->
 
 	<phrase title="option_explain.alertsPopupExpiryHours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Alarmen popup kommer att visa alla ovisade varningar plus eventuella visade varningar som visades inom tidsramen (i timmar) före nu. Observera att det totala beloppet som visas i den här popupen är begränsat till högst 25.]]></phrase>
+		><![CDATA[Notifierings-popup kommer att visa alla ovisade notifieringar plus eventuella visade notifieringar som visades inom tidsramen (i timmar) före nu. Observera att det totala beloppet som visas i den här popupen är begränsat till högst 25.]]></phrase>
 	<!-- (C) Original: The alert popup will show all unviewed alerts, plus any viewed alerts that were viewed within the time frame (in hours) before now. Note that the total amount shown in this popup is limited to no more than 25. -->
 
 	<phrase title="option_explain.allowedCodeLanguages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -10225,27 +10196,27 @@ XenForo will not collect any data without your consent, the data will be stored 
 	<!-- (C) Original: Enter the words or phrases that are disallowed in custom user titles. All censored words are automatically disallowed. Place each word or phrase on separate lines. -->
 
 	<phrase title="option_explain.discourageBlankChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Du kan eventuellt avskräcka medlemmar med en tom sida från tid till annan. Ange den procentuella chansen att detta händer.]]></phrase>
+		><![CDATA[Du kan eventuellt motarbeta medlemmar med en tom sida från tid till annan. Ange den procentuella chansen att detta händer.]]></phrase>
 	<!-- (C) Original: You may present discouraged users with a blank page from time to time. Enter the percentage chance of this happening. -->
 
 	<phrase title="option_explain.discourageDelay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Avskräckta medlemmen utsätts för en sidladdningsfördröjning av en slumpmässig period mellan de två värden som anges här.]]></phrase>
+		><![CDATA[Motarbetade medlemmen utsätts för en sidladdningsfördröjning av en slumpmässig period mellan de två värden som anges här.]]></phrase>
 	<!-- (C) Original: Discouraged users will be subjected to a page loading delay of a random period between the two values provided here. -->
 
 	<phrase title="option_explain.discourageFloodMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Den normala minsta tiden mellan meddelanden kan multipliceras för att tvinga en avskräckt medlem att vänta längre mellan inlägget. Ange en multiplikator här.]]></phrase>
+		><![CDATA[Den normala minsta tiden mellan meddelanden kan multipliceras för att tvinga en motarbetad medlem att vänta längre mellan inlägget. Ange en multiplikator här.]]></phrase>
 	<!-- (C) Original: The standard minimum time between messages can be multiplied to make discouraged users wait longer between posting. Enter a multiplier here. -->
 
 	<phrase title="option_explain.discourageRedirectChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ange den procentuella chansen att en avskräckt medlem omdirigeras till omdirigeringssidan.]]></phrase>
+		><![CDATA[Ange den procentuella chansen att en motarbetad medlem omdirigeras till omdirigeringssidan.]]></phrase>
 	<!-- (C) Original: Enter the percentage chance that a discouraged user will be redirected to the redirection page. -->
 
 	<phrase title="option_explain.discourageRedirectUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Du kan slumpmässigt omdirigera avskräckta medlemmar till en annan sida. Lämna detta tomt för att omdirigera till forumets hemsida.]]></phrase>
+		><![CDATA[Du kan slumpmässigt omdirigera motarbetade medlemmar till en annan sida. Lämna detta tomt för att omdirigera till forumets hemsida.]]></phrase>
 	<!-- (C) Original: You may randomly redirect discouraged users to a different page. Leave this blank to redirect to the forum home page. -->
 
 	<phrase title="option_explain.discourageSearchChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[När avskräckta medlemmar försöker söka definierar detta alternativ den procentuella chansen att de kommer att hitta den inaktiverad. (0 = aldrig, 100 = alltid)]]></phrase>
+		><![CDATA[När motarbetade medlemmar försöker söka definierar detta alternativ den procentuella chansen att de kommer att hitta den inaktiverad. (0 = aldrig, 100 = alltid)]]></phrase>
 	<!-- (C) Original: When discouraged users attempt to search, this option defines the percentage chance that they will find it disabled. (0 = never, 100 = always) -->
 
 	<phrase title="option_explain.discussionPreview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -10313,7 +10284,7 @@ All threshold values are limited to bounces generated in the last 30 days.]]></p
 	<!-- (C) Original: With this option disabled, viewing the news feed will be completely disabled. -->
 
 	<phrase title="option_explain.enableNotices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Om du inte använder anmälningssystemet kan du helt inaktivera det och spara en fråga om sessionstillverkning.]]></phrase>
+		><![CDATA[Om du inte använder anslagssystemet kan lika gärna inaktivera det och spara en databasfråga då sessonen skapas.]]></phrase>
 	<!-- (C) Original: If you don't use the notices system, you can completely disable it and save a query on session creation. -->
 
 	<phrase title="option_explain.enableSearch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -10732,9 +10703,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
 	<phrase title="option_explain.usernameValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[]]></phrase>
 	<phrase title="option_explain.watchAlertActiveOnly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Om det är aktiverat tittar innehållsvarningar och e-postmeddelanden skickas endast till medlemmar som har besökt inom det angivna antalet dagar. Detta kan förbättra prestanda på stora eller mycket aktiva installationer.]]></phrase>
-	<!-- (C) Original: If enabled, watched content alerts and emails will only be sent to users that have visited within the specified number of days. This can improve performance on large or very active installations. -->
-
+		><![CDATA[Om det är aktiverat så visas bevakningsnotifiering och skickas e-postmeddelanden endast till medlemmar som har besökt inom det angivna antalet dagar. Detta kan förbättra prestanda på stora eller mycket aktiva installationer.]]></phrase>
 	<phrase title="option_explain.whatsAppShare" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
 		><![CDATA[Om en medlemmar klickar på den här knappen WhatsApp öppnas en lista med medlemmar som ska dela den aktuella webbadressen och titeln för den aktuella sidan.]]></phrase>
 	<!-- (C) Original: If a user clicks this button WhatsApp will open a list of users with whom to share the current page URL and title. -->
@@ -11468,7 +11437,7 @@ Callback arguments:
 	<!-- (C) Original: View threads by others -->
 
 	<phrase title="permission.forum_votePoll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Rösta på omröstningar]]></phrase>
+		><![CDATA[Delta i enkäter]]></phrase>
 	<!-- (C) Original: Vote on polls -->
 
 	<phrase title="permission.forum_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -11900,7 +11869,7 @@ Callback arguments:
 	<!-- (C) Original: Please confirm that you want to disable the following add-on -->
 
 	<phrase title="please_confirm_that_you_want_to_discourage_following_ip" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Vänligen bekräfta att du vill avskräcka från följande IP-adress]]></phrase>
+		><![CDATA[Vänligen bekräfta att du vill motarbeta följande IP-adress]]></phrase>
 	<!-- (C) Original: Please confirm that you want to discourage the following IP address -->
 
 	<phrase title="please_confirm_that_you_want_to_downgrade_following_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -11936,7 +11905,7 @@ Callback arguments:
 	<!-- (C) Original: Please confirm that you want to remove the following user as a super moderator -->
 
 	<phrase title="please_confirm_that_you_want_to_reset_following_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Vänligen bekräfta att du vill återställa följande meddelande]]></phrase>
+		><![CDATA[Vänligen bekräfta att du vill återställa följande anslag]]></phrase>
 	<!-- (C) Original: Please confirm that you want to reset the following notice -->
 
 	<phrase title="please_confirm_that_you_want_to_restore_data_and_status_of_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -12152,7 +12121,7 @@ Callback arguments:
 	<!-- (C) Original: Please enter the page content. -->
 
 	<phrase title="please_enter_poll_question" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Ange en giltig omröstningsfråga.]]></phrase>
+		><![CDATA[Ange en giltig enkätsfråga.]]></phrase>
 	<!-- (C) Original: Please enter a valid poll question. -->
 
 	<phrase title="please_enter_positive_whole_number" addon_id="XF" version_id="0" version_string=""
@@ -12608,21 +12577,21 @@ Callback arguments:
 	<phrase title="points_threshold" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Poängtröskel]]></phrase>
 	<phrase title="poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Omröstning]]></phrase>
+		><![CDATA[Enkät]]></phrase>
 	<phrase title="poll_change_content_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Ändra innehållswebbadress]]></phrase>
 	<!-- (C) Original: Change content URL -->
 
 	<phrase title="poll_change_content_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Om du vill ändra den aktuella enkäten anger du URL-adressen till det innehåll som för närvarande innehåller en omröstning som bifogas den.]]></phrase>
+		><![CDATA[Om du vill ändra den aktuella enkäten anger du URL-adressen till det innehåll som för närvarande innehåller en enkät som bifogas den.]]></phrase>
 	<!-- (C) Original: If you wish to change the current poll enter the URL of the content which currently has a poll attached to it. -->
 
 	<phrase title="poll_choice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Val av omröstning]]></phrase>
+		><![CDATA[Val av enkät]]></phrase>
 	<!-- (C) Original: Poll choice -->
 
 	<phrase title="poll_closed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Omröstning stängd]]></phrase>
+		><![CDATA[Enkät stängd]]></phrase>
 	<!-- (C) Original: Poll closed -->
 
 	<phrase title="poll_content_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -12630,7 +12599,7 @@ Callback arguments:
 	<!-- (C) Original: Content URL -->
 
 	<phrase title="poll_content_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ange webbadressen till det innehåll som för närvarande har en omröstning kopplad till den.]]></phrase>
+		><![CDATA[Ange webbadressen till det innehåll som för närvarande har en enkät kopplad till den.]]></phrase>
 	<!-- (C) Original: Enter the URL of the content which currently has a poll attached to it. -->
 
 	<phrase title="poll_for_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -12646,7 +12615,7 @@ Callback arguments:
 	<!-- (C) Original: Poll results -->
 
 	<phrase title="poll_voters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Omröstningsväljare]]></phrase>
+		><![CDATA[Enkätsväljare]]></phrase>
 	<!-- (C) Original: Poll voters -->
 
 	<phrase title="polls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -12746,7 +12715,7 @@ Callback arguments:
 	<!-- (C) Original: Post -->
 
 	<phrase title="post_poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Skriv en omröstning]]></phrase>
+		><![CDATA[Skriv en enkät]]></phrase>
 	<!-- (C) Original: Post a poll -->
 
 	<phrase title="post_public_warning" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -13221,7 +13190,7 @@ E-post: <a href="mailto:datainspektionen@datainspektionen.se">datainspektionen@d
 	<!-- (C) Original: Rebuild now -->
 
 	<phrase title="rebuild_poll_information" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Återuppbygg omröstningsinformation]]></phrase>
+		><![CDATA[Återuppbygg enkätsinformation]]></phrase>
 	<!-- (C) Original: Rebuild poll information -->
 
 	<phrase title="rebuild_position_and_post_counters" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -13823,7 +13792,7 @@ Anmält innehåll:
 	<!-- (C) Original: Reset transmogrifier -->
 
 	<phrase title="resetting_notice_display_to_all_users_matching_not_restore_guests" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Återställandet av detta meddelande kommer att visa det för alla medlemmar som matchar meddelandekriterierna, även om de tidigare har avfärdat det. Observera att detta inte kommer att återställa meddelandet till gäster som har avskedat det.]]></phrase>
+		><![CDATA[Återställandet av detta anslag kommer att visa det för alla medlemmar som matchar meddelandekriterierna, även om de tidigare har avfärdat det. Observera att detta inte kommer att återställa anslaget till gäster som har avfärdat det.]]></phrase>
 	<!-- (C) Original: Resetting this notice will display it to all of the users matching the notice criteria, even if they have previously dismissed it. Note that this will not restore the notice to guests who have dismissed it. -->
 
 	<phrase title="resolve_using_both" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
@@ -13851,11 +13820,11 @@ Anmält innehåll:
 	<!-- (C) Original: Restore -->
 
 	<phrase title="restore_dismissed_notices" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"
-		><![CDATA[Återställa uppsagda meddelanden]]></phrase>
+		><![CDATA[Återställ avfärdade anslag]]></phrase>
 	<!-- (C) Original: Restore dismissed notices -->
 
 	<phrase title="restore_dismissed_notices_hint" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"
-		><![CDATA[Eventuella meddelanden som du tidigare har avvisat kommer att återställas för att se om du markerar det här alternativet.]]></phrase>
+		><![CDATA[Eventuella anslag som du tidigare har avvisat kommer att återställas om du markerar det här alternativet.]]></phrase>
 	<!-- (C) Original: Any notices you have previously dismissed will be restored to view if you check this option. -->
 
 	<phrase title="restored" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -13863,7 +13832,7 @@ Anmält innehåll:
 	<!-- (C) Original: Restored -->
 
 	<phrase title="results_only_viewable_after_voting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Resultatet är endast synligt efter omröstning.]]></phrase>
+		><![CDATA[Resultatet är endast synligt efter enkät.]]></phrase>
 	<!-- (C) Original: Results are only viewable after voting. -->
 
 	<phrase title="retain_content_ids" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
@@ -14451,7 +14420,7 @@ Anmält innehåll:
 	<!-- (C) Original: Show during registration -->
 
 	<phrase title="show_full_post_thread_editor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Visa hela inlägget ny trådredigerare, med alternativ för att bifoga filer, skapa omröstningar och mer]]></phrase>
+		><![CDATA[Visa hela inlägget ny trådredigerare, med alternativ för att bifoga filer, skapa enkäter och mer]]></phrase>
 	<!-- (C) Original: Show the full post new thread editor, with options for attaching files, creating polls and more -->
 
 	<phrase title="show_hidden_content_by_x" addon_id="XF" global_cache="1" version_id="1010010" version_string="1.1.0 Alpha"
@@ -14471,7 +14440,7 @@ Anmält innehåll:
 	<!-- (C) Original: Show on overview tab -->
 
 	<phrase title="show_online_status" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Visa online status]]></phrase>
+		><![CDATA[Visa onlinestatus]]></phrase>
 	<!-- (C) Original: Show online status -->
 
 	<phrase title="show_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -14519,7 +14488,7 @@ Anmält innehåll:
 	<!-- (C) Original: Show your current activity -->
 
 	<phrase title="show_your_online_status" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Visa din online status]]></phrase>
+		><![CDATA[Visa din onlinestatus]]></phrase>
 	<!-- (C) Original: Show your online status -->
 
 	<phrase title="showing_all_items" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"
@@ -15748,7 +15717,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
 	<!-- (C) Original: Sub-forums display style -->
 
 	<phrase title="style_prop.noticeScrollInterval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Rullande meddelandeintervall]]></phrase>
+		><![CDATA[Rullande anslagsintervall]]></phrase>
 	<!-- (C) Original: Scrollable notice interval -->
 
 	<phrase title="style_prop.overlayHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -16532,7 +16501,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
 	<!-- (C) Original: Choose the style in which sub-forums will be displayed within a particular node element, according to the amount of space you want them to occupy -->
 
 	<phrase title="style_prop_desc.noticeScrollInterval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Varje bläddringsmeddelande visas i denna tid innan nästa visas. Att häva eller interagera med meddelandena kommer att förhindra automatisk rullning.]]></phrase>
+		><![CDATA[Varje rullande anslag visas i denna tid innan nästa visas. Att häva eller interagera med anslagen kommer att förhindra automatisk rullning.]]></phrase>
 	<!-- (C) Original: Each scrollable notice will be displayed for this amount of time before the next is displayed. Hovering or interacting with the notices will prevent auto scrolling. -->
 
 	<phrase title="style_prop_desc.overlayHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -17399,7 +17368,7 @@ When the payment has been approved, your account will be upgraded.]]></phrase>
 	<!-- (C) Original: The following recipients could not be found: {names}. -->
 
 	<phrase title="the_message_to_be_shown_when_the_display_criteria_are_met" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"
-		><![CDATA[Meddelandet som ska visas när visningskriteriet är uppfyllt. Du kan infoga <b> {name} </ b> för att ersättas med den aktuella besökarens användarnamn och {title} som ska ersättas med titeln på detta meddelande.]]></phrase>
+		><![CDATA[Meddelandetext som ska visas när visningskriteriet är uppfyllt. Du kan infoga <b> {name} </ b> för att ersättas med den aktuella besökarens användarnamn och {title} som ska ersättas med titeln på detta anslag.]]></phrase>
 	<!-- (C) Original: The message to be shown when the display criteria are met. You may insert <b>{name}</b> to be replaced with the current visitor's user name and {title} to be replaced with this notice's title. -->
 
 	<phrase title="the_uploaded_file_was_not_an_image_as_expected" addon_id="XF" version_id="1010470" version_string="1.1.4"
@@ -19195,7 +19164,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: Users logged at {ip} -->
 
 	<phrase title="users_may_hide_this_notice_when_they_have_read_it" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Medlemmar kan gömma detta meddelande när de har läst det.]]></phrase>
+		><![CDATA[Medlemmar kan gömma detta anslag när de har läst det.]]></phrase>
 	<!-- (C) Original: Users may hide this notice when they have read it. -->
 
 	<phrase title="users_redirected_to_url_when_click_on_link_forum" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -19811,9 +19780,9 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<phrase title="viewing_category" addon_id="XF" version_id="0" version_string=""
 		><![CDATA[Ser på kategori]]></phrase>
 	<phrase title="viewing_forum" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Ser på forum]]></phrase>
+		><![CDATA[Ser på forumtavlan]]></phrase>
 	<phrase title="viewing_forum_list" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[Ser på forumlista]]></phrase>
+		><![CDATA[Ser på forumlistan]]></phrase>
 	<phrase title="viewing_help" addon_id="XF" version_id="0" version_string=""
 		><![CDATA[Ser på hjälpen]]></phrase>
 	<phrase title="viewing_latest_content" addon_id="XF" version_id="0" version_string=""
@@ -19831,7 +19800,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<phrase title="viewing_thread" addon_id="XF" version_id="0" version_string=""
 		><![CDATA[Ser på tråden]]></phrase>
 	<phrase title="viewing_unknown_page" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Visar okänd sida]]></phrase>
+		><![CDATA[Ser på okänd sida]]></phrase>
 	<phrase title="views" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"
 		><![CDATA[Visningar]]></phrase>
 	<!-- (C) Original: Views -->
@@ -19947,15 +19916,15 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<phrase title="watched_forum_email_html_footer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[<p class="minorText">Vänligen svara inte på detta meddelandet. Du måste besöka forumet för att svara.</p><p class = "minorText">Detta meddelande skickades till dig eftersom du har valt att bevaka forumet "{node_title}" på {board} och du har begärt att få e-postmeddelande om nya trådar och svar. Du kommer inte att få några ytterligare e-postmeddelanden om den detta tills du har läst de nya meddelandena på forumet.</p><p class = "minorText">Om du inte längre vill ha dessa e-postmeddelanden kan du välja att <a href="{disable_this_link}">inaktivera e-postmeddelanden från detta forum</a> alternativt <a href="{disable_all_link}">inaktivera e-postmeddelanden från samtliga forum du bevakar</a>.</p>]]></phrase>
 	<phrase title="watched_forum_message_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[<p>{replier} postade ett nytt meddelande till ett forum du tittar på på {board}.</p>]]></phrase>
+		><![CDATA[<p>{replier} postade ett nytt meddelande till ett forum du bevakar på {board}.</p>]]></phrase>
 	<!-- (C) Original: <p>{replier} posted a new message to a forum you are watching at {board}.</p> -->
 
 	<phrase title="watched_forum_thread_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[<p>{replier} postade en ny tråd till ett forum du tittar på på {board}.</p>]]></phrase>
+		><![CDATA[<p>{replier} postade en ny tråd till ett forum du bevakar på {board}.</p>]]></phrase>
 	<!-- (C) Original: <p>{replier} posted a new thread to a forum you are watching at {board}.</p> -->
 
 	<phrase title="watched_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Tittade på forum]]></phrase>
+		><![CDATA[Bevakade forum]]></phrase>
 	<!-- (C) Original: Watched forums -->
 
 	<phrase title="watched_thread_email_html_footer" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"
@@ -20045,7 +20014,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: Latest profile posts -->
 
 	<phrase title="widget.latest_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Senast tittade]]></phrase>
+		><![CDATA[Senast bevakade]]></phrase>
 	<!-- (C) Original: Latest watched -->
 
 	<phrase title="widget.unread_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -20093,7 +20062,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: Newest members -->
 
 	<phrase title="widget_def.online_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Online statistik]]></phrase>
+		><![CDATA[Onlinestatistik]]></phrase>
 	<!-- (C) Original: Online statistics -->
 
 	<phrase title="widget_def.php_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -20109,7 +20078,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: Template syntax -->
 
 	<phrase title="widget_def.thread_poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Thread poll]]></phrase>
+		><![CDATA[Enkät]]></phrase>
 	<!-- (C) Original: Thread poll -->
 
 	<phrase title="widget_def.visitor_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -20885,7 +20854,7 @@ Callback arguments:
 	<!-- (C) Original: You may not delete the default item -->
 
 	<phrase title="you_may_not_dismiss_this_notice" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Du får inte avvisa detta meddelande.]]></phrase>
+		><![CDATA[Du kan inte avvisa detta anslag.]]></phrase>
 	<!-- (C) Original: You may not dismiss this notice. -->
 
 	<phrase title="you_may_not_follow_yourself" addon_id="XF" version_id="0" version_string=""
@@ -21054,15 +21023,15 @@ Two-step verification increases the security of your account by requiring you to
 	<!-- (C) Original: You are not currently ignoring any members. -->
 
 	<phrase title="you_not_watching_any_categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Du tittar inte på några kategorier.]]></phrase>
+		><![CDATA[Du bevakar inte på några kategorier.]]></phrase>
 	<!-- (C) Original: You are not watching any categories. -->
 
 	<phrase title="you_not_watching_any_forums" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
-		><![CDATA[Du tittar inte på några forum.]]></phrase>
+		><![CDATA[Du bevakar inte på några forum.]]></phrase>
 	<!-- (C) Original: You are not watching any forums. -->
 
 	<phrase title="you_not_watching_any_threads" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Du tittar inte på några trådar.]]></phrase>
+		><![CDATA[Du bevakar inte på några trådar.]]></phrase>
 	<!-- (C) Original: You are not watching any threads. -->
 
 	<phrase title="you_should_only_enter_route_part_of_url_here_example" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
