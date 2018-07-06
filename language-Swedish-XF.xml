@@ -21,10 +21,12 @@
 	Breadcrumb: Navigationselement
 	Privacy policy: Integritetspolicy
 	Terms and rules: Medlemsvillkor
-	Member, user, people: Medlem (om det är en medlem och inte gäst)
+	Member, user, people: Medlem (om det inte är en gäst)
 	Alert: Notifiering
 	Notice: Anslag
 	Discourage: Motarbeta
+	Messages: Inlägg
+	Poll: Enkät
 
 	Manuell kontroll av översatta fraser
 	===================================
@@ -111,7 +113,7 @@
 	<phrase title="active_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Aktiva rapporter]]></phrase>
 	<phrase title="active_user_changed_reload_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Den aktiva medlemmen har ändrats. Ladda om sidan.]]></phrase>
+		><![CDATA[Den aktiva användare ändrades. Var snäll ladda om sidan.]]></phrase>
 	<phrase title="active_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Aktiva medlemsuppgraderingar]]></phrase>
 	<phrase title="ad_pos.container_breadcrumb_bottom_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -1205,9 +1207,7 @@
 	<!-- (C) Original: Allow user selection -->
 
 	<phrase title="allow_users_to" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Tillåt medlem att]]></phrase>
-	<!-- (C) Original: Allow users to -->
-
+		><![CDATA[Tillåt medlemmar att]]></phrase>
 	<phrase title="allow_voters_to_change_their_votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Låt väljarna ändra sina röster]]></phrase>
 	<!-- (C) Original: Allow voters to change their votes -->
@@ -5481,7 +5481,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<phrase title="follow" addon_id="XF" global_cache="1" version_id="1000011" version_string="1.0.0 Alpha 1"
 		><![CDATA[Följ]]></phrase>
 	<phrase title="follow_people_to_fill_it" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Följ andra medlemmar för att fylla det.]]></phrase>
+		><![CDATA[Följ andra medlemmar för att fylla det med innehåll.]]></phrase>
 	<phrase title="follow_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
 		><![CDATA[Följ {name}]]></phrase>
 	<phrase title="followed_members_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -7634,15 +7634,15 @@ Example regular expression with 'id' named sub-pattern:<br /><code>#https://www\
 	<!-- (C) Original: Member of no secondary groups -->
 
 	<phrase title="member_stat.most_likes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[De flesta gillar]]></phrase>
+		><![CDATA[Mest gillade]]></phrase>
 	<!-- (C) Original: Most likes -->
 
 	<phrase title="member_stat.most_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[De flesta meddelanden]]></phrase>
+		><![CDATA[Flest inlägg]]></phrase>
 	<!-- (C) Original: Most messages -->
 
 	<phrase title="member_stat.most_points" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[De flesta poäng]]></phrase>
+		><![CDATA[Flesta poäng]]></phrase>
 	<!-- (C) Original: Most points -->
 
 	<phrase title="member_stat.staff_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -8869,7 +8869,7 @@ The callback should either return an array or nothing at all. If nothing is retu
 	<!-- (C) Original: No moderator actions have been logged. -->
 
 	<phrase title="no_notable_members_can_currently_be_shown" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Inga anmärkningsvärda medlemmar kan för närvarande visas.]]></phrase>
+		><![CDATA[Inga nämnvärda medlemmar kan för närvarande visas.]]></phrase>
 	<!-- (C) Original: No notable members can currently be shown. -->
 
 	<phrase title="no_notifications_forum_watch_description" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
@@ -9117,7 +9117,7 @@ The callback should either return an array or nothing at all. If nothing is retu
 	<!-- (C) Original: Not sticky -->
 
 	<phrase title="notable_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Anmärkningsvärda medlemmar]]></phrase>
+		><![CDATA[Nämnvärda medlemmar]]></phrase>
 	<!-- (C) Original: Notable members -->
 
 	<phrase title="note" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
@@ -12695,7 +12695,7 @@ Callback arguments:
 	<!-- (C) Original: Post in thread '{title}' -->
 
 	<phrase title="post_likes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Post gillar]]></phrase>
+		><![CDATA[Inläggsgillanden]]></phrase>
 	<!-- (C) Original: Post likes -->
 
 	<phrase title="post_messages_on_this_users_profile_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -12703,13 +12703,9 @@ Callback arguments:
 	<!-- (C) Original: Post messages on this user's profile page -->
 
 	<phrase title="post_messages_on_your_profile_page" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Skicka in meddelanden på din profilsida]]></phrase>
-	<!-- (C) Original: Post messages on your profile page -->
-
+		><![CDATA[Posta inlägg på din profilsida]]></phrase>
 	<phrase title="post_new_thread_in_this_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Lägg in en ny tråd i det här forumet]]></phrase>
-	<!-- (C) Original: Post a new thread in this forum -->
-
+		><![CDATA[Starta en ny tråd i det här forumet]]></phrase>
 	<phrase title="post_noun" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
 		><![CDATA[Posta]]></phrase>
 	<!-- (C) Original: Post -->
@@ -19760,11 +19756,9 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: View your backup codes. -->
 
 	<phrase title="view_your_details_on_your_profile_page" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Visa dina uppgifter på din profilsida]]></phrase>
-	<!-- (C) Original: View your details on your profile page -->
-
+		><![CDATA[Se dina uppgifter på din profilsida]]></phrase>
 	<phrase title="view_your_identities" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Visa dina identiteter]]></phrase>
+		><![CDATA[Se dina identiteter]]></phrase>
 	<!-- (C) Original: View your identities -->
 
 	<phrase title="viewable_in_message_user_info" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
@@ -20322,7 +20316,7 @@ Callback arguments:
 	<!-- (C) Original: Position in the sidebar while viewing a member's profile. Widget templates rendered in this position can use the current user entity in the <code>{$context.user}</code> param. -->
 
 	<phrase title="widget_pos_desc.member_wrapper_sidenav" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Visas inuti medlemshanteringsmallen som sveper de anmärkningsvärda medlemmarna och medlemslistan listar sidor i sidoväggen.]]></phrase>
+		><![CDATA[Visas inuti medlemshanteringsmallen som sveper de nämnvärda medlemmarna och medlemslistan listar sidor i sidoväggen.]]></phrase>
 	<!-- (C) Original: Displays inside the member wrapper template which wraps the notable members and member lists pages in the sidenav. -->
 
 	<phrase title="widget_pos_desc.online_list_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
