@@ -4773,28 +4773,16 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 
 	<phrase title="email_address" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"
 		><![CDATA[E-postadress]]></phrase>
-	<!-- (C) Original: Email address -->
-
 	<phrase title="email_address_contains" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
 		><![CDATA[Medlemmens e-postadress innehåller]]></phrase>
-	<!-- (C) Original: User's email address contains -->
-
 	<phrase title="email_address_you_entered_appears_have_typo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[E-postadressen du skrev in verkar ha ett typsnitt. Var god försök en annan.]]></phrase>
-	<!-- (C) Original: The email address you entered appears to have a typo. Please try another. -->
-
+		><![CDATA[E-postadressen du skrev in verkar inte vara korrekt. Var god kontrollera att du angivit en korrekt e-postadress.]]></phrase>
 	<phrase title="email_address_you_entered_has_been_banned_by_administrator" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[E-postadressen du angav har blivit bannlyst av administratören. Var god försök med en annan.]]></phrase>
-	<!-- (C) Original: The email address you entered has been banned by the administrator. Please try another. -->
-
+		><![CDATA[Den e-postadressen du angav är bannlyst av administratören. Var god försök med en annan.]]></phrase>
 	<phrase title="email_address_you_registered_with_is_required_to_reset_your_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Den e-postadress du är registrerad med krävs för att återställa ditt lösenord.]]></phrase>
-	<!-- (C) Original: The email address you are registered with is required to reset your password. -->
-
+		><![CDATA[Ange den e-postadress som står angiven i din medlemsprofil.]]></phrase>
 	<phrase title="email_addresses_must_be_unique" addon_id="XF" version_id="0" version_string=""
-		><![CDATA[E-postadresser måste vara unika. Den angivna e-postadressen används redan.]]></phrase>
-	<!-- (C) Original: Email addresses must be unique. The specified email address is already in use. -->
-
+		><![CDATA[Den angivna e-postadressen används redan av någon annan. Troligtvis har du redan registrerat ett medlemskonto.]]></phrase>
 	<phrase title="email_body" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[E-postkropp]]></phrase>
 	<!-- (C) Original: Email body -->
@@ -6021,9 +6009,7 @@ Andra cookies kan komma att placeras av tjänsteleverantörer eller från tredje
 	<!-- (C) Original: If entered, the URL to this forum will not contain an ID. Use a-z, 0-9, _, and - characters only. Note that once specified, changing this value will cause URLs to be broken. -->
 
 	<phrase title="if_forgotten_your_password_use_form_to_reset" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Om du har glömt ditt lösenord kan du använda det här formuläret för att återställa ditt lösenord. Du får ett mail med instruktioner.]]></phrase>
-	<!-- (C) Original: If you have forgotten your password, you can use this form to reset your password. You will receive an email with instructions. -->
-
+		><![CDATA[Om du har glömt ditt lösenord kan du återställa det här. Vi skickar då ett e-postmeddelande till dig med instruktioner.]]></phrase>
 	<phrase title="if_provide_example_bb_code_appear_on_bb_code_help_page" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"
 		><![CDATA[Om du anger ett exempel visas den här BB-koden på BB-koden.]]></phrase>
 	<!-- (C) Original: If you provide an example, this BB code will appear on the BB code help page. -->
@@ -13342,7 +13328,7 @@ E-post: <a href="mailto:datainspektionen@datainspektionen.se">datainspektionen@d
 	<!-- (C) Original: Register date -->
 
 	<phrase title="register_faster_using" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Registrera snabbare med]]></phrase>
+		><![CDATA[Registrera dig snabbare med]]></phrase>
 	<!-- (C) Original: Register faster using -->
 
 	<phrase title="register_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -13751,28 +13737,18 @@ Anmält innehåll:
 
 	<phrase title="resend_confirmation_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Skicka om e-postbekräftelse]]></phrase>
-	<!-- (C) Original: Resend confirmation email -->
-
 	<phrase title="resend_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Skicka email igen]]></phrase>
-	<!-- (C) Original: Resend email -->
-
+		><![CDATA[Skicka e-postmeddelande igen]]></phrase>
 	<phrase title="reset" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Återställa]]></phrase>
-	<!-- (C) Original: Reset -->
-
+		><![CDATA[Återställ]]></phrase>
 	<phrase title="reset_all_votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Återställ alla röster]]></phrase>
 	<!-- (C) Original: Reset all votes -->
 
 	<phrase title="reset_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Återställ lösenord]]></phrase>
-	<!-- (C) Original: Reset password -->
-
 	<phrase title="reset_poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Återställ poll]]></phrase>
-	<!-- (C) Original: Reset poll -->
-
+		><![CDATA[Återställ enkät]]></phrase>
 	<phrase title="reset_transmogrifier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Återställ transmogrifier]]></phrase>
 	<!-- (C) Original: Reset transmogrifier -->
@@ -17621,9 +17597,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
 	<!-- (C) Original: This is the maximum number of responses a voter may select when voting. -->
 
 	<phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Detta är namnet som kommer att visas med dina meddelanden. Du kan använda namnet du önskar. En gång inställd kan detta inte ändras.]]></phrase>
-	<!-- (C) Original: This is the name that will be shown with your messages. You may use any name you wish. Once set, this cannot be changed. -->
-
+		><![CDATA[Detta är det namnet som kommer att visas på forumet tillsammans med dina inlägg. Du kan använda vilket namn du vill så länge det är ledigt och inte strider mot <a href="{tos}" target="_blank">medlemsvillkoren</a>. Du kan inte byta användarnamn när det väl är valt.]]></phrase>
 	<phrase title="this_is_unique_identifier_for_field_cannot_be_changed" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
 		><![CDATA[Detta är den unika identifieraren för det här fältet. Den kan inte ändras när den är inställd.]]></phrase>
 	<!-- (C) Original: This is the unique identifier for this field. It cannot be changed once set. -->
