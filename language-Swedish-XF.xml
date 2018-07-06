@@ -14936,21 +14936,15 @@ Anmält innehåll:
 	<!-- (C) Original: Status update by {username} -->
 
 	<phrase title="stay_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Stanna inloggad]]></phrase>
-	<!-- (C) Original: Stay logged in -->
-
+		><![CDATA[Förbli inloggad]]></phrase>
 	<phrase title="step_x_of_y" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
 		><![CDATA[Steg {current} av {total}]]></phrase>
 	<!-- (C) Original: Step {current} of {total} -->
 
 	<phrase title="stick_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Stickgänga]]></phrase>
-	<!-- (C) Original: Stick thread -->
-
+		><![CDATA[Klistra tråd]]></phrase>
 	<phrase title="stick_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Stick trådar]]></phrase>
-	<!-- (C) Original: Stick threads -->
-
+		><![CDATA[Klistra trådar]]></phrase>
 	<phrase title="sticky" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
 		><![CDATA[Klistrad]]></phrase>
 	<!-- (C) Original: Sticky -->
