@@ -5609,7 +5609,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Forum watch notification limit -->
 
 	<phrase title="forum_watch_notification_limit_desc" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
-		><![CDATA[Du kan begränsa antalet anmälningar som kan utlösas av en medlem som tittar på ett forum här. Om du till exempel väljer "nya trådar", kan användarna bara välja mellan inga meddelanden eller meddelanden när en ny tråd läggs ut. Detta kan användas för att begränsa överskottet av forumets tittande system i upptagna forum.]]></phrase>
+		><![CDATA[Du kan begränsa antalet anmälningar som kan utlösas av en medlem som tittar på ett forum här. Om du till exempel väljer "nya trådar", kan medlemmarna bara välja mellan inga meddelanden eller meddelanden när en ny tråd läggs ut. Detta kan användas för att begränsa överskottet av forumets tittande system i upptagna forum.]]></phrase>
 	<!-- (C) Original: You can limit the amount of notifications that can be triggered by a user watching a forum here. For example, if you select "new threads", users will only be able to choose between no notifications or notifications when a new thread is posted. This can be used to limit the overhead of the forum watching system in busy forums. -->
 
 	<phrase title="forum_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -5973,11 +5973,11 @@ Andra cookies kan komma att placeras av tjänsteleverantörer eller från tredje
 	<!-- (C) Original: If disabled, threads from this forum will never appear in the list of new / unread posts. -->
 
 	<phrase title="if_disabled_users_not_able_post_messages_in_forum" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"
-		><![CDATA[Om den är inaktiverad kommer användarna inte att kunna skicka nya meddelanden eller redigera eller ta bort egna meddelanden. Moderatorer kommer fortfarande att kunna hantera innehållet i detta forum.]]></phrase>
+		><![CDATA[Om den är inaktiverad kommer medlemmarna inte att kunna skicka nya meddelanden eller redigera eller ta bort egna meddelanden. Moderatorer kommer fortfarande att kunna hantera innehållet i detta forum.]]></phrase>
 	<!-- (C) Original: If disabled, users will not be able to post new messages or edit or delete their own messages. Moderators will still be able to manage the contents of this forum. -->
 
 	<phrase title="if_disabled_users_not_given_option_to_create_poll_with_thread" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Om den är inaktiverad får användarna inte möjlighet att skapa en enkät när du lägger in en tråd eller lägger till en senare. Om en tråd med en enkät flyttas in i det här forumet, kommer det att hålla enkäten.]]></phrase>
+		><![CDATA[Om den är inaktiverad får medlemmarna inte möjlighet att skapa en enkät när du lägger in en tråd eller lägger till en senare. Om en tråd med en enkät flyttas in i det här forumet, kommer det att hålla enkäten.]]></phrase>
 	<!-- (C) Original: If disabled, users will not be given the option to create a poll when posting a thread or to add one later. If a thread with a poll is moved into this forum, it will keep the poll. -->
 
 	<phrase title="if_enabled_all_banners_applicable_to_user_will_be_shown" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
@@ -6073,15 +6073,15 @@ Andra cookies kan komma att placeras av tjänsteleverantörer eller från tredje
 	<!-- (C) Original: If selected, this user will be listed publicly as a staff member. -->
 
 	<phrase title="if_selected_users_click_link_email_before_registration_complete" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Om det är valt måste användarna klicka på en länk i ett e-postmeddelande innan registreringen är klar.]]></phrase>
+		><![CDATA[Om det är valt måste medlemmarna klicka på en länk i ett e-postmeddelande innan registreringen är klar.]]></phrase>
 	<!-- (C) Original: If selected, users will need to click on a link in an email before their registration is completed. -->
 
 	<phrase title="if_selected_users_only_view_node_if_granted_permissions" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Om det väljs kan användarna bara visa denna nod om de uttryckligen beviljas behörigheter.]]></phrase>
+		><![CDATA[Om det väljs kan medlemmarna bara visa denna nod om de uttryckligen beviljas behörigheter.]]></phrase>
 	<!-- (C) Original: If selected, users will only be able to view this node if they are explicitly granted permissions. -->
 
 	<phrase title="if_selected_users_required_select_prefix_for_thread" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
-		><![CDATA[Om det är valt måste användarna välja ett prefix när man skapar en tråd eller uppdaterar titeln. Detta kommer inte att verkställas för moderatorer eller vid flyttning av en tråd.]]></phrase>
+		><![CDATA[Om det är valt måste medlemmarna välja ett prefix när man skapar en tråd eller uppdaterar titeln. Detta kommer inte att verkställas för moderatorer eller vid flyttning av en tråd.]]></phrase>
 	<!-- (C) Original: If selected, users will be required to select a prefix when creating a thread or updating its title. This will not be enforced for moderators or when moving a thread. -->
 
 	<phrase title="if_specified_all_visitors_view_using_selected_style" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -6093,11 +6093,11 @@ Andra cookies kan komma att placeras av tjänsteleverantörer eller från tredje
 	<!-- (C) Original: If specified, this will replace the title that displays under your name in your posts. -->
 
 	<phrase title="if_tag_is_block_level_may_want_to_ignore_line_breaks" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"
-		><![CDATA[Om den här taggen är en blocknivå-tagg kan du ignorera 1 eller 2 radbrytningar som kommer efter den här taggen. Detta förhindrar att extra radbrytningar visas om användarna lägger taggen på sin egen rad.]]></phrase>
+		><![CDATA[Om den här taggen är en blocknivå-tagg kan du ignorera 1 eller 2 radbrytningar som kommer efter den här taggen. Detta förhindrar att extra radbrytningar visas om medlemmarna lägger taggen på sin egen rad.]]></phrase>
 	<!-- (C) Original: If this tag is a block-level tag, you may want to ignore 1 or 2 line breaks that come after this tag. This prevents the appearance of extra line breaks being inserted if users put this tag on its own line. -->
 
 	<phrase title="if_unselected_users_will_not_see_this_node_in_list" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Om det inte valts kommer användarna inte att se denna nod i listan. Om webbadressen är känd är den dock fortfarande tillgänglig.]]></phrase>
+		><![CDATA[Om det inte valts kommer medlemmarna inte att se denna nod i listan. Om webbadressen är känd är den dock fortfarande tillgänglig.]]></phrase>
 	<!-- (C) Original: If unselected, users will not see this node in the list. However, if the URL is known, it will still be accessible. -->
 
 	<phrase title="if_user_is_content_moderator_as_well_moderation_privileges_removed" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -6512,7 +6512,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 	<!-- (C) Original: It is not possible to move any of the selected posts to the specified target. -->
 
 	<phrase title="it_is_not_possible_to_prevent_users_selecting_the_default_style" addon_id="XF" version_id="1000034" version_string="1.0.0 Beta 4"
-		><![CDATA[Det är inte möjligt att förhindra att användarna väljer standardstil.]]></phrase>
+		><![CDATA[Det är inte möjligt att förhindra att medlemmarna väljer standardstil.]]></phrase>
 	<!-- (C) Original: It is not possible to prevent users from selecting the default style. -->
 
 	<phrase title="it_is_not_possible_to_remove_default_language" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"
@@ -10146,7 +10146,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
 	<phrase title="option_explain.captcha" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[CAPTCHAs hjälper till att förhindra att spammare registrerar sig eller gör inlägg.]]></phrase>
 	<phrase title="option_explain.categoryOwnPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[När det är aktiverat kan du klicka på en länk till en kategori på en dedikerad sida som bara visar barnen i den kategorin. När deaktiveras, kommer användarna att omdirigeras till hela forumlistan och bläddras till rätt kategori.]]></phrase>
+		><![CDATA[När det är aktiverat kan du klicka på en länk till en kategori på en dedikerad sida som bara visar barnen i den kategorin. När deaktiveras, kommer medlemmarna att omdirigeras till hela forumlistan och bläddras till rätt kategori.]]></phrase>
 	<!-- (C) Original: When enabled, clicking on a link to a category will take you to a dedicated page that only shows the children of that category. When disabled, users will be redirected to the full forum list and scrolled to the correct category. -->
 
 	<phrase title="option_explain.censorCharacter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -10172,7 +10172,7 @@ XenForo will not collect any data without your consent, the data will be stored 
 	<!-- (C) Original: If enabled, emails sent via the "Contact us" form will be sent with the sender's info in the "From" header rather than the "Reply-To" header. Enabling this may help with situations where replying to a contact message does not go to the correct address, but it may not be compatible with all SMTP servers. -->
 
 	<phrase title="option_explain.contactUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Detta är webbadressen till sidan där användarna kommer att kunna kontakta dig. Observera att överlay-alternativet bara fungerar med XenForo-webbadresser, så om du anger en extern webbadress kommer det troligtvis inte att fungera med ett överlägg.]]></phrase>
+		><![CDATA[Detta är webbadressen till sidan där medlemmarna kommer att kunna kontakta dig. Observera att överlay-alternativet bara fungerar med XenForo-webbadresser, så om du anger en extern webbadress kommer det troligtvis inte att fungera med ett överlägg.]]></phrase>
 	<!-- (C) Original: This is the URL to the page where users will be able to contact you. Please note that the overlay option will only work with XenForo URLs, so if you specify an external URL, it most likely will not work with an overlay. -->
 
 	<phrase title="option_explain.conversationPopupExpiryHours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -10537,7 +10537,7 @@ This option requires that the specified bounce account is a catch-all account or
 	<!-- (M) Original: The Unix time stamp of the last privacy policy update. | Computer: Unix-tidsstämpeln för den senaste integritetspolicyuppdateringen. -->
 
 	<phrase title="option_explain.privacyPolicyUrl" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Denna länk kommer att visas i sidfoten och användarna måste godkänna policyen under registrering.]]></phrase>
+		><![CDATA[Denna länk kommer att visas i sidfoten och medlemmarna måste godkänna policyen under registrering.]]></phrase>
 	<!-- (C) Original: This link will be shown in the footer and users will have to agree to the policy during registration. -->
 
 	<phrase title="option_explain.profilePostMaxLength" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"
@@ -10593,7 +10593,7 @@ This option requires that the specified bounce account is a catch-all account or
 	<phrase title="option_explain.searchResultsPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[]]></phrase>
 	<phrase title="option_explain.selectQuotable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Med den här funktionen kan användarna citera meddelanden med hjälp av webbläsarens textvalverktyg.]]></phrase>
+		><![CDATA[Med den här funktionen kan medlemmarna citera meddelanden med hjälp av webbläsarens textvalverktyg.]]></phrase>
 	<!-- (C) Original: This feature enables users to quote snippets of messages by using their browser's text-selection tools. -->
 
 	<phrase title="option_explain.sharedIpsCheckLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -10670,7 +10670,7 @@ This option requires that the specified bounce account is a catch-all account or
 
 	<phrase title="option_explain.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[This link will be shown in the footer and users will have to agree to the medlemsvillkoren during registration.]]></phrase>
-	<!-- (M) Original: This link will be shown in the footer and users will have to agree to the terms and rules during registration. | Computer: Denna länk kommer att visas i sidfoten och användarna måste godkänna villkoren och reglerna vid registrering. -->
+	<!-- (M) Original: This link will be shown in the footer and users will have to agree to the terms and rules during registration. | Computer: Denna länk kommer att visas i sidfoten och medlemmarna måste godkänna villkoren och reglerna vid registrering. -->
 
 	<phrase title="option_explain.tumblrShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[<a href="https://www.tumblr.com/docs/en/share_button" target="_blank"> Tumblr-delningsknappen </a> låter dina medlemmar dela sidor till Tumblr.]]></phrase>
@@ -12896,7 +12896,7 @@ E-post: <a href="mailto:datainspektionen@datainspektionen.se">datainspektionen@d
 	<!-- (C) Original: Private category -->
 
 	<phrase title="private_category_hint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Om vald, kan användarna bara se den här kategorin om de uttryckligen beviljas behörigheter.]]></phrase>
+		><![CDATA[Om vald, kan medlemmarna bara se den här kategorin om de uttryckligen beviljas behörigheter.]]></phrase>
 	<!-- (C) Original: If selected, users will only be able to view this category if they are explicitly granted permissions. -->
 
 	<phrase title="private_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -13346,7 +13346,7 @@ E-post: <a href="mailto:datainspektionen@datainspektionen.se">datainspektionen@d
 	<!-- (C) Original: Register faster using -->
 
 	<phrase title="register_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Registrera nu]]></phrase>
+		><![CDATA[Registrera medlemskap nu]]></phrase>
 	<!-- (C) Original: Register now -->
 
 	<phrase title="register_using_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -13716,29 +13716,19 @@ Anmält innehåll:
 	<!-- (C) Original: Require date of birth -->
 
 	<phrase title="require_email_choice" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Kräver webbplats preferens för webbplatsen]]></phrase>
-	<!-- (C) Original: Require site email preference -->
-
+		><![CDATA[Kräv val ang e-postutskick]]></phrase>
 	<phrase title="require_email_choice_hint" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Om det är valt, måste användarna välja att registrera om man vill ta emot sajt eller inte. Standardvärdet beror på <code>registrationDefaults</code> och medlem kan ändra sin preferens senare.]]></phrase>
-	<!-- (C) Original: If selected, users must choose at registration whether or not to receive site emails. The default value depends on <code>registrationDefaults</code> and users may change their preference later. -->
-
+		><![CDATA[Om det är valt, måste medlemmarna välja i samband med registreringen om de vill ta emot e-postutskick eller inte. Standardvärdet beror på <code>registrationDefaults</code> och medlemmen kan ändra sina preferenser senare.]]></phrase>
 	<phrase title="require_location" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Kräver plats]]></phrase>
-	<!-- (C) Original: Require location -->
-
+		><![CDATA[Kräv platsangivelse]]></phrase>
 	<phrase title="require_registration_manually_approved_admin" addon_id="XF" version_id="1010470" version_string="1.1.4"
 		><![CDATA[Kräv att registreringen ska godkännas manuellt av en administratör]]></phrase>
-	<!-- (C) Original: Require the registration to be manually approved by an admin -->
-
 	<phrase title="require_users_to_select_prefix" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
-		><![CDATA[Kräver att användarna välja ett prefix]]></phrase>
+		><![CDATA[Kräv att medlemmarna ska välja ett prefix]]></phrase>
 	<!-- (C) Original: Require users to select a prefix -->
 
 	<phrase title="required" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Nödvändig]]></phrase>
-	<!-- (C) Original: Required -->
-
+		><![CDATA[Obligatoriskt]]></phrase>
 	<phrase title="required_admin_permission" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Obligatorisk administratörs behörighet]]></phrase>
 	<!-- (C) Original: Required admin permission -->
@@ -19590,7 +19580,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 	<!-- (C) Original: Value match requirements -->
 
 	<phrase title="value_represents_internal_value_for_choice_text_is_displayed" addon_id="XF" version_id="1020270" version_string="1.2.2"
-		><![CDATA[Värdet representerar det interna värdet för valet. Textfältet visas när fältet visas. Du bör inte ändra värdefältet om någon medlem har valt det valet. Om du gör det kommer användarna att förlora sitt val.]]></phrase>
+		><![CDATA[Värdet representerar det interna värdet för valet. Textfältet visas när fältet visas. Du bör inte ändra värdefältet om någon medlem har valt det valet. Om du gör det kommer medlemmarna att förlora sitt val.]]></phrase>
 	<!-- (C) Original: The value represents the internal value for the choice. The text field is shown when the field is displayed. You should not change the value field if any users have selected that choice; if you do, users will lose their selection. -->
 
 	<phrase title="value_style_properties_must_have_specific_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
