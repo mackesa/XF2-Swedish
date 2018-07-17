@@ -3190,19 +3190,19 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- Manuell kontroll. @mackes block börjar här-->
 
 	<phrase title="currency.bnd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Brunei dollars]]></phrase>
+		><![CDATA[Brunei dollar]]></phrase>
 	<!-- (C) Original: Brunei dollars -->
 
 	<phrase title="currency.bob" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Bolivianska bolivierna]]></phrase>
+		><![CDATA[Bolivianska boliviano]]></phrase>
 	<!-- (C) Original: Bolivian bolivianos -->
 
 	<phrase title="currency.brl" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Brasilianska reals]]></phrase>
+		><![CDATA[Brasilianska realer]]></phrase>
 	<!-- (C) Original: Brazilian reals -->
 
 	<phrase title="currency.bwp" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Botswanan sover]]></phrase>
+		><![CDATA[Botswaniska pulas]]></phrase>
 	<!-- (C) Original: Botswanan pulas -->
 
 	<phrase title="currency.byr" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3210,7 +3210,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Belarusian rubles -->
 
 	<phrase title="currency.bzd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Belize dollars]]></phrase>
+		><![CDATA[Belize dollar]]></phrase>
 	<!-- (C) Original: Belize dollars -->
 
 	<phrase title="currency.cad" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3238,15 +3238,15 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Colombian pesos -->
 
 	<phrase title="currency.crc" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Costa Rica kolonner]]></phrase>
+		><![CDATA[Costa Rica coloner]]></phrase>
 	<!-- (C) Original: Costa Rican colóns -->
 
 	<phrase title="currency.cve" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Kap Verde sköldar]]></phrase>
+		><![CDATA[Kap Verde escudos]]></phrase>
 	<!-- (C) Original: Cape Verdean escudos -->
 
 	<phrase title="currency.czk" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Tjeckien korunas]]></phrase>
+		><![CDATA[Tjeckiska koruna]]></phrase>
 	<!-- (C) Original: Czech Republic korunas -->
 
 	<phrase title="currency.djf" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3286,7 +3286,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Pounds sterling -->
 
 	<phrase title="currency.gel" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Georgian var efterfrågan]]></phrase>
+		><![CDATA[Georgian laris]]></phrase>
 	<!-- (C) Original: Georgian laris -->
 
 	<phrase title="currency.ghs" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3298,11 +3298,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Guinean francs -->
 
 	<phrase title="currency.gtq" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Guatemalas quetzals]]></phrase>
+		><![CDATA[Guatemalas quetzal]]></phrase>
 	<!-- (C) Original: Guatemalan quetzals -->
 
 	<phrase title="currency.gyd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Guyanaese dollars]]></phrase>
+		><![CDATA[Guyanaese dollar]]></phrase>
 	<!-- (C) Original: Guyanaese dollars -->
 
 	<phrase title="currency.hkd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3310,23 +3310,23 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Hong Kong dollars -->
 
 	<phrase title="currency.hnl" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Honduras lempiras]]></phrase>
+		><![CDATA[Honduras lempira]]></phrase>
 	<!-- (C) Original: Honduran lempiras -->
 
 	<phrase title="currency.hrk" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Kroatiska kunar]]></phrase>
+		><![CDATA[Kroatiska kuna]]></phrase>
 	<!-- (C) Original: Croatian kunas -->
 
 	<phrase title="currency.huf" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Ungerska forints]]></phrase>
+		><![CDATA[Ungerska forinter]]></phrase>
 	<!-- (C) Original: Hungarian forints -->
 
 	<phrase title="currency.idr" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Indonesiska rupiahs]]></phrase>
+		><![CDATA[Indonesiska rupiah]]></phrase>
 	<!-- (C) Original: Indonesian rupiahs -->
 
 	<phrase title="currency.ils" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Israeliska nya shekels]]></phrase>
+		><![CDATA[Israeliska nya shekel]]></phrase>
 	<!-- (C) Original: Israeli new sheqels -->
 
 	<phrase title="currency.inr" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3342,11 +3342,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Iranian rials -->
 
 	<phrase title="currency.isk" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Islandska kronor]]></phrase>
+		><![CDATA[Isländska kronor]]></phrase>
 	<!-- (C) Original: Icelandic krónur -->
 
 	<phrase title="currency.jmd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Jamaicanska dollar]]></phrase>
+		><![CDATA[Jamaikanska dollar]]></phrase>
 	<!-- (C) Original: Jamaican dollars -->
 
 	<phrase title="currency.jod" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3358,11 +3358,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Japanese yen -->
 
 	<phrase title="currency.kes" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Kenyanska shillings]]></phrase>
+		><![CDATA[Kenyanska shilling]]></phrase>
 	<!-- (C) Original: Kenyan shillings -->
 
 	<phrase title="currency.khr" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Kambodjanska riels]]></phrase>
+		><![CDATA[Kambodjanska riel]]></phrase>
 	<!-- (C) Original: Cambodian riels -->
 
 	<phrase title="currency.kmf" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3370,7 +3370,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Comorian francs -->
 
 	<phrase title="currency.krw" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Sydkoreanska vann]]></phrase>
+		><![CDATA[Sydkoreanska won]]></phrase>
 	<!-- (C) Original: South Korean won -->
 
 	<phrase title="currency.kwd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3414,11 +3414,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Malagasy Ariaries -->
 
 	<phrase title="currency.mkd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Makedonska denarius]]></phrase>
+		><![CDATA[Makedonska denari]]></phrase>
 	<!-- (C) Original: Macedonian denari -->
 
 	<phrase title="currency.mmk" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Myanma kyats]]></phrase>
+		><![CDATA[Myanma kyat]]></phrase>
 	<!-- (C) Original: Myanma kyats -->
 
 	<phrase title="currency.mop" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3470,7 +3470,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: New Zealand dollars -->
 
 	<phrase title="currency.omr" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Omani rials]]></phrase>
+		><![CDATA[Omani rialer]]></phrase>
 	<!-- (C) Original: Omani rials -->
 
 	<phrase title="currency.pab" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3478,7 +3478,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Panamanian balboas -->
 
 	<phrase title="currency.pen" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Peruanska nya sålar]]></phrase>
+		><![CDATA[Peruanska nya soles]]></phrase>
 	<!-- (C) Original: Peruvian nuevos soles -->
 
 	<phrase title="currency.php" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3490,11 +3490,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Pakistani rupees -->
 
 	<phrase title="currency.pln" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Polska zlotys]]></phrase>
+		><![CDATA[Polska zloty]]></phrase>
 	<!-- (C) Original: Polish zlotys -->
 
 	<phrase title="currency.pyg" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Paraguayansk guaranis]]></phrase>
+		><![CDATA[Paraguayansk guarani]]></phrase>
 	<!-- (C) Original: Paraguayan guaranis -->
 
 	<phrase title="currency.qar" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3518,7 +3518,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Rwandan francs -->
 
 	<phrase title="currency.sar" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Saudiarabien]]></phrase>
+		><![CDATA[Saudiarabiska riyaler]]></phrase>
 	<!-- (C) Original: Saudi riyals -->
 
 	<phrase title="currency.sdg" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3526,7 +3526,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Sudanese pounds -->
 
 	<phrase title="currency.sek" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Swedish kronor]]></phrase>
+		><![CDATA[Svenska kronor]]></phrase>
 	<!-- (C) Original: Swedish kronor -->
 
 	<phrase title="currency.sgd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3538,7 +3538,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Somali shillings -->
 
 	<phrase title="currency.std" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[São Toméan dobras]]></phrase>
+		><![CDATA[São Toméan dobra]]></phrase>
 	<!-- (C) Original: São Toméan dobras -->
 
 	<phrase title="currency.syp" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3546,7 +3546,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Syrian pounds -->
 
 	<phrase title="currency.thb" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Thai baht]]></phrase>
+		><![CDATA[Thailändska baht]]></phrase>
 	<!-- (C) Original: Thai baht -->
 
 	<phrase title="currency.tnd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3554,7 +3554,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Tunisian dinars -->
 
 	<phrase title="currency.top" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Tonganska pengar]]></phrase>
+		><![CDATA[Tonganska pa'angar]]></phrase>
 	<!-- (C) Original: Tongan pa'anga -->
 
 	<phrase title="currency.try" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3578,11 +3578,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Ukrainian hryvnias -->
 
 	<phrase title="currency.ugx" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Ugandas shillings]]></phrase>
+		><![CDATA[Ugandas shilling]]></phrase>
 	<!-- (C) Original: Ugandan shillings -->
 
 	<phrase title="currency.usd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[US dollar]]></phrase>
+		><![CDATA[USA dollar]]></phrase>
 	<!-- (C) Original: US dollars -->
 
 	<phrase title="currency.uyu" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3598,7 +3598,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Venezuelan bolívars -->
 
 	<phrase title="currency.vnd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Vietnamesisk dong]]></phrase>
+		><![CDATA[Vietnamesiska dong]]></phrase>
 	<!-- (C) Original: Vietnamese dong -->
 
 	<phrase title="currency.xaf" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3610,7 +3610,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: CFA francs BCEAO -->
 
 	<phrase title="currency.yer" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Yemeni rials]]></phrase>
+		><![CDATA[Yemen rialer]]></phrase>
 	<!-- (C) Original: Yemeni rials -->
 
 	<phrase title="currency.zar" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
@@ -3630,7 +3630,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Currency format must contain at least "{value}" -->
 
 	<phrase title="current_avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Current avatar]]></phrase>
+		><![CDATA[Nuvarande avatar]]></phrase>
 	<!-- (C) Original: Current avatar -->
 
 	<phrase title="current_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3644,9 +3644,9 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<phrase title="current_visitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Aktuella besökare]]></phrase>
 	<!-- (C) Original: Current visitors -->
-
+	
 	<phrase title="custom_bb_code_callback_will_receive_parameters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Denna "call back" kommer att få dessa parametrar: $ tagChildren, $ tagOption, $ tag, array $ options, \ XF \ BbCode \ Renderer \ AbstractRenderer $ renderer.]]></phrase>
+		><![CDATA[Denna "call-back" kommer att få dessa parametrar: $ tagChildren, $ tagOption, $ tag, array $ options, \ XF \ BbCode \ Renderer \ AbstractRenderer $ renderer.]]></phrase>
 	<!-- (C) Original: This callback will receive these parameters: $tagChildren, $tagOption, $tag,  array $options, \XF\BbCode\Renderer\AbstractRenderer $renderer. -->
 
 	<phrase title="custom_bb_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3678,7 +3678,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Custom property -->
 
 	<phrase title="custom_template_out_of_date_edited_recently_no_merge" addon_id="XF" version_id="1020032" version_string="1.2.0 Beta 2"
-		><![CDATA[Den anpassade mallen är föråldrad men har redigerats nyligen än föräldern. Sammanslagning kan endast göras för hand.]]></phrase>
+		><![CDATA[Den anpassade mallen är föråldrad men har redigerats nyligare än föräldern. Sammanslagning kan endast göras för hand.]]></phrase>
 	<!-- (C) Original: The custom template is out of date but has been edited more recently than the parent. Merging can only be done by hand. -->
 
 	<phrase title="custom_thread_fields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3698,7 +3698,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Custom user fields -->
 
 	<phrase title="custom_userfield_criteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Användarfältskriterier]]></phrase>
+		><![CDATA[Användarfältsvillkor]]></phrase>
 	<!-- (C) Original: User field criteria -->
 
 	<phrase title="custom_version" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3738,15 +3738,15 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Data directory -->
 
 	<phrase title="data_passed_into_create_widget_config_should_either_be_array_or_entity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Data som skickats till skapa WidgetConfig ska antingen vara en grupp eller Enhet]]></phrase>
+		><![CDATA[Data som skickats för att skapa WidgetConfig skall antingen vara en grupp eller Enhet]]></phrase>
 	<!-- (C) Original: Data passed into create WidgetConfig should either be an array or Entity -->
 
 	<phrase title="data_portability_export_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[På den här sidan kan du ladda ner en medlems personuppgifter i XML-format för att överföra den data till ett annat system.]]></phrase>
+		><![CDATA[På den här sidan kan du ladda ner en medlems personuppgifter i XML-format för att överföra dem till ett annat system.]]></phrase>
 	<!-- (C) Original: This page will allow you to download a user's standard personal information in XML format for the purposes of transferring that data to another system. -->
 
 	<phrase title="data_portability_import_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"
-		><![CDATA[Den nya medlemmen kommer att skickas en begäran om återställning av lösenord till deras e-postadress innan de kan använda sitt konto.]]></phrase>
+		><![CDATA[Den nya medlemmen kommer till sin e-postadress att få en begäran  om återställning av lösenord innan kontot kan användas.]]></phrase>
 	<!-- (C) Original: The new user will be sent a password reset request to their email address before being able to use their account. -->
 
 	<phrase title="data_to_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
@@ -3778,11 +3778,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Date range -->
 
 	<phrase title="date_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Datum Tid]]></phrase>
+		><![CDATA[Datum och Tid]]></phrase>
 	<!-- (C) Original: Date / time -->
 
 	<phrase title="date_x_at_time_y" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[{date} kl {time}]]></phrase>
+		><![CDATA[{date} klockan {time}]]></phrase>
 	<!-- (C) Original: {date} at {time} -->
 
 	<phrase title="day" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -3794,7 +3794,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Friday -->
 
 	<phrase title="day_friday_short" addon_id="XF" global_cache="1" version_id="0" version_string=""
-		><![CDATA[Fri]]></phrase>
+		><![CDATA[Fre]]></phrase>
 	<!-- (C) Original: Fri -->
 
 	<phrase title="day_monday" addon_id="XF" global_cache="1" version_id="0" version_string=""
@@ -3802,11 +3802,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Monday -->
 
 	<phrase title="day_monday_short" addon_id="XF" global_cache="1" version_id="0" version_string=""
-		><![CDATA[Min]]></phrase>
+		><![CDATA[Mån]]></phrase>
 	<!-- (C) Original: Mon -->
 
 	<phrase title="day_of_month" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Månadens dag]]></phrase>
+		><![CDATA[Dag i månaden]]></phrase>
 	<!-- (C) Original: Day of the month -->
 
 	<phrase title="day_of_week" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3826,7 +3826,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Sunday -->
 
 	<phrase title="day_sunday_short" addon_id="XF" global_cache="1" version_id="0" version_string=""
-		><![CDATA[Sol]]></phrase>
+		><![CDATA[Sön]]></phrase>
 	<!-- (C) Original: Sun -->
 
 	<phrase title="day_thursday" addon_id="XF" global_cache="1" version_id="0" version_string=""
@@ -3834,7 +3834,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Thursday -->
 
 	<phrase title="day_thursday_short" addon_id="XF" global_cache="1" version_id="0" version_string=""
-		><![CDATA[Samling]]></phrase>
+		><![CDATA[Tors]]></phrase>
 	<!-- (C) Original: Thu -->
 
 	<phrase title="day_tuesday" addon_id="XF" global_cache="1" version_id="0" version_string=""
@@ -3842,7 +3842,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Tuesday -->
 
 	<phrase title="day_tuesday_short" addon_id="XF" global_cache="1" version_id="0" version_string=""
-		><![CDATA[Din]]></phrase>
+		><![CDATA[Tis]]></phrase>
 	<!-- (C) Original: Tue -->
 
 	<phrase title="day_wednesday" addon_id="XF" global_cache="1" version_id="0" version_string=""
@@ -3854,7 +3854,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Wed -->
 
 	<phrase title="day_x_at_time_y" addon_id="XF" global_cache="1" version_id="0" version_string=""
-		><![CDATA[{day} kl {time}]]></phrase>
+		><![CDATA[Ursprunglig {day} klockan {time}]]></phrase>
 	<!-- (C) Original: {day} at {time} -->
 
 	<phrase title="days" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
@@ -3870,11 +3870,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Deactivate -->
 
 	<phrase title="debug_mode_is_enabled_changes_will_be_overwritten" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Felsökningsläget är aktiverat, därför kommer eventuella ändringar i huvudversionen av denna tilläggs data att skrivas över.]]></phrase>
+		><![CDATA[Felsökningsläget är aktiverat, därför kommer eventuella ändringar i huvudversionen av detta tilläggs data att skrivas över.]]></phrase>
 	<!-- (C) Original: Debug mode is enabled therefore any changes to the master version of this add-on's data will be overwritten. -->
 
 	<phrase title="decimal_point_character" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Decimaltalskaraktär]]></phrase>
+		><![CDATA[Decimaltalstecken]]></phrase>
 	<!-- (C) Original: Decimal point character -->
 
 	<phrase title="default" addon_id="XF" version_id="1000013" version_string="1.0.0 Alpha 3"
@@ -3890,15 +3890,15 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Default text -->
 
 	<phrase title="default_thread_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Standard trådprefix]]></phrase>
+		><![CDATA[Standard prefix för tråden]]></phrase>
 	<!-- (C) Original: Default thread prefix -->
 
 	<phrase title="default_thread_prefix_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Du kan ange ett trådprefix som automatiskt ska väljas när besökare skapar nya trådar i det här forumet. Det valda prefixet <b> måste </ b> också väljas i listan "Tillgängliga prefix" ovan.]]></phrase>
+		><![CDATA[Du kan ange ett trådprefix som automatiskt väljs när besökare skapar nya trådar i det här forumet. Det valda prefixet <b> måste </ b> också väljas i listan "Tillgängliga prefix" ovan.]]></phrase>
 	<!-- (C) Original: You may specify a thread prefix to be automatically selected when visitors create new threads in this forum. The selected prefix <b>must</b> also be selected in the 'Available prefixes' list above. -->
 
 	<phrase title="default_thread_prompt" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Standard trådprompt]]></phrase>
+		><![CDATA[Standard prompt för trådar]]></phrase>
 	<!-- (C) Original: Default thread prompt -->
 
 	<phrase title="default_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3906,7 +3906,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Default title -->
 
 	<phrase title="default_url" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Standardwebbadress]]></phrase>
+		><![CDATA[Standard webbadress]]></phrase>
 	<!-- (C) Original: Default URL -->
 
 	<phrase title="default_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -3930,11 +3930,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Definition ID -->
 
 	<phrase title="delay" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Dröjsmål]]></phrase>
+		><![CDATA[Fördröjning]]></phrase>
 	<!-- (C) Original: Delay -->
 
 	<phrase title="delay_duration_milliseconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Fördröjningstid (millisekunder)]]></phrase>
+		><![CDATA[Fördröjning i millisekunder]]></phrase>
 	<!-- (C) Original: Delay duration (milliseconds) -->
 
 	<phrase title="delete" addon_id="XF" global_cache="1" version_id="0" version_string=""
@@ -3974,23 +3974,23 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Delete the index before rebuilding -->
 
 	<phrase title="delete_poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Radera menyn]]></phrase>
+		><![CDATA[Radera undersökningen]]></phrase>
 	<!-- (C) Original: Delete poll -->
 
 	<phrase title="delete_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Radera inlägg]]></phrase>
+		><![CDATA[Radera inlägget]]></phrase>
 	<!-- (C) Original: Delete post -->
 
 	<phrase title="delete_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ta bort inlägg]]></phrase>
+		><![CDATA[Ta bort inläggen]]></phrase>
 	<!-- (C) Original: Delete posts -->
 
 	<phrase title="delete_profile_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ta bort profilpost]]></phrase>
+		><![CDATA[Ta bort profilinformationen]]></phrase>
 	<!-- (C) Original: Delete profile post -->
 
 	<phrase title="delete_profile_post_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ta bort profil efter kommentar]]></phrase>
+		><![CDATA[Ta bort profilens kommentar]]></phrase>
 	<!-- (C) Original: Delete profile post comment -->
 
 	<phrase title="delete_spammers_messages" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
@@ -4006,7 +4006,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Delete the content -->
 
 	<phrase title="delete_this_categorys_children" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ta bort den här kategorin barn]]></phrase>
+		><![CDATA[Ta bort den här kategorins barn]]></phrase>
 	<!-- (C) Original: Delete this category's children -->
 
 	<phrase title="delete_this_nodes_children" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4040,11 +4040,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Deleted member -->
 
 	<phrase title="deleting" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
-		><![CDATA[Radera]]></phrase>
+		><![CDATA[Raderar]]></phrase>
 	<!-- (C) Original: Deleting -->
 
 	<phrase title="deleting_parent_also_deletes_children" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Om du raderar det här objektet raderas även alla barnets föremål. Om du inte vill att detta ska hända, tilldela alla barnobjekt ett nytt föräldraobjekt innan du fortsätter med den här raderingen.]]></phrase>
+		><![CDATA[Om du raderar det här objektet raderas även alla barnets objekt. Om du inte vill att detta ska hända, tilldela alla barnobjekt ett nytt föräldraobjekt innan du fortsätter med den här raderingen.]]></phrase>
 	<!-- (C) Original: Deleting this item will also delete any and all of its child items. If you do not want this to happen, assign any child items a new parent item before continuing with this deletion. -->
 
 	<phrase title="deletion_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4054,7 +4054,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<phrase title="demote_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Degradera medlem]]></phrase>
 	<phrase title="dependent_upon_show_custom_fields_style_property" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"
-		><![CDATA[Det här fältet visas bara i meddelandes användarinformation om egenskapen Egenskaper för anpassade fält är aktiverad i inställningen "Meddelande användarinformation" (MessageUserElements), i "Meddelanden" -gruppen.]]></phrase>
+		><![CDATA[Det här fältet visas bara i meddelandes användarinformation om egenskapen för anpassade fält är aktiverad i inställningen "Meddelande användarinformation" (MessageUserElements), i "Meddelanden" gruppen.]]></phrase>
 	<!-- (C) Original: This field will only be shown on message user info if the 'Custom fields' style property is enabled within the 'Message user info elements' (messageUserElements) setting, in the 'Messages' group. -->
 
 	<phrase title="depends_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4062,15 +4062,15 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Depends on -->
 
 	<phrase title="depends_on_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Inmatning av ett fastighetsnamn här kommer att inaktivera den här egenskapen om den angivna egenskapen är inaktiverad. Den angivna egendomen måste vara en boolesisk egendom i samma grupp som den här egenskapen.]]></phrase>
+		><![CDATA[Inmatning av ett objektnamn här kommer att inaktivera den här egenskapen om det angivna objektet är inaktiverad. Den angivna objektet måste vara en boolesisk egendom i samma grupp som den här egenskapen.]]></phrase>
 	<!-- (C) Original: Entering a property name here will disable this property if the named property is disabled. The named property must be a boolean property in the same group as this property. -->
 
 	<phrase title="depends_on_permission_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Beror på behörighets-ID]]></phrase>
+		><![CDATA[Beror på behörighets ID]]></phrase>
 	<!-- (C) Original: Depends on permission ID -->
 
 	<phrase title="descending" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Nedåtgående]]></phrase>
+		><![CDATA[Fallande]]></phrase>
 	<!-- (C) Original: Descending -->
 
 	<phrase title="description" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -4087,10 +4087,10 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 
 	<phrase title="destination_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Destination forum]]></phrase>
-	<!-- (C) Original: Destination forum -->
+	<!-- (C) Original: Destinations forum -->
 
 	<phrase title="destination_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Destinationsgänga]]></phrase>
+		><![CDATA[Destinations tråd]]></phrase>
 	<!-- (C) Original: Destination thread -->
 
 	<phrase title="details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4098,7 +4098,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Details -->
 
 	<phrase title="details_of_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Detaljer om varning]]></phrase>
+		><![CDATA[Varningsdetaljer]]></phrase>
 	<!-- (C) Original: Details of warning -->
 
 	<phrase title="developer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4106,7 +4106,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Developer -->
 
 	<phrase title="development_mode_is_enabled_and_dev_output_is_available" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Utvecklingsläge är aktiverat och dev-utdata är tillgänglig. Om tilläggsdata inte har exporterats nyligen, kan det vara föråldrat och den här åtgärden kan orsaka dataförlust. Överväg att exportera först eller använd ett CLI-kommando.]]></phrase>
+		><![CDATA[Utvecklingsläge är aktiverat och enhetens utdata är tillgänglig. Om tilläggsdata inte har exporterats nyligen, kan det vara föråldrat och den här åtgärden kan orsaka dataförlust. Överväg att exportera först eller använd ett CLI-kommando.]]></phrase>
 	<!-- (C) Original: Development mode is enabled and dev output is available. If the add-on data has not been exported recently, it may be out of date and this action may cause data loss. Consider exporting first, or using a CLI command. -->
 
 	<phrase title="development_output_is_available_import_data_from_output_directory" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4114,7 +4114,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Development output is available, import data from _output directory? -->
 
 	<phrase title="device_trusted_until_x_disable_desc" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Den här enheten är för närvarande betrodd till {until}. Du behöver inte slutföra tvåstegsverifiering från den här enheten till dess. Du kan välja att sluta lita på den här enheten så att du blir uppmanad att slutföra tvåstegs verifiering när du loggar in nästa gång.]]></phrase>
+		><![CDATA[Den här enheten är för närvarande betrodd till {until}. Du behöver inte slutföra tvåstegsverifiering från den här enheten innan  dess. Du kan välja att sluta lita på den här enheten så att du blir uppmanad att slutföra tvåstegs verifiering när du loggar in nästa gång.]]></phrase>
 	<!-- (C) Original: This device is currently trusted until {until}. You will not need to complete two-step verification from this device until then. You may choose to stop trusting this device so that you will be prompted to complete two-step verification when you next log in. -->
 
 	<phrase title="did_not_complete_the_captcha_verification_properly" addon_id="XF" version_id="0" version_string=""
@@ -4180,7 +4180,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Disabled user upgrades -->
 
 	<phrase title="disabled_user_upgrades_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Inaktiverar de valda medlemsuppgraderingarna medan den här uppgraderingen är aktiv. Det här är till hjälp om du har nivåer av samma uppgradering och inte vill att folk ska köpa flera nivåer.]]></phrase>
+		><![CDATA[Inaktiverar de valda medlemsuppgraderingarna medan denna uppgraderingen är aktiv. Det här är till hjälp om du har nivåer av samma uppgradering och inte vill att folk ska köpa flera nivåer.]]></phrase>
 	<!-- (C) Original: Disables the selected user upgrades while this upgrade is active. This is helpful if you have tiers of the same upgrade and don't want people to buy multiple levels. -->
 
 	<phrase title="disallowed_words_in_tags" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -4188,7 +4188,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Disallowed words in tags -->
 
 	<phrase title="disallowed_words_in_user_names" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Tillåten text i användarnamn]]></phrase>
+		><![CDATA[Otillåten text i användarnamn]]></phrase>
 	<!-- (C) Original: Disallowed text in user names -->
 
 	<phrase title="disassociate_x_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4196,7 +4196,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Disassociate {provider} account -->
 
 	<phrase title="disassociating_with_all_accounts_cause_password_emailed_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"
-		><![CDATA[Att disassociera med alla externa konton gör att ett lösenord genereras för ditt konto och skickas till {email}.]]></phrase>
+		><![CDATA[Disassociering med alla externa konton gör att ett lösenord genereras för ditt konto och skickas till {email}.]]></phrase>
 	<!-- (C) Original: Disassociating with all external accounts will cause a password to be generated for your account and emailed to {email}. -->
 
 	<phrase title="discourage" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"
@@ -4226,7 +4226,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Dismiss -->
 
 	<phrase title="dismiss_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Avvisa anslag]]></phrase>
+		><![CDATA[Avvisa notis]]></phrase>
 	<!-- (C) Original: Dismiss notice -->
 
 	<phrase title="display_children_in_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4242,7 +4242,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Display criteria -->
 
 	<phrase title="display_duration_milliseconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Visningstid (millisekunder)]]></phrase>
+		><![CDATA[Visningstid i millisekunder]]></phrase>
 	<!-- (C) Original: Display duration (milliseconds) -->
 
 	<phrase title="display_html_replacement_when_empty" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
@@ -4274,7 +4274,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Display location -->
 
 	<phrase title="display_node_title_instead_of_navigation_entry_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Visa nodtitel istället för navigeringsnavnet]]></phrase>
+		><![CDATA[Visa nodtitel istället för navigeringstiteln]]></phrase>
 	<!-- (C) Original: Display the node title instead of the navigation entry title -->
 
 	<phrase title="display_order" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4282,7 +4282,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Display order -->
 
 	<phrase title="display_results_as_threads" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Visa resultat som trådar]]></phrase>
+		><![CDATA[Visa resultaten som trådar]]></phrase>
 	<!-- (C) Original: Display results as threads -->
 
 	<phrase title="display_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4290,19 +4290,19 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Display statistics -->
 
 	<phrase title="display_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Display stil]]></phrase>
+		><![CDATA[Visa stil]]></phrase>
 	<!-- (C) Original: Display style -->
 
 	<phrase title="display_styling" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Display styling]]></phrase>
+		><![CDATA[Visa design]]></phrase>
 	<!-- (C) Original: Display styling -->
 
 	<phrase title="display_styling_priority" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Display styling priority]]></phrase>
+		><![CDATA[Visa design prioritet]]></phrase>
 	<!-- (C) Original: Display styling priority -->
 
 	<phrase title="display_this_group_in_debug_mode_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Visa endast denna grupp i felsökningsläge]]></phrase>
+		><![CDATA[Visa denna grupp endast i felsökningsläge]]></phrase>
 	<!-- (C) Original: Display this group in debug mode only -->
 
 	<phrase title="display_this_navigation_in_debug_mode_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -4376,7 +4376,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Don't send notifications -->
 
 	<phrase title="downgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Nedvärdera]]></phrase>
+		><![CDATA[Nedgradera]]></phrase>
 	<!-- (C) Original: Downgrade -->
 
 	<phrase title="downgrading_existing_add_on_is_not_supported" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4399,12 +4399,12 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 		><![CDATA[Utkast sparat framgångsrikt.]]></phrase>
 	<!-- (C) Original: Draft saved successfully. -->
 
-	<phrase title="drafts" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
+	pphrase title="drafts" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
 		><![CDATA[Utkast]]></phrase>
 	<!-- (C) Original: Drafts -->
 
 	<phrase title="drag_handle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Drag handle]]></phrase>
+		><![CDATA[Dragverktyg]]></phrase>
 	<!-- (C) Original: Drag handle -->
 
 	<phrase title="drag_icon_to_rearrange_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4412,11 +4412,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Drag the icon to rearrange the messages. -->
 
 	<phrase title="drag_this_image_to_crop_it_then_click_update_avatar_to_confirm" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"
-		><![CDATA[Dra den här bilden för att beskära den och klicka sedan på <i> Okej </ i> för att bekräfta, eller ladda upp en ny avatar nedan.]]></phrase>
+		><![CDATA[Dra den här bilden för att beskära den och klicka sedan på <i>Ok</i> för att bekräfta, eller ladda upp en ny avatar nedan.]]></phrase>
 	<!-- (C) Original: Drag this image to crop it, then click <i>Okay</i> to confirm, or upload a new avatar below. -->
 
 	<phrase title="drop_down_selection" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Fäll ned valet]]></phrase>
+		><![CDATA[Rullgardinsmeny]]></phrase>
 	<!-- (C) Original: Drop down selection -->
 
 	<phrase title="drop_image" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"
@@ -4452,7 +4452,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit advertising position -->
 
 	<phrase title="edit_avatar" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Edit avatar]]></phrase>
+		><![CDATA[Redigera avatar]]></phrase>
 	<!-- (C) Original: Edit avatar -->
 
 	<phrase title="edit_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4478,7 +4478,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit code event -->
 
 	<phrase title="edit_code_event_listener" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera kodhändelse lyssnare]]></phrase>
+		><![CDATA[Redigera lyssnare för kodhändelse]]></phrase>
 	<!-- (C) Original: Edit code event listener -->
 
 	<phrase title="edit_content_type_field" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4542,7 +4542,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit link -->
 
 	<phrase title="edit_link_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera länkforum]]></phrase>
+		><![CDATA[Redigera länk forum]]></phrase>
 	<!-- (C) Original: Edit link forum -->
 
 	<phrase title="edit_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4558,7 +4558,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit message in conversation -->
 
 	<phrase title="edit_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera moderatorn]]></phrase>
+		><![CDATA[Redigera moderator]]></phrase>
 	<!-- (C) Original: Edit moderator -->
 
 	<phrase title="edit_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4566,11 +4566,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit navigation -->
 
 	<phrase title="edit_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ändra anslag]]></phrase>
+		><![CDATA[Ändra notis]]></phrase>
 	<!-- (C) Original: Edit notice -->
 
 	<phrase title="edit_option" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera alternativet]]></phrase>
+		><![CDATA[Redigera alternativ]]></phrase>
 	<!-- (C) Original: Edit option -->
 
 	<phrase title="edit_option_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4594,7 +4594,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit phrase -->
 
 	<phrase title="edit_poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redig pollen]]></phrase>
+		><![CDATA[Redigera poll]]></phrase>
 	<!-- (C) Original: Edit poll -->
 
 	<phrase title="edit_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4614,7 +4614,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit profile post -->
 
 	<phrase title="edit_profile_post_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera profilpost kommentar]]></phrase>
+		><![CDATA[Redigera profilens inläggs kommentar]]></phrase>
 	<!-- (C) Original: Edit profile post comment -->
 
 	<phrase title="edit_promotion" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4622,15 +4622,15 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit promotion -->
 
 	<phrase title="edit_prompt" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera snabbt]]></phrase>
+		><![CDATA[Redigera prompt]]></phrase>
 	<!-- (C) Original: Edit prompt -->
 
 	<phrase title="edit_prompt_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigera snabb grupp]]></phrase>
+		><![CDATA[Redigera prompt grupp]]></phrase>
 	<!-- (C) Original: Edit prompt group -->
 
 	<phrase title="edit_property" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ändra egenskapen]]></phrase>
+		><![CDATA[Redigera egenskapen]]></phrase>
 	<!-- (C) Original: Edit property -->
 
 	<phrase title="edit_property_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4658,7 +4658,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit signature -->
 
 	<phrase title="edit_silently" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
-		><![CDATA[Ändra tyst]]></phrase>
+		><![CDATA[Redigera tyst]]></phrase>
 	<!-- (C) Original: Edit silently -->
 
 	<phrase title="edit_smilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4674,7 +4674,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edit style -->
 
 	<phrase title="edit_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Edit tag]]></phrase>
+		><![CDATA[Redigera tagg]]></phrase>
 	<!-- (C) Original: Edit tag -->
 
 	<phrase title="edit_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4748,11 +4748,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Edited by {name} -->
 
 	<phrase title="editing_master_embed_html_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Du redigerar för närvarande "Master" -versionen av denna mall. Ändringar kan inte återspeglas i modifierade barnstilar.]]></phrase>
+		><![CDATA[Du redigerar för närvarande "Master" -versionen av denna mall. Ändringar kanske inte återspeglas i modifierade barnstilar.]]></phrase>
 	<!-- (C) Original: You are currently editing the "Master" version of this template. Changes may not be reflected in modified child styles. -->
 
 	<phrase title="editor_icon" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Redigeringsikon]]></phrase>
+		><![CDATA[Redigering ikon]]></phrase>
 	<!-- (C) Original: Editor icon -->
 
 	<phrase title="ellipsis_and_x_more" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4760,7 +4760,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: ... and {count} more. -->
 
 	<phrase title="ellipsis_character" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ellipsis karaktär]]></phrase>
+		><![CDATA[Ellips karaktär]]></phrase>
 	<!-- (C) Original: Ellipsis character -->
 
 	<phrase title="else_if_tag_found_after_else_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4774,7 +4774,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<phrase title="email_address" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"
 		><![CDATA[E-postadress]]></phrase>
 	<phrase title="email_address_contains" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"
-		><![CDATA[Medlemmens e-postadress innehåller]]></phrase>
+		><![CDATA[E-postadress innehåller]]></phrase>
 	<phrase title="email_address_you_entered_appears_have_typo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[E-postadressen du skrev in verkar inte vara korrekt. Var god kontrollera att du angivit en korrekt e-postadress.]]></phrase>
 	<phrase title="email_address_you_entered_has_been_banned_by_administrator" addon_id="XF" version_id="0" version_string=""
@@ -4792,7 +4792,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Email bounce log -->
 
 	<phrase title="email_changed_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[<p>{username},</p><p>Your email at {board} was recently changed to {new}. If you made this change, you may ignore this message.</p><p>If you did not request this change, please log in and change your password and email address. If you are unable to do this, please contact an administrator.</p><p>Your email was changed by the IP {ip}.</p>]]></phrase>
+		><![CDATA[<p>{username},</p><p>Din e-post på {board} ändadesnyligen till {new}. Om du gjorde denna förändring, kan du ignorera dettameddelandet.</p><p>Om du inte begärt denna ändring, vänligen logga in och ändra ditt lösenord och din E-postadress. Om du inte kan ändra, vänligen kontakta en administratör.</p><p>Din E-post ändrades från IP-adress {ip}.</p>]]></phrase>
 	<phrase title="email_changed_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[{board} - E-post ändrats]]></phrase>
 	<!-- (C) Original: {board} - Email changed -->
@@ -4802,11 +4802,11 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Email changed to {email} -->
 
 	<phrase title="email_confirmation_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[E-postbekräftelsekod]]></phrase>
+		><![CDATA[E-post bekräftelsekod]]></phrase>
 	<!-- (C) Original: Email confirmation code -->
 
 	<phrase title="email_conflicts" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"
-		><![CDATA[E-postkonflikter]]></phrase>
+		><![CDATA[E-post konflikter]]></phrase>
 	<!-- (C) Original: Email conflicts -->
 
 	<phrase title="email_conversation_notifications" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4822,7 +4822,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Email format -->
 
 	<phrase title="email_has_been_sent_to_x_with_code" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Ett e-postmeddelande har skickats till <b> {email} </ b> med en enda användarkod. Vänligen ange den koden för att fortsätta.]]></phrase>
+		><![CDATA[Ett e-postmeddelande har skickats till <b> {email} </ b> med en användarkod. Vänligen ange den koden för att fortsätta.]]></phrase>
 	<!-- (C) Original: An email has been sent to <b>{email}</b> with a single-use code. Please enter that code to continue. -->
 
 	<phrase title="email_invalid_bounced" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"
@@ -4862,7 +4862,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Email transport class -->
 
 	<phrase title="email_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[E-posta medlemmar]]></phrase>
+		><![CDATA[E-post medlemmar]]></phrase>
 	<!-- (C) Original: Email users -->
 
 	<phrase title="email_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
@@ -4874,7 +4874,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: The email was sent successfully with no errors. -->
 
 	<phrase title="emailing" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[E-mailar]]></phrase>
+		><![CDATA[Sänder E-mail]]></phrase>
 	<!-- (C) Original: Emailing -->
 
 	<phrase title="emails" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
@@ -4886,18 +4886,18 @@ If you have edited these files yourself, you may ignore this message, otherwise 
 	<!-- (C) Original: Emails bounced -->
 
 	<phrase title="embed_html_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Bädda in HTML-"call back"]]></phrase>
+		><![CDATA[Bädda in HTML-"call-back"]]></phrase>
 	<!-- (C) Original: Embed HTML callback -->
 
 	<phrase title="embed_html_callback_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[This optional callback may be used to completely override the standard embedHTML output method, allowing more advanced manipulation.<br /><br />
+		><![CDATA[Denna valbara "call-back" kan användas för att fullständigt inaktivera standardinställningen för inbäddad HTML, detta för att tillåta mer avancerad manipulation.<br /><br />
 Your callback should return an HTML string, and have a signature as follows:<br /><br /><code>public static function myCallback($mediaKey, array $site, $siteId)</code>]]></phrase>
 	<phrase title="embed_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Bädda in mall]]></phrase>
 	<!-- (C) Original: Embed template -->
 
 	<phrase title="embedded_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Embedded media]]></phrase>
+		><![CDATA[Inbäddad media]]></phrase>
 	<!-- (C) Original: Embedded media -->
 
 	<phrase title="embedded_youtube_player_would_appear_here" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
@@ -4909,7 +4909,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Empty values are always allowed. -->
 
 	<phrase title="enable" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
-		><![CDATA[Gör det möjligt]]></phrase>
+		><![CDATA[Aktivera]]></phrase>
 	<!-- (C) Original: Enable -->
 
 	<phrase title="enable_alerts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4929,7 +4929,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Requires domain verification using the <a href="https://dashboard.stripe.com/account/apple_pay" target="_blank">Apple Pay page</a> in your Stripe Dashboard. -->
 
 	<phrase title="enable_automated_bounced_email_handler" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"
-		><![CDATA[Aktivera automatiserad avstämd e-posthanterare]]></phrase>
+		><![CDATA[Aktivera automatiserad studsande e-posthanterare]]></phrase>
 	<!-- (C) Original: Enable automated bounced email handler -->
 
 	<phrase title="enable_cache_and_cache_for_x_minutes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4941,7 +4941,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Enable callback execution -->
 
 	<phrase title="enable_disable_route_filter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Aktivera / inaktivera rutefilter]]></phrase>
+		><![CDATA[Aktivera / inaktivera ruttfilter]]></phrase>
 	<!-- (C) Original: Enable / disable route filter -->
 
 	<phrase title="enable_disable_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4955,7 +4955,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<phrase title="enable_email_notification" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
 		><![CDATA[Aktivera e-postbevakning]]></phrase>
 	<phrase title="enable_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Aktivera förlängning]]></phrase>
+		><![CDATA[Aktivera tillval]]></phrase>
 	<!-- (C) Original: Enable extension -->
 
 	<phrase title="enable_manual_approval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4977,7 +4977,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Enable 'People you follow' row -->
 
 	<phrase title="enable_promotion_for_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Aktivera kampanj för medlem]]></phrase>
+		><![CDATA[Aktivera kampanj för användare]]></phrase>
 	<!-- (C) Original: Enable promotion for user -->
 
 	<phrase title="enable_registration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -4993,7 +4993,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Enable 'Staff online' block -->
 
 	<phrase title="enable_sub_category_notifications" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Aktivera underkategori-meddelanden]]></phrase>
+		><![CDATA[Aktivera underkategori-notiser]]></phrase>
 	<!-- (C) Original: Enable sub-category notifications -->
 
 	<phrase title="enabled" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"
@@ -5013,7 +5013,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: End date -->
 
 	<phrase title="engaged_in_conversation" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Engagerade i konversation]]></phrase>
+		><![CDATA[Upptagen i konversation]]></phrase>
 	<!-- (C) Original: Engaged in conversation -->
 
 	<phrase title="enter_display_order_relative_to_other_ads_in_same_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -5021,7 +5021,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Enter a display order relative to other ads in the same position. -->
 
 	<phrase title="enter_email_address_of_gravatar_you_want_to_use" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ange e-postadressen till Gravatar du vill använda.]]></phrase>
+		><![CDATA[Ange E-postadressen till Gravatar du vill använda.]]></phrase>
 	<!-- (C) Original: Enter the email address of the Gravatar you want to use. -->
 
 	<phrase title="enter_id_where_you_want_user_entered_media_id_to_be_used" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -5029,7 +5029,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Enter {$id} where you want the user-entered media ID to be used. -->
 
 	<phrase title="enter_media_url" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
-		><![CDATA[Ange mediaadress]]></phrase>
+		><![CDATA[Ange media URL]]></phrase>
 	<!-- (C) Original: Enter media URL -->
 
 	<phrase title="enter_multiple_values_to_replace_on_separate_lines" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"
@@ -5037,7 +5037,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: You may enter multiple text values to replace by putting them on separate lines. -->
 
 	<phrase title="enter_name_of_existing_user_conversation_should_be_started_by" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"
-		><![CDATA[Ange namnet på en befintlig medlem. Konversationen bör startas av.]]></phrase>
+		><![CDATA[Ange namnet på en befintlig medlem som konversationen skall startas av.]]></phrase>
 	<!-- (C) Original: Enter the name of an existing user the conversation should be started by. -->
 
 	<phrase title="enter_page_title_format" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
@@ -5069,7 +5069,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: An error occurred while connecting with {provider}. Error: {error} -->
 
 	<phrase title="error_occurred_while_creating_stripe_card_token" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[Ett fel uppstod när du skapade ett Stripe-korttoken.]]></phrase>
+		><![CDATA[Ett fel uppstod när du skapade ett Stripe-kort token.]]></phrase>
 	<!-- (C) Original: An error occurred while creating a Stripe card token. -->
 
 	<phrase title="error_occurred_while_creating_stripe_customer" addon_id="XF" version_id="2000570" version_string="2.0.5"
@@ -5105,7 +5105,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<!-- (C) Original: Everyone -->
 
 	<phrase title="everywhere" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"
-		><![CDATA[över~~POS=TRUNC allt~~POS=HEADCOMP]]></phrase>
+	><![CDATA[överallt]]></phrase>
 	<!-- (C) Original: Everywhere -->
 
 	<phrase title="example" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"
